@@ -1,11 +1,9 @@
-
 body{
 background-color: white;
     font-size: 14px;
     font-weight: normal;
     font-family: 'Roboto', sans-serif;
     color: #232323;
-
 }
 .header {
     background-image: url("imgs/duan2.jpg") ;
@@ -27,7 +25,6 @@ background-color: white;
 h1{
     text-align: center ;
     text-decoration:underline #4cae4c  ;
-
 }
 .menu .item{
     float: left;
@@ -35,7 +32,6 @@ h1{
     margin-right: 20px;
     position: relative;
 }
-
 .submenu{
     position: absolute;
     width: 200px;
@@ -43,7 +39,6 @@ h1{
     background-color: white;
     text-align: center;
     padding-right: 60px;
-
     display: none;
 }
 .submenu li{
@@ -73,7 +68,6 @@ h1{
     background: black;
     color: white;
     padding-top: 20px;
-
 }
 
 
