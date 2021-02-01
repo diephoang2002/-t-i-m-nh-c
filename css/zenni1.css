@@ -1,1 +1,3662 @@
-.comp-left-navigation{height:auto}.comp-left-navigation .btn-group{margin-bottom:0;padding:0!important}.comp-left-navigation #skip-left-content{font-size:14px;left:6%;top:1%;padding:4px;position:absolute;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);-webkit-transition:-webkit-transform .3s;transition:-webkit-transform .3s;-o-transition:transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s;z-index:-1}@media (max-width:767px){.comp-left-navigation #skip-left-content{display:none}}.comp-left-navigation #skip-left-content:focus{-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);z-index:1}@media (max-width:767px){.comp-left-navigation .dropdown-toggle.btn-default{width:100%;height:48px;border:1px solid #d8d1ca!important;padding-left:12px;padding-top:12px;padding-bottom:12px;font-family:'Lato Regular';font-weight:400;text-transform:capitalize}.comp-left-navigation .dropdown-toggle.btn-default .bs-caret{display:inline-block;position:absolute;top:0;right:0;width:50px;height:47px;border-left:1px solid #d8d1ca}.comp-left-navigation .dropdown-toggle.btn-default .caret{border-top:7px solid #666;border-left-width:7px;border-right-width:7px;margin-top:18px}}@media (min-width:768px){.comp-left-navigation .dropdown-toggle.btn-default{padding-left:15px}}@media (max-width:330px){.comp-left-navigation .dropdown-toggle.btn-default{padding-left:4px}}.comp-left-navigation.open .dropdown-toggle{border-bottom-color:#d8d1ca}.comp-left-navigation.open .dropdown-toggle .bs-caret .caret{border-top:none;margin-top:-4px;border-bottom:7px dashed}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu){-webkit-box-shadow:none;box-shadow:none;border-color:#d8d1ca}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li.active{display:none}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li>a{color:#007b8f;display:block}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li>a:active,.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li>a:focus,.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li>a:link,.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li>a:visited{text-decoration:none}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li>a:hover{color:#0091a9;text-decoration:underline}@media (min-width:768px){.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu){display:block;position:static}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li>.link-title{color:#007b8f}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li.active{display:block}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li.active>a{color:#666}.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu)>ul>li.active>a.link-title{color:#666}}.comp-left-navigation .dropdown-menu.account-dropdown-menu li.active{display:none}.comp-left-navigation .dropdown-menu.account-dropdown-menu li.active a{cursor:default}.comp-left-navigation .active-option{width:84%;text-align:left}@media (min-width:768px){.comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default{width:100%;height:48px;border:1px solid #d8d1ca!important;padding-left:12px;padding-top:12px;padding-bottom:12px;font-family:'Lato Regular';font-weight:400;text-transform:capitalize}.comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default .bs-caret{display:inline-block;position:absolute;top:0;right:0;width:50px;height:47px;border-left:1px solid #d8d1ca}.comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default .caret{border-top:7px solid #666;border-left-width:7px;border-right-width:7px;margin-top:18px}}@media (min-width:1024px){.comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default{padding-left:15px}}.comp-left-navigation.comp-left-navigation-account .dropdown-menu .account-left-nav-list a:hover{text-decoration:underline}@media (min-width:1024px){.comp-left-navigation.comp-left-navigation-account .dropdown-menu{-webkit-box-shadow:none;box-shadow:none}}@media (min-width:1024px){.comp-left-navigation.comp-left-navigation-account .dropdown-menu{display:block;position:static}.comp-left-navigation.comp-left-navigation-account .dropdown-menu>ul>li>.link-title{color:#666}.comp-left-navigation.comp-left-navigation-account .dropdown-menu>ul>li.active{display:block}.comp-left-navigation.comp-left-navigation-account .dropdown-menu>ul>li.active>a{color:#333}.comp-left-navigation.comp-left-navigation-account .dropdown-menu>ul>li.active>a.link-title{color:#007b8f}}.comp-left-navigation .btn-group.open #account-left-nav-dropdown.dropdown-toggle .caret{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.comp-main-content{min-height:400px;background-image:url(/dev/image/site/zenniLogoBg/zenni-bg-image-ph.jpg);background-repeat:no-repeat;background-position:right bottom;background-attachment:fixed;color:#333;padding-bottom:90px}.page-faq .comp-main-content{min-height:650px}.comp-main-content .main-content-section .h6,.comp-main-content .main-content-section h1{font-size:14px;line-height:1}@media (min-width:768px){.comp-main-content .main-content-section .h6,.comp-main-content .main-content-section h1{font-size:16px}}.comp-main-content .main-content-section#main-tnc h1{font-family:'Tabac G1 Bold';font-weight:400;font-size:36px;line-height:1.23}@media (max-width:767px){.comp-main-content .main-content-section#main-tnc h1{font-size:26px}}.comp-main-content h6{font-size:14px}.comp-main-content h1{font-size:32px;line-height:42px}.comp-main-content p,.comp-main-content ul{font-size:16px;line-height:22px}.comp-main-content #main-faq>h1{font-size:36px;line-height:1.23}@media (max-width:767px){.comp-main-content #main-faq>h1{font-size:26px}}.comp-main-content .accordion>li h3{position:relative;padding-left:25px;font-size:16px;margin-top:11px}@media (max-width:767px){.comp-main-content .accordion>li h3{font-size:16px}}.comp-main-content .accordion>li.active h3{color:#007b8f}@media (min-width:768px){.comp-main-content .accordion>li a:hover h3{color:#007b8f}}@media (min-width:768px){.comp-main-content h6{font-size:16px}.comp-main-content p,.comp-main-content ul{font-size:18px;line-height:24px}}@media (min-width:1024px){.comp-main-content{background-image:url(/dev/image/site/zenniLogoBg/bg-image-lg.jpg)}.comp-main-content h1{font-size:44px;line-height:54px}}.comp-main-content ul>li{line-height:30px}.page-about-zenni .comp-main-content ul>li:before,.page-information-about-zenni .comp-main-content ul>li:before{content:"\f0c8";font-family:'Font Awesome 5 Pro';color:#007b8f;vertical-align:middle;padding-right:10px}.comp-main-content .title-border{width:40px;height:2px}.comp-main-content#comp-information-faq ul>li:before{content:"";padding-right:0}.comp-main-content#comp-information-faq .accordion p img{max-width:100%}#comp-promotional-content .logo-promotional-content{display:inline-block;vertical-align:middle;margin:0 25px 0 0}#comp-promotional-content .logo-promotional-content.logo-fda{background:url(/dev/image/site/information-pages/promotional-content/fda-logo.png) center center;width:45px}#comp-promotional-content .logo-promotional-content.logo-bbb{background:url(/dev/image/site/information-pages/promotional-content/bbb-a.png) center center;width:45px}#comp-promotional-content .logo-promotional-content.logo-customer{background:url(/dev/image/site/information-pages/promotional-content/cutomer-award.png) center center;width:35px}#comp-promotional-content .logo-promotional-content.logo-bbb,#comp-promotional-content .logo-promotional-content.logo-customer,#comp-promotional-content .logo-promotional-content.logo-fda{background-size:100%;background-repeat:no-repeat;height:35px}.comp-promotional-content h2{font-family:'Tabac G1 Bold';font-weight:400;font-size:46px;line-height:1}.comp-promotional-content h2.scaling{font-size:3.90625vw}@media (min-width:1024px){.comp-promotional-content h2.scaling{font-size:3.515625vw}}@media (min-width:1650px){.comp-promotional-content h2.scaling{font-size:2.78787879vw}}@media (max-width:767px){.comp-promotional-content h2{font-size:32px}.comp-promotional-content h2.scaling{font-size:8.53333333vw}}.comp-promotional-content p{font-size:16px}@media (min-width:1024px){.comp-promotional-content p{font-size:11px}}@media (min-width:1650px){.comp-promotional-content p{font-size:18px}}@media (min-width:1650px){#comp-promotional-content .logo-promotional-content{margin:0 35px 0 0}#comp-promotional-content .logo-promotional-content.logo-fda{width:75px}#comp-promotional-content .logo-promotional-content.logo-bbb{width:65px}#comp-promotional-content .logo-promotional-content.logo-customer{width:55px}#comp-promotional-content .logo-promotional-content.logo-bbb,#comp-promotional-content .logo-promotional-content.logo-customer,#comp-promotional-content .logo-promotional-content.logo-fda{height:55px}}.page-information-how-to h2 a.color-gray-darker:visited{color:#333}.page-information-how-to h2 a.color-gray-darker:visited:hover{color:#007b8f}@media (max-width:1023px){.page-information-how-to h2 a.color-gray-darker:visited:hover{color:#333}}.page-information-how-to #comp-left-nav-howto .dropdown-menu>h1{line-height:1.375}#comp-infographics-shop-by-face .titlebox{margin-bottom:64px}#comp-infographics-shop-by-face .titlebox p{font-size:14px}#comp-infographics-shop-by-face .titlebox .header-icon-wrap .header-icon{-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s;width:2em;height:2em}#comp-infographics-shop-by-face .titlebox .header-icon-wrap a{-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s}#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:active,#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover,#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:link,#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:visited{color:#fff}#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover{text-decoration:underline}#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover .header-icon{padding:2px}#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover p{-webkit-transform:translateY(10%);-ms-transform:translateY(10%);transform:translateY(10%)}#comp-infographics-shop-by-face section hr{margin-top:0;border-width:2px}#comp-infographics-shop-by-face section li{list-style:none}#comp-infographics-shop-by-face section li:before{position:absolute;color:#007b8f;content:"\2022";left:25px;font-size:1.6em;margin-top:2px}@media (max-width:767px){#comp-infographics-shop-by-face section li:before{left:18px}}#comp-infographics-shop-by-face section .row-section-top .h3,#comp-infographics-shop-by-face section .row-section-top .h6,#comp-infographics-shop-by-face section .row-section-top h3,#comp-infographics-shop-by-face section .row-section-top h6{height:40px;margin-top:0}#comp-infographics-shop-by-face section .row-section-top .h6,#comp-infographics-shop-by-face section .row-section-top h6{line-height:50px;color:#333}#comp-infographics-shop-by-face section .row-section-top ul{padding-left:25px;margin-bottom:0}#comp-infographics-shop-by-face section .row-images{margin:30px 0;padding:0 15px}@media (min-width:1024px){#comp-infographics-shop-by-face section .row-images{margin:30px 0;padding:0 0}#comp-infographics-shop-by-face section .row-images span:not(.img-mid){width:30%;float:left;padding-left:0;padding-right:0}#comp-infographics-shop-by-face section .row-images .img-mid{width:40%;float:left}#comp-infographics-shop-by-face section .row-images .img-mid img{display:block;margin:0 auto;width:40%}#comp-infographics-shop-by-face section .row-images.row-images-oval{background-color:#cf0d9e}#comp-infographics-shop-by-face section .row-images.row-images-oval .img-mid img{margin-top:7%}#comp-infographics-shop-by-face section .row-images.row-images-round{background-color:#00c8ff}#comp-infographics-shop-by-face section .row-images.row-images-round .img-mid img{margin-top:13%}#comp-infographics-shop-by-face section .row-images.row-images-square{background-color:#811d63}#comp-infographics-shop-by-face section .row-images.row-images-square .img-mid img{margin-top:13%}#comp-infographics-shop-by-face section .row-images.row-images-diamond{background-color:#f65275}#comp-infographics-shop-by-face section .row-images.row-images-diamond .img-mid img{margin-top:5%}#comp-infographics-shop-by-face section .row-images.row-images-pear{background-color:#007b8f}#comp-infographics-shop-by-face section .row-images.row-images-pear .img-mid img{margin-top:5%}#comp-infographics-shop-by-face section .row-images.row-images-heart{background-color:#130087}#comp-infographics-shop-by-face section .row-images.row-images-heart .img-mid img{margin-top:13%}}#comp-infographics-shop-by-face section .frames-flatter .frames-icon-wrap{position:absolute;left:48%;width:5%;margin-top:28px;margin-left:-4px}#comp-infographics-shop-by-face section .frames-flatter .glass-wrap img.glasses{min-height:36px}#comp-infographics-shop-by-face section .frames-flatter .glass-wrap .flatter-text p{line-height:18px}@media (min-width:1024px) and (max-width:1280px){#comp-infographics-shop-by-face section .frames-flatter .glass-wrap .flatter-text p{font-size:16px}}@media (min-width:1024px){#comp-infographics-shop-by-face section .core-col-btn .btn{width:45%}}#comp-infographics-shop-by-face section#section-logo{margin:80px 50px 50px}#comp-infographics-shop-by-face .fadeInUp{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}@-webkit-keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:none;transform:none}}@media (max-width:1649px){#measuring-pd-infographic .main-content-section>h3{text-align:center}}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .tool img{height:100px}@media (max-width:374px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .tool img{height:90px}}@media (min-width:1280px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .tool img{height:160px}}@media (min-width:1024px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .friend{margin-top:2em}}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-list li{font-size:18px;font-weight:400}@media (min-width:1024px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-list li{font-size:24px}}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd h2.fancy span{color:#444}@media (min-width:1024px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd h2.fancy span{font-size:36px}}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-link{padding:12px 10px;font-size:16px;font-weight:600}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel{left:0;-webkit-transform:none;-ms-transform:none;transform:none}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-list li{margin:15px 0 15px}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-text{margin-left:21px;width:69%;font-size:18px;font-weight:500}@media (min-width:1024px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-text{font-size:24px}}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-num{font-size:22px;width:30px;height:30px}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-inner h2{font-size:22px;color:#444}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .friend-measure-your-pd p{font-size:18px}@media (min-width:1024px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .friend-measure-your-pd p{font-size:24px}}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd h3.necessary-tools-heading{font-size:24px;margin-top:0!important}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd hr{border-color:#f6f6f3}@media (max-width:767px){#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd p.learn-how-link{text-align:center}}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd p.learn-how-link a{color:#007b8f}#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd a.color-primary{color:#007b8f}#price-comparison .bdt{border-top:1px solid #007b8f!important}#price-comparison .bdb{border-bottom:1px solid #007b8f!important}#price-comparison .bdl{border-left:1px solid #007b8f!important}#price-comparison .bdr{border-right:1px solid #007b8f!important}@font-face{font-family:"Tabac G1";src:url(/dev/fonts/suitcase_type_foundry_-_tabacg1-webfont.woff2) format("woff2"),url(/dev/fonts/suitcase_type_foundry_-_tabacg1-webfont.woff) format("woff");font-weight:400;font-style:normal}@font-face{font-family:"Tabac G1 Italic";src:url(/dev/fonts/suitcase_type_foundry_-_tabacg1-italic-webfont.woff2) format("woff2"),url(/dev/fonts/suitcase_type_foundry_-_tabacg1-italic-webfont.woff) format("woff");font-weight:400;font-style:italic}@font-face{font-family:"Tabac G1 Medium Bold";src:url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff2) format("woff2"),url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff) format("woff");font-weight:700;font-style:normal}@font-face{font-family:"Tabac G1 Bold";src:url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff2) format("woff2"),url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff) format("woff");font-weight:700;font-style:normal}#kig-wrap *{-webkit-box-sizing:border-box;box-sizing:border-box;font-family:Lato,sans-serif}#kig-wrap .beige{color:#d8d1ca}#kig-wrap .beige-bg{background:#d8d1ca}#kig-wrap .brown{color:#544847}#kig-wrap .midbrown{color:#7a7168}#kig-wrap .midbrown-bg{background:#948a86}#kig-wrap .bluegreen{color:#007b8f}#kig-wrap .bluegreen-bg{background:#007b8f}#kig-wrap .white{color:#fff}#kig-wrap .white-bg{background:#fff}#kig-wrap .darkorange{color:#ce6f40}#kig-wrap .darkorange-bg{background-color:#ce6f40}#kig-wrap .pinkle{color:#f05475}#kig-wrap .pinkle-bg{background:#f05475}#kig-wrap .orange{color:#f7911e}#kig-wrap .orange-bg{background:#f7911e}#kig-wrap .purple{color:#7675b5}#kig-wrap .purple-bg{background:#545f84}#kig-wrap .lightgreen{color:#47d7ac}#kig-wrap .lightgreen-bg{background:#47d7ac}#kig-wrap .lightblue{color:#32c5f4}#kig-wrap .lightblue-bg{background:#32c5f4}#kig-wrap .btn-primary{color:#fff!important}#kig-wrap .btn-secondary{color:#007b8f!important}#kig-wrap .grey{color:#d8d1ca}#kig-wrap .grey-bg{background:#e3e3e3}#kig-wrap h1{font-family:"Tabac G1 Bold",serif;font-weight:600;font-size:24px}#kig-wrap h1 span{font-family:"Tabac G1 Bold",serif;font-size:24px}#kig-wrap h2{font-family:"Tabac G1 Bold",serif;font-size:18px;font-family:"Tabac G1",serif}#kig-wrap h2 span{font-family:"Tabac G1 Bold",serif}#kig-wrap h3{font-family:"Tabac G1 Bold",serif;font-weight:500;font-size:22px;margin-top:0}#kig-wrap h3 span{font-family:"Tabac G1 Bold",serif;font-size:20px}#kig-wrap h5{font-family:"Tabac G1 Bold",serif;font-weight:400}#kig-wrap h5 span{font-family:"Tabac G1 Bold",serif}#kig-wrap h6{font-family:"Tabac G1 Bold",serif}#kig-wrap h6 span{font-family:"Tabac G1 Bold",serif}#kig-wrap h4{font-family:Lato,sans-serif;font-size:11px;font-weight:600}#kig-wrap label{font-size:16px}#kig-wrap p{font-size:16px;font-weight:400}#kig-wrap span{font-size:16px;font-weight:400}#kig-wrap li{font-size:16px}#kig-wrap .fancy{text-align:center}#kig-wrap .fancy span{display:inline-block;position:relative}#kig-wrap .fancy span:after{content:" ";position:absolute;height:8px;border-bottom:2px solid #948a86;top:0;width:25%;left:100%;margin-left:8px}#kig-wrap .fancy span:before{content:" ";position:absolute;height:8px;border-bottom:2px solid #948a86;top:0;width:25%;right:100%;margin-right:8px}#kig-wrap h1.fancy span:after{height:14px}#kig-wrap h1.fancy span:before{height:14px}#kig-wrap h3.fancy span:after{display:none}#kig-wrap h3.fancy span:before{display:none}#kig-wrap .fancy.bluegreen span:after{border-bottom:2px solid #0099a8}#kig-wrap .fancy.bluegreen span:before{border-bottom:2px solid #0099a8}#kig-wrap .fancy.white span:after{border-bottom:2px solid #fff}#kig-wrap .fancy.white span:before{border-bottom:2px solid #fff}#kig-wrap .bigtext{font-size:1.4em;font-family:"Lato Bold"}#kig-wrap .page-infographics-hidden-cost .nope{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap .page-infographics-faceshape h4{color:#544847}#kig-wrap.page-infographics-adjust-glasses .item{text-align:center}#kig-wrap.page-infographics-adjust-glasses .item p{color:#948a86}#kig-wrap.page-infographics-adjust-glasses .titlebox{background:#007b8f;color:#fff;height:110px;overflow:hidden;text-align:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-adjust-glasses .fancy.titlebox span:after{border-bottom:2px solid #fff}#kig-wrap.page-infographics-adjust-glasses .fancy.titlebox span:before{border-bottom:2px solid #fff}#kig-wrap.page-infographics-adjust-glasses label{color:#948a86}#kig-wrap.page-infographics-adjust-glasses p{color:#7a7168}#kig-wrap.page-infographics-adjust-glasses a{color:#948a86;text-decoration:none}#kig-wrap.page-infographics-adjust-glasses .fancy-wrap{overflow-x:hidden;overflow-y:visible}#kig-wrap.page-infographics-adjust-glasses .height110{height:110px;overflow:hidden}#kig-wrap.page-infographics-adjust-glasses h2{text-align:center}#kig-wrap.page-infographics-adjust-glasses h2:nth-of-type(2){margin-top:4px}#kig-wrap.page-infographics-adjust-glasses h3{text-align:center}#kig-wrap.page-infographics-adjust-glasses h4{padding-top:1em}#kig-wrap.page-infographics-adjust-glasses ul{margin:0;padding-left:0}#kig-wrap.page-infographics-adjust-glasses ul li{color:#948a86;margin-bottom:.5em}#kig-wrap.page-infographics-adjust-glasses hr{border-color:#0099a8}#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .box,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .item,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-frame-measurement .box,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .flex-item,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .item,#kig-wrap.page-infographics-adjust-glasses .ta-center{text-align:center}#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .glass-wrap,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .person-list,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-frame-measurement .glass-wrap,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .glass-wrap,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .nope,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-lifetime-cost .spend-wrap,#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-measure-pd .glass-wrap,#kig-wrap.page-infographics-adjust-glasses .glass-wrap,#kig-wrap.page-infographics-adjust-glasses .vert-center,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-adjust-glasses .glass-wrap,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-faceshape .person-list,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .nope,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-lifetime-cost .spend-wrap,#kig-wrap.page-infographics-frame-measurement .box,#kig-wrap.page-infographics-frame-measurement .titlebox,#kig-wrap.page-infographics-frame-measurement .vert-center,#kig-wrap.page-infographics-frame-measurement ul.exed{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .titlebox{overflow:hidden;text-align:center}#kig-wrap.page-infographics-adjust-glasses .glass-wrap{max-width:100%;height:80px;margin-top:1em;margin-bottom:.5em}#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-lifetime-cost .glass-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-adjust-glasses .bs-nopad{padding-left:0;padding-right:0}#kig-wrap.page-infographics-adjust-glasses .bs-halfpad{padding-left:8px;padding-right:8px}#kig-wrap.page-infographics-adjust-glasses .flex-item,#kig-wrap.page-infographics-adjust-glasses .flex-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-adjust-glasses .flex-wrap.column{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;margin-left:1.5em;max-width:40%}#kig-wrap.page-infographics-adjust-glasses .person{max-width:80%;text-align:center;display:block;margin:0 auto;height:auto}#kig-wrap.page-infographics-adjust-glasses #logo{width:70%;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-top:1em}#kig-wrap.page-infographics-adjust-glasses .lens-closer{width:100%}#kig-wrap.page-infographics-adjust-glasses .lens-closer-left{margin-right:7%}#kig-wrap.page-infographics-adjust-glasses .lens-closer-right{margin-left:7%}#kig-wrap.page-infographics-adjust-glasses .small{font-size:60%;color:#544847}#kig-wrap.page-infographics-adjust-glasses .vc-row{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}#kig-wrap.page-infographics-adjust-glasses .vc-row *{margin-left:4px;margin-right:4px}#kig-wrap.page-infographics-adjust-glasses .glasses{max-height:100%;width:100%}#kig-wrap.page-infographics-adjust-glasses .higher-person{width:40%}#kig-wrap.page-infographics-adjust-glasses .higher-glasses{width:60%}#kig-wrap.page-infographics-adjust-glasses a.text-center,#kig-wrap.page-infographics-adjust-glasses p.text-center{text-align:center}#kig-wrap.page-infographics-adjust-glasses .m-top{margin-top:1em;margin-bottom:1em;color:#7a7168;font-weight:600;font-size:18px}#kig-wrap.page-infographics-frame-measurement .item{text-align:center}#kig-wrap.page-infographics-frame-measurement .item p{color:#7a7168}#kig-wrap.page-infographics-frame-measurement .titlebox{background:#0099a8;color:#fff;height:110px;overflow:hidden;text-align:center}#kig-wrap.page-infographics-frame-measurement .fancy.titlebox span:after{border-bottom:2px solid #fff}#kig-wrap.page-infographics-frame-measurement .fancy.titlebox span:before{border-bottom:2px solid #fff}#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-adjust-glasses .box{text-align:center}#kig-wrap.page-infographics-frame-measurement h1{font-family:"Tabac G1 Bold";font-size:24px}#kig-wrap.page-infographics-frame-measurement h1 span{font-size:24px}#kig-wrap.page-infographics-frame-measurement h2{font-family:"Tabac G1 Bold";text-transform:capitalize;font-size:20px;text-align:center}#kig-wrap.page-infographics-frame-measurement h2 span{font-size:20px}#kig-wrap.page-infographics-frame-measurement h2:nth-of-type(2){margin-top:4px}#kig-wrap.page-infographics-frame-measurement h4{font-family:"Lato Bold";font-size:16px;color:#444}#kig-wrap.page-infographics-frame-measurement label,#kig-wrap.page-infographics-frame-measurement p{color:#7a7168}#kig-wrap.page-infographics-frame-measurement a{color:#948a86;text-align:center;display:block}#kig-wrap.page-infographics-frame-measurement .purple-bg a:active,#kig-wrap.page-infographics-frame-measurement .purple-bg a:link,#kig-wrap.page-infographics-frame-measurement .purple-bg a:visited{color:#fff}#kig-wrap.page-infographics-frame-measurement .purple-bg a:hover{color:#d8d1ca}#kig-wrap.page-infographics-frame-measurement .fancy-wrap{overflow-x:hidden;overflow-y:visible}#kig-wrap.page-infographics-frame-measurement ul.checked{color:#948a86;list-style:none;margin-left:2em;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-frame-measurement ul.checked li:before{content:'';display:inline-block;height:12px;width:12px;background:url(/dev/image/site/infographics/checkmark.svg);background-repeat:no-repeat;background-position:center;width:24px;margin-left:-24px}#kig-wrap.page-infographics-frame-measurement ul.exed{color:#948a86;list-style:none;margin-left:2em}#kig-wrap.page-infographics-frame-measurement ul.exed li:before{content:'';display:inline-block;height:12px;width:12px;background:url(/dev/image/site/infographics/exmark.svg);background-repeat:no-repeat;background-position:center;width:24px;margin-left:-24px}#kig-wrap.page-infographics-frame-measurement .height110{height:110px;overflow:hidden}#kig-wrap.page-infographics-frame-measurement h3{text-align:center}#kig-wrap.page-infographics-frame-measurement h3.fancy{margin-top:0}#kig-wrap.page-infographics-frame-measurement ul{margin:0;padding-left:0}#kig-wrap.page-infographics-frame-measurement ul li{color:#948a86;margin-bottom:.5em}#kig-wrap.page-infographics-frame-measurement .item.glasses{margin-bottom:2em}#kig-wrap.page-infographics-frame-measurement .box{width:100%;margin:1em 0 1em;padding:.8em 1em;color:#fff;text-align:center}#kig-wrap.page-infographics-frame-measurement .box p{margin:0;color:#fff}#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-faceshape .item,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .box,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .flex-item,#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .item,#kig-wrap.page-infographics-frame-measurement .ta-center{text-align:center}#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .titlebox{overflow:hidden;text-align:center}#kig-wrap.page-infographics-frame-measurement .bs-nopad{padding-left:0;padding-right:0}#kig-wrap.page-infographics-frame-measurement .bs-halfpad{padding-left:8px;padding-right:8px}#kig-wrap.page-infographics-frame-measurement .flex-item,#kig-wrap.page-infographics-frame-measurement .flex-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-frame-measurement .flex-wrap.column{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;margin-left:1.5em;max-width:40%}#kig-wrap.page-infographics-frame-measurement img.glasses{width:142px;height:80px}#kig-wrap.page-infographics-frame-measurement img.circle{height:90px;margin-top:1em}#kig-wrap.page-infographics-frame-measurement img.person2{height:85px;margin-bottom:1em}#kig-wrap.page-infographics-frame-measurement .frame-lady{width:90%;display:block;margin:0 auto}#kig-wrap.page-infographics-frame-measurement .frame-lady-wrap{display:-webkit-box;display:-ms-flexbox;display:flex}#kig-wrap.page-infographics-frame-measurement .frame-lady-text{color:#7a7168;text-align:left}#kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:160px}#kig-wrap.page-infographics-frame-measurement #logo{width:70%;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-frame-measurement .finale-wrap-text{margin-left:1em;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;color:#948a86}#kig-wrap.page-infographics-frame-measurement .finale-wrap-text p span{color:#000}#kig-wrap.page-infographics-frame-measurement .hint-glasses{margin-right:16px;margin-bottom:8px}#kig-wrap.page-infographics-frame-measurement #measuring-pd{font-size:12px;width:auto!important}#kig-wrap.page-infographics-frame-measurement .six{width:80%;display:block;margin:0 auto 1em}#kig-wrap.page-infographics-frame-measurement .six p{font-weight:800}#kig-wrap.page-infographics-frame-measurement .computer{width:100px;display:block;margin:1em auto}#kig-wrap.page-infographics-frame-measurement .circle-text{text-align:left}#kig-wrap.page-infographics-frame-measurement p.text-center{text-align:center}#kig-wrap.page-infographics-frame-measurement a.text-center{text-align:center}#kig-wrap.page-infographics-frame-measurement .m-top{margin-top:1em;margin-bottom:1em;color:#7a7168;font-weight:600;font-size:18px}#kig-wrap.page-infographics-hidden-cost .link{color:#0099a8;font-weight:500}#kig-wrap.page-infographics-hidden-cost .titlebox{background:#0099a8;color:#fff;overflow:hidden;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-hidden-cost .fancy.link span:after{border-bottom:1px solid #0099a8}#kig-wrap.page-infographics-hidden-cost .fancy.link span:before{border-bottom:1px solid #0099a8}#kig-wrap.page-infographics-hidden-cost .fancy.titlebox span:after{border-bottom:2px solid #fff}#kig-wrap.page-infographics-hidden-cost .fancy.titlebox span:before{border-bottom:2px solid #fff}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .flex-item{text-align:center}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .glass-wrap,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .nope,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .nope,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .nope{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .titlebox,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .titlebox,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .titlebox{overflow:hidden;text-align:center}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .item,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .box,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .flex-item,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .person-list,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .box,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .flex-item,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .item,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .nope,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .spend-wrap,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-measure-pd .nope{text-align:center}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .titlebox,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-measure-pd .titlebox{overflow:hidden}#kig-wrap.page-infographics-hidden-cost a.text-center,#kig-wrap.page-infographics-hidden-cost p.text-center{text-align:center}#kig-wrap.page-infographics-hidden-cost p{color:#544847}#kig-wrap.page-infographics-hidden-cost label{color:#544847;font-weight:400}#kig-wrap.page-infographics-hidden-cost .height110{overflow:hidden}#kig-wrap.page-infographics-hidden-cost h1{color:#fff;margin-bottom:20px}#kig-wrap.page-infographics-hidden-cost h2{text-align:center;font-family:"Tabac G1 Bold",serif;font-size:19px}#kig-wrap.page-infographics-hidden-cost h2 span{font-family:"Tabac G1 Bold",serif;font-size:19px}#kig-wrap.page-infographics-hidden-cost h2:nth-of-type(2){margin-top:4px}#kig-wrap.page-infographics-hidden-cost .fancy span:before{border-width:2px}#kig-wrap.page-infographics-hidden-cost .fancy span:after{border-width:2px}#kig-wrap.page-infographics-hidden-cost .box{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end;height:86px;margin:1em 0 1em}#kig-wrap.page-infographics-hidden-cost .box img{width:200px;position:static;bottom:0}#kig-wrap.page-infographics-hidden-cost .box svg{width:200px;position:static;bottom:0}#kig-wrap.page-infographics-hidden-cost .nope{height:202px;background:url(/dev/image/site/infographics/wordpattern.svg);background-position:top center;background-size:1100px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-hidden-cost .nope h3{color:#fff;width:60%;margin:0 auto}#kig-wrap.page-infographics-hidden-cost .ta-center{text-align:center}#kig-wrap.page-infographics-hidden-cost .flex-item{text-align:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:1em .5em}#kig-wrap.page-infographics-hidden-cost .flex-item img{width:60px}#kig-wrap.page-infographics-hidden-cost .vert-center{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-hidden-cost .bs-nopad{padding-left:0;padding-right:0}#kig-wrap.page-infographics-hidden-cost .bs-halfpad{padding-left:8px;padding-right:8px}#kig-wrap.page-infographics-hidden-cost .flex-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around;-ms-flex-wrap:wrap;flex-wrap:wrap;width:100%;margin-left:0}#kig-wrap.page-infographics-hidden-cost .flex-item.two{max-width:40%}#kig-wrap.page-infographics-hidden-cost .flex-item.three{max-width:22%}#kig-wrap.page-infographics-hidden-cost .flex-item.four{width:30%}#kig-wrap.page-infographics-hidden-cost #house{height:98px;-webkit-transform:translateX(-10%);-ms-transform:translateX(-10%);transform:translateX(-10%)}#kig-wrap.page-infographics-hidden-cost #logo{width:70%;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-top:1em}#kig-wrap.page-infographics-hidden-cost .beige-moneys{background:url(/dev/image/site/infographics/beige-money.svg);background-repeat:no-repeat}#kig-wrap.page-infographics-hidden-cost .dollars .flex-item{margin:.5em 0}#kig-wrap.page-infographics-hidden-cost .end-sentence{margin:1em auto 1em;display:block;width:100%;padding:0;color:#544847}#kig-wrap.page-infographics-hidden-cost .m-top{margin-top:1em;margin-bottom:1em;color:#7a7168;font-weight:600;font-size:18px}#kig-wrap.page-infographics-faceshape .titlebox{background:#0099a8;color:#fff;height:110px;overflow:hidden;text-align:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-faceshape .fancy.titlebox span:after{border-bottom:2px solid #fff}#kig-wrap.page-infographics-faceshape .fancy.titlebox span:before{border-bottom:2px solid #fff}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .box{text-align:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .person-list{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .item{text-align:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .glass-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-frame-measurement .person-list{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-frame-measurement .item{text-align:center}#kig-wrap.page-infographics-faceshape .height110{height:110px;overflow:hidden}#kig-wrap.page-infographics-faceshape h1{color:#fff}#kig-wrap.page-infographics-faceshape h2{text-align:center;font-size:19px;text-transform:capitalize}#kig-wrap.page-infographics-faceshape h2 span{font-size:19px}#kig-wrap.page-infographics-faceshape h2 span:before{border-bottom:2px solid #0099a8;right:100%;margin-right:10px;width:300px}#kig-wrap.page-infographics-faceshape h2:nth-of-type(2){margin-top:4px}#kig-wrap.page-infographics-faceshape h2.fancy span:after{border-bottom:2px solid #0099a8;left:100%;margin-left:10px;width:300px}#kig-wrap.page-infographics-faceshape h4{font-size:16px}#kig-wrap.page-infographics-faceshape ul{margin:0;padding-left:1em;padding-right:1em}#kig-wrap.page-infographics-faceshape ul li{color:#948a86;margin-bottom:.5em}#kig-wrap.page-infographics-faceshape .box{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:1em 0 1em;padding:.8em 1em;color:#fff;text-align:center}#kig-wrap.page-infographics-faceshape .box p{margin:0}#kig-wrap.page-infographics-faceshape .ta-center{text-align:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .flex-item{text-align:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .nope,#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .person-list,#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-lifetime-cost .person-list,#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-lifetime-cost .spend-wrap,#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-measure-pd .person-list,#kig-wrap.page-infographics-faceshape .person-list,#kig-wrap.page-infographics-faceshape .vert-center{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .titlebox{overflow:hidden;text-align:center}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .box{text-align:center}#kig-wrap.page-infographics-faceshape .person-list{text-align:left;padding-left:48px;height:140px;padding-bottom:16px}#kig-wrap.page-infographics-faceshape .person-list li{list-style-type:disc;font-size:19px}#kig-wrap.page-infographics-faceshape .bs-nopad{padding-left:0;padding-right:0}#kig-wrap.page-infographics-faceshape .bs-halfpad{padding-left:8px;padding-right:8px}#kig-wrap.page-infographics-faceshape .flex-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}#kig-wrap.page-infographics-faceshape .flex-wrap.column{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;margin-left:1.5em;max-width:40%}#kig-wrap.page-infographics-faceshape .flex-item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}#kig-wrap.page-infographics-faceshape img.glasses{width:142px;height:80px;padding:6px 12px}#kig-wrap.page-infographics-faceshape img.person{height:105px}#kig-wrap.page-infographics-faceshape .person2{width:100px;max-width:100px;margin-bottom:1em}#kig-wrap.page-infographics-faceshape .person-wrap{height:120px}#kig-wrap.page-infographics-faceshape #logo{width:70%;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-faceshape .finale-wrap-text{padding-left:1em;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;color:#948a86;text-align:left}#kig-wrap.page-infographics-faceshape .finale-wrap-text p span{color:#000}#kig-wrap.page-infographics-faceshape ul.list-shared{color:#948a86;list-style:none;margin-left:1em;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:left}#kig-wrap.page-infographics-faceshape ul.list-shared li:before{content:'';display:inline-block;height:12px;width:12px;background-repeat:no-repeat;background-position:center;margin-left:-18px;margin-right:6px}#kig-wrap.page-infographics-faceshape ul.list-shared.checked li:before{background:url(/dev/image/site/infographics/checkmark.svg)}#kig-wrap.page-infographics-faceshape ul.list-shared.exed li:before{background:url(/dev/image/site/infographics/exmark.svg)}#kig-wrap.page-infographics-faceshape p.text-center{text-align:center}#kig-wrap.page-infographics-faceshape a.text-center{text-align:center}#kig-wrap.page-infographics-faceshape .m-top{margin-top:1em;margin-bottom:1em;color:#948a86;font-weight:600;font-size:18px}#kig-wrap.page-infographics-measure-pd .titlebox{background:#0099a8;color:#fff;height:110px;overflow:hidden;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-measure-pd .fancy.titlebox span:after{border-bottom:2px solid #fff}#kig-wrap.page-infographics-measure-pd .fancy.titlebox span:before{border-bottom:2px solid #fff}#kig-wrap.page-infographics-measure-pd h2{font-family:"Tabac G1 Bold",serif}#kig-wrap.page-infographics-measure-pd h2 span{font-size:20px}#kig-wrap.page-infographics-measure-pd .h2{font-family:"Tabac G1 Bold",serif}#kig-wrap.page-infographics-measure-pd .h2 span{font-size:20px}#kig-wrap.page-infographics-measure-pd h3{font-family:'Lato Black';margin-top:20px!important;margin-bottom:10px!important}#kig-wrap.page-infographics-measure-pd .h3{font-family:'Lato Black';margin-top:20px!important;margin-bottom:10px!important}#kig-wrap.page-infographics-measure-pd label{color:#948a86;text-align:center;font-size:16px}#kig-wrap.page-infographics-measure-pd p{color:#948a86;text-align:center;font-size:16px;color:#544847;text-align:left}#kig-wrap.page-infographics-measure-pd a{color:#948a86;text-align:center;font-size:16px;text-decoration:none}#kig-wrap.page-infographics-measure-pd p.midbrown{color:#7a7168}#kig-wrap.page-infographics-measure-pd .height110{height:110px;overflow:hidden}#kig-wrap.page-infographics-measure-pd ul{margin:0;padding-left:0}#kig-wrap.page-infographics-measure-pd ul li{color:#948a86;margin-bottom:.5em}#kig-wrap.page-infographics-measure-pd hr{border-color:#0099a8}#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-adjust-glasses .glass-wrap,#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-faceshape .person-list,#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-hidden-cost .nope,#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-lifetime-cost .spend-wrap,#kig-wrap.page-infographics-measure-pd .vert-center{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-hidden-cost .titlebox{overflow:hidden}#kig-wrap.page-infographics-measure-pd .flex-wrap #kig-wrap.page-infographics-measure-pd .flex-item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-measure-pd .flex-wrap.column{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;margin-left:1.5em;max-width:40%}#kig-wrap.page-infographics-measure-pd #logo{width:70%;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-top:1em}#kig-wrap.page-infographics-measure-pd .vc-row{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}#kig-wrap.page-infographics-measure-pd .vc-row *{margin-left:4px;margin-right:4px}#kig-wrap.page-infographics-measure-pd span.label{font-weight:600;font-size:16px;color:#544847}#kig-wrap.page-infographics-measure-pd .tools-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;-ms-flex-pack:distribute;justify-content:space-around}#kig-wrap.page-infographics-measure-pd .tool{padding:1em;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;-webkit-box-align:center;-ms-flex-align:center;align-items:center}#kig-wrap.page-infographics-measure-pd .tool img{height:100px}#kig-wrap.page-infographics-measure-pd .pd-link{padding:.1em .6em;display:inline-block;color:#fff}#kig-wrap.page-infographics-measure-pd .pd-panel{padding:1em;display:block;margin:0 auto;left:50%;-webkit-transform:translate(-50%);-ms-transform:translate(-50%);transform:translate(-50%)}#kig-wrap.page-infographics-measure-pd .pd-inner{background:#e3e3e3;padding:20px;height:320px}#kig-wrap.page-infographics-measure-pd .pd-inner h2{font-size:26px;margin-top:0}#kig-wrap.page-infographics-measure-pd .pd-num{background:#0099a8;color:#fff;font-family:'Tabac G1 Bold';font-size:28px;width:40px;height:40px;border-radius:100%;float:left}#kig-wrap.page-infographics-measure-pd .pd-text{font-weight:600;display:inline-block;float:left;margin-left:.5em;width:82%}#kig-wrap.page-infographics-measure-pd .pd-img{position:absolute;width:99%;left:1em;bottom:1em;max-height:360px}#kig-wrap.page-infographics-measure-pd .pd-list{margin-left:10%;list-style:none}#kig-wrap.page-infographics-measure-pd .pd-list li{color:#444;font-size:16px;font-weight:600;margin:20px 0 30px}#kig-wrap.page-infographics-measure-pd .pd-list li:before{display:inline-block;content:'';height:.75em;width:.75em;margin-left:-1.3em;margin-right:.5em;background:url(/dev/image/site/infographics/checkmark.svg)}#kig-wrap.page-infographics-measure-pd .pad{margin:2em;font-size:12px;color:#fff}#kig-wrap.page-infographics-measure-pd p.text-center{text-align:center}#kig-wrap.page-infographics-measure-pd a.text-center{text-align:center}#kig-wrap.page-infographics-measure-pd .m-top{margin-top:1em;margin-bottom:1em;color:#7a7168;font-weight:600;font-size:18px}#kig-wrap.page-infographics-lifetime-cost .titlebox{background:#0099a8;color:#fff;height:110px;overflow:hidden;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-lifetime-cost .fancy.titlebox span:after{border-bottom:2px solid #fff}#kig-wrap.page-infographics-lifetime-cost .fancy.titlebox span:before{border-bottom:2px solid #fff}#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-adjust-glasses .glass-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-adjust-glasses .glasses-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-adjust-glasses .spend-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-faceshape .glasses-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-faceshape .person-list,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-faceshape .spend-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-frame-measurement .glasses-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-frame-measurement .spend-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-measure-pd .glasses-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-measure-pd .spend-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-lifetime-cost .grey-bg{background:#e3e3e3}#kig-wrap.page-infographics-lifetime-cost .fancy{text-transform:capitalize}#kig-wrap.page-infographics-lifetime-cost .fancy span{text-transform:capitalize}#kig-wrap.page-infographics-lifetime-cost .fancy span.text-transform-none{text-transform:none}#kig-wrap.page-infographics-lifetime-cost h2.fancy{text-align:left;font-size:30px}#kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span{font-size:20px}#kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span:after{display:block;height:10px;width:100vw}#kig-wrap.page-infographics-lifetime-cost label{color:#948a86;text-align:center;font-size:16px}#kig-wrap.page-infographics-lifetime-cost p{text-align:left;font-size:18px;color:#7a7168}#kig-wrap.page-infographics-lifetime-cost a{color:#948a86;text-align:center;font-size:16px;font-weight:100;text-decoration:none}#kig-wrap.page-infographics-lifetime-cost p.text-center{text-align:center}#kig-wrap.page-infographics-lifetime-cost a.text-center{text-align:center}#kig-wrap.page-infographics-lifetime-cost .biggernum{font-family:"Lato Bold";font-size:72px}#kig-wrap.page-infographics-lifetime-cost .height110{height:110px;overflow:hidden}#kig-wrap.page-infographics-lifetime-cost .emtop{margin-top:1em}#kig-wrap.page-infographics-lifetime-cost .emtop .emtop{font-weight:600;color:#544847;text-align:left}#kig-wrap.page-infographics-lifetime-cost .emtop .emtop p{color:#544847;text-align:left}#kig-wrap.page-infographics-lifetime-cost .quiet-riot{margin-top:1em;margin-bottom:1em;width:80%;-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}#kig-wrap.page-infographics-lifetime-cost .embot{margin-bottom:1em}#kig-wrap.page-infographics-lifetime-cost .quiet-text{margin-bottom:1em;-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}#kig-wrap.page-infographics-lifetime-cost .empadtop{padding-top:1em}#kig-wrap.page-infographics-lifetime-cost .empadbot{padding-bottom:1em}#kig-wrap.page-infographics-lifetime-cost ul{margin:0;padding-left:0}#kig-wrap.page-infographics-lifetime-cost ul li{color:#948a86;margin-bottom:.5em}#kig-wrap.page-infographics-lifetime-cost hr.hr-dash{border-color:#0099a8;border-style:dashed}#kig-wrap.page-infographics-lifetime-cost hr.hr-brown{border-color:#948a86;width:90%;margin:0 auto;margin-top:1em}#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .glasses-wrap,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .nope,#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .spend-wrap,#kig-wrap.page-infographics-lifetime-cost .flex-wrap,#kig-wrap.page-infographics-lifetime-cost .glasses-wrap,#kig-wrap.page-infographics-lifetime-cost .spend-wrap,#kig-wrap.page-infographics-lifetime-cost .tool,#kig-wrap.page-infographics-lifetime-cost .vert-center{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-lifetime-cost .glasses-wrap{height:200px}#kig-wrap.page-infographics-lifetime-cost .spend-wrap{height:180px}#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .titlebox{overflow:hidden}#kig-wrap.page-infographics-lifetime-cost .flex-item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}#kig-wrap.page-infographics-lifetime-cost #logo{width:70%;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-top:1em}#kig-wrap.page-infographics-lifetime-cost span.label{font-weight:600;font-size:16px}#kig-wrap.page-infographics-lifetime-cost .tools-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;-ms-flex-pack:distribute;justify-content:space-around}#kig-wrap.page-infographics-lifetime-cost .tool{padding:1em;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;-webkit-box-align:center;-ms-flex-align:center;align-items:center}#kig-wrap.page-infographics-lifetime-cost .tool img{height:100px}#kig-wrap.page-infographics-lifetime-cost .glasses{margin-top:.5em;margin-bottom:.5em;width:80%}#kig-wrap.page-infographics-lifetime-cost .multiglasses{width:80%}#kig-wrap.page-infographics-lifetime-cost .multiglasses.multiglasses-wide{width:90%}#kig-wrap.page-infographics-lifetime-cost .arrows{width:90%}#kig-wrap.page-infographics-lifetime-cost h6{font-family:lato,sans-serif!important;font-weight:700;font-size:18px}#kig-wrap.page-infographics-lifetime-cost h6 span{font-family:lato,sans-serif!important;font-size:18px;font-weight:700}#kig-wrap.page-infographics-lifetime-cost h6 span:before{border-bottom:1px solid #fff}#kig-wrap.page-infographics-lifetime-cost h6 span:after{border-bottom:1px solid #fff}#kig-wrap.page-infographics-lifetime-cost h6.fancy.brown span:after{border-bottom:1px solid #fff}#kig-wrap.page-infographics-lifetime-cost h6.fancy.brown span:before{border-bottom:1px solid #fff}#kig-wrap.page-infographics-lifetime-cost .tri-row{height:0;width:0;border-left:16px solid transparent;border-right:16px solid transparent;border-top:16px solid #d8d1ca;position:absolute;left:50%;border-top-color:#ddd}#kig-wrap.page-infographics-lifetime-cost p.small{font-size:16px;text-align:left}#kig-wrap.page-infographics-lifetime-cost .bs-nopad{padding:0}#kig-wrap.page-infographics-lifetime-cost .bs-nopad p{margin:0;padding-left:10px}#kig-wrap.page-infographics-lifetime-cost .bs-nopad p.text-right{text-align:right}#kig-wrap.page-infographics-lifetime-cost .bs-nopad p.text-left{text-align:left}#kig-wrap.page-infographics-lifetime-cost .no-bot{margin-bottom:0}#kig-wrap.page-infographics-lifetime-cost .btn-save{background:#f65275;color:#fff;font-size:40px;font-weight:700;padding:.25em .75em}#kig-wrap.page-infographics-lifetime-cost .or-wrap{background-color:#47d7ac;border-radius:100%;width:64px;height:64px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;flex-order:1;top:50px;position:relative;left:-10px}#kig-wrap.page-infographics-lifetime-cost .or{color:#fff;font-size:28px;font-family:Lato;border:none;margin-top:10%}#kig-wrap.page-infographics-lifetime-cost .vert-separator-small{border-right:1px dashed #0099a8}#kig-wrap.page-infographics-lifetime-cost .img-max{width:80%}#kig-wrap.page-infographics-lifetime-cost .hide-overflow{overflow:hidden}#kig-wrap.page-infographics-lifetime-cost .sidepad{padding-left:1em;padding-right:1em}#kig-wrap.page-infographics-lifetime-cost .sidepad .sidepad{font-weight:400;text-align:left;padding-top:16px}#kig-wrap.page-infographics-lifetime-cost .family{-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}#kig-wrap.page-infographics-lifetime-cost .family .flex-item{width:29%;margin:.5em}#kig-wrap.page-infographics-lifetime-cost .m-top{margin-top:1em;margin-bottom:1em;color:#7a7168;font-weight:600;font-size:18px}#kig-wrap.page-infographics-lifetime-cost p.sidepad{color:#544847}#comp-information-infographics .stButton .stButton_gradient{-webkit-box-sizing:content-box!important;box-sizing:content-box!important}#comp-information-infographics .main-content-section>h3{color:#544847}.stButton .stButton_gradient{-webkit-box-sizing:content-box!important;box-sizing:content-box!important}.page-infographics .main-content-section h3{color:#544847}.page-infographics .main-content-section .h3{color:#544847}.page-infographics .fb-comments>span{width:70vw!important}.page-infographics .fb-comments>span iframe{width:100%!important}.ua-edge #kig-wrap.page-infographics-lifetime-cost .glasses-wrap{display:ruby}.ua-ie #kig-wrap.page-infographics-lifetime-cost .glasses-wrap{display:table}@media (min-width:1024px){#kig-wrap.page-infographics-faceshape .fancy{line-height:1;text-align:left;font-size:20px}#kig-wrap.page-infographics-faceshape .fancy span{font-size:40px}#kig-wrap.page-infographics-faceshape .fancy span:before{display:none;width:0}#kig-wrap.page-infographics-faceshape .fancy span:after{width:660px;margin-left:.5em;border-width:2px}#kig-wrap.page-infographics-faceshape h1{font-size:57px}#kig-wrap.page-infographics-faceshape h2.fancy{text-align:left;font-size:40px;text-transform:capitalize}#kig-wrap.page-infographics-faceshape h2.fancy span{font-size:40px}#kig-wrap.page-infographics-faceshape h2.fancy.fancy span:after{display:block;height:22px;width:100vw}#kig-wrap.page-infographics-faceshape h4{font-size:13px;text-align:center;color:#000;margin-top:0}#kig-wrap.page-infographics-faceshape .titlebox{height:240px}#kig-wrap.page-infographics-faceshape .box{margin:.5em 0 1em;padding:1em .5em;height:90px}#kig-wrap.page-infographics-faceshape .box p{font-size:14px}#kig-wrap.page-infographics-faceshape .glasses{margin:0 auto}#kig-wrap.page-infographics-faceshape .is-table-row{display:table}#kig-wrap.page-infographics-faceshape .is-table-row [class*=col-]{float:none;display:table-cell;vertical-align:top}#kig-wrap.page-infographics-faceshape img.person{margin-top:1em;margin-bottom:1em}#kig-wrap.page-infographics-faceshape img.person2{margin-top:1em;margin-bottom:1em}#kig-wrap.page-infographics-faceshape .fun-facts{margin-bottom:100px}#kig-wrap.page-infographics-faceshape .fun-facts p{color:#948a86;text-align:left;font-size:17px}#kig-wrap.page-infographics-faceshape .fun-facts p span{font-size:16px}#kig-wrap.page-infographics-faceshape .person-list{padding:0 1em 0 2em;height:auto}#kig-wrap.page-infographics-faceshape ul.list-shared{height:170px;padding-left:25px}#kig-wrap.page-infographics-faceshape ul.list-shared li{font-size:20px}#kig-wrap.page-infographics-faceshape .finale{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap}#kig-wrap.page-infographics-faceshape .finale .flex-wrap{width:33%;height:275px;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;-ms-flex-line-pack:center;align-content:center;padding:0 3em}#kig-wrap.page-infographics-faceshape .finale-wrap-person{text-align:center}#kig-wrap.page-infographics-faceshape .finale-wrap-text{margin-left:0}#kig-wrap.page-infographics-faceshape .flex-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}#kig-wrap.page-infographics-faceshape .col-sm-8{margin-left:-8px}#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .titlebox{height:110px}#kig-wrap h1 span{font-size:52px}#kig-wrap h2{font-size:20px}#kig-wrap .fancy{line-height:.1}#kig-wrap .fancy.bluegreen span:before{display:none}#kig-wrap.page-infographics-frame-measurement h2{font-size:40px}#kig-wrap.page-infographics-frame-measurement h2 span{font-size:40px}#kig-wrap.page-infographics-frame-measurement h1{font-size:57px}#kig-wrap.page-infographics-frame-measurement h1 span{font-size:57px}#kig-wrap.page-infographics-frame-measurement h3 span{font-size:32px}#kig-wrap.page-infographics-frame-measurement h4{text-align:center;margin-top:0}#kig-wrap.page-infographics-frame-measurement .titlebox{height:240px}#kig-wrap.page-infographics-frame-measurement .box:not(.six):not(.hint-box){margin:.5em 0 1em;padding:.8em .2em;height:60px}#kig-wrap.page-infographics-frame-measurement .box:not(.six):not(.hint-box) p{font-size:12px}#kig-wrap.page-infographics-frame-measurement .glasses{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;margin:0 auto}#kig-wrap.page-infographics-frame-measurement .glasses h4{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}#kig-wrap.page-infographics-frame-measurement .glasses img{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2;margin-top:1em;margin-bottom:1em}#kig-wrap.page-infographics-frame-measurement .glasses p{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}#kig-wrap.page-infographics-frame-measurement .is-table-row{display:table}#kig-wrap.page-infographics-frame-measurement .is-table-row [class*=col-]{float:none;display:table-cell;vertical-align:top}#kig-wrap.page-infographics-frame-measurement ul.checked{height:60px}#kig-wrap.page-infographics-frame-measurement ul.exed{height:60px}#kig-wrap.page-infographics-frame-measurement .finale{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap}#kig-wrap.page-infographics-frame-measurement .finale .flex-wrap{width:33%;height:320px;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;-ms-flex-line-pack:center;align-content:center;padding:0 3em}#kig-wrap.page-infographics-frame-measurement .finale-wrap-person{text-align:center}#kig-wrap.page-infographics-frame-measurement .flex-wrap{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}#kig-wrap.page-infographics-frame-measurement .fancy-wrap{overflow-x:hidden}#kig-wrap.page-infographics-frame-measurement .fancy{line-height:1}#kig-wrap.page-infographics-frame-measurement h1.fancy span:before{height:32px}#kig-wrap.page-infographics-frame-measurement h1.fancy span:after{height:32px}#kig-wrap.page-infographics-frame-measurement h2.fancy span:before{width:660px;margin-right:.5em;height:22px}#kig-wrap.page-infographics-frame-measurement h2.fancy span:after{width:660px;margin-left:.5em;height:22px}#kig-wrap.page-infographics-frame-measurement h3.fancy span:before{height:16px}#kig-wrap.page-infographics-frame-measurement h3.fancy span:after{height:16px}#kig-wrap.page-infographics-frame-measurement .frame-lady-wrap{padding-left:0;padding-right:0;margin-left:0}#kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap{height:220px;padding-right:3em;padding-left:0}#kig-wrap.page-infographics-frame-measurement .frame-dimensions{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}#kig-wrap.page-infographics-frame-measurement .item{width:28%;margin:1em}#kig-wrap.page-infographics-frame-measurement .item img{height:76px}#kig-wrap.page-infographics-frame-measurement .item h4{margin-top:1em}#kig-wrap.page-infographics-frame-measurement .item.glasses{margin-bottom:auto}#kig-wrap.page-infographics-frame-measurement .hint-text{width:23%;padding-top:.25em}#kig-wrap.page-infographics-frame-measurement .hint-text p{font-size:14px}#kig-wrap.page-infographics-frame-measurement .hint-text span{font-size:14px}#kig-wrap.page-infographics-frame-measurement .hint-text h4{margin-bottom:.5em}#kig-wrap.page-infographics-frame-measurement .hint-text-left{margin-right:5px;margin-left:5px;padding-right:0}#kig-wrap.page-infographics-frame-measurement .hint-text-right{margin-left:5px;margin-right:5px;padding-left:0}#kig-wrap.page-infographics-frame-measurement .hint-text-big{width:49%;margin:1em 0;padding:0}#kig-wrap.page-infographics-frame-measurement .hint-text-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}#kig-wrap.page-infographics-frame-measurement .desk-left{text-align:left}#kig-wrap.page-infographics-frame-measurement .desk-left h4{text-align:left;margin-top:0}#kig-wrap.page-infographics-frame-measurement .hint-glasses{margin:0}#kig-wrap.page-infographics-frame-measurement .hint-box{margin-top:1em}#kig-wrap.page-infographics-frame-measurement .hint-box-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:220px;padding-left:1em;padding-right:0}#kig-wrap.page-infographics-frame-measurement .circle-container{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-ms-flex-line-pack:start;align-content:flex-start;padding:0 2em}#kig-wrap.page-infographics-frame-measurement img.circle{height:150px;display:block;margin:1em auto}#kig-wrap.page-infographics-frame-measurement .circle-width{padding:0}#kig-wrap.page-infographics-frame-measurement .circle-text{text-align:center}#kig-wrap.page-infographics-frame-measurement .computer{width:100%}#kig-wrap.page-infographics-frame-measurement .six{width:40%;margin-bottom:.5em;padding:.2em}#kig-wrap.page-infographics-frame-measurement #measuring-pd{height:auto;margin:0 auto;padding:0;width:82%}#kig-wrap.page-infographics-frame-measurement .height-200{height:200px}#kig-wrap.page-infographics-frame-measurement #logo{margin-top:1em}#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .titlebox{height:110px}#kig-wrap.page-infographics-frame-measurement .fancy.bluegreen span:before{display:block}#kig-wrap.page-infographics-measure-pd h3{margin-top:40px;font-size:24px}#kig-wrap.page-infographics-measure-pd .h3{margin-top:40px;font-size:38px}#kig-wrap.page-infographics-measure-pd .margin-top-zero{margin-top:0}#kig-wrap.page-infographics-measure-pd label{font-size:24px}#kig-wrap.page-infographics-measure-pd p{font-size:18px}#kig-wrap.page-infographics-measure-pd a{font-size:24px}#kig-wrap.page-infographics-measure-pd span.label{font-size:24px}#kig-wrap.page-infographics-measure-pd .tool img{height:160px}#kig-wrap.page-infographics-measure-pd .pd-inner{height:380px}#kig-wrap.page-infographics-measure-pd .pd-inner h2{font-size:38px;margin-top:0}#kig-wrap.page-infographics-measure-pd .pd-list li{font-size:18px}#kig-wrap.page-infographics-measure-pd .titlebox{height:240px}#kig-wrap.page-infographics-measure-pd .container{background:#fff;overflow:hidden}#kig-wrap.page-infographics-measure-pd .pd-panel{left:0;-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0)}#kig-wrap.page-infographics-measure-pd .pd-link{padding:.4em .6em}#kig-wrap.page-infographics-measure-pd .fancy-wrap{overflow-x:hidden}#kig-wrap.page-infographics-measure-pd .fancy{line-height:1}#kig-wrap.page-infographics-measure-pd h1{font-size:57px;margin-top:22px;margin-bottom:22px}#kig-wrap.page-infographics-measure-pd h1.fancy span:before{width:660px;margin-right:.5em;height:30px}#kig-wrap.page-infographics-measure-pd h1.fancy span:after{width:660px;margin-left:.5em;height:30px}#kig-wrap.page-infographics-measure-pd h2.fancy{text-align:left;font-size:36px;text-transform:capitalize}#kig-wrap.page-infographics-measure-pd h2.fancy span{font-size:50px}#kig-wrap.page-infographics-measure-pd h2.fancy.fancy span:after{display:block;height:22px;width:100vw;top:7px}#kig-wrap.page-infographics-measure-pd .item{width:28%;margin:1em}#kig-wrap.page-infographics-measure-pd .item svg{width:100%}#kig-wrap.page-infographics-measure-pd .pad{line-height:2}#kig-wrap.page-infographics-measure-pd .pad strong{font-size:18.5px}#kig-wrap.page-infographics-measure-pd #logo{margin-top:1em}#kig-wrap.page-infographics-measure-pd .friend{margin-top:3em}#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-hidden-cost .titlebox{height:110px}#kig-wrap.page-infographics-adjust-glasses h3{font-size:28px;margin-top:.25em}#kig-wrap.page-infographics-adjust-glasses h3 span{font-size:32px;font-size:inherit}#kig-wrap.page-infographics-adjust-glasses h4{text-align:center;margin-top:0;color:#000;font-weight:400;font-size:12px}#kig-wrap.page-infographics-adjust-glasses .titlebox{height:240px}#kig-wrap.page-infographics-adjust-glasses .glasses{margin:0 auto}#kig-wrap.page-infographics-adjust-glasses .is-table-row{display:table}#kig-wrap.page-infographics-adjust-glasses .is-table-row [class*=col-]{float:none;display:table-cell;vertical-align:top}#kig-wrap.page-infographics-adjust-glasses .fancy-wrap{overflow-x:hidden}#kig-wrap.page-infographics-adjust-glasses .fancy{line-height:1}#kig-wrap.page-infographics-adjust-glasses h1.fancy span:before{width:660px;margin-right:.5em;height:30px}#kig-wrap.page-infographics-adjust-glasses h1.fancy span:after{width:660px;margin-left:.5em;height:30px}#kig-wrap.page-infographics-adjust-glasses h3.fancy span:after{display:block;height:18px;width:440px}#kig-wrap.page-infographics-adjust-glasses h3.bluegreen{text-align:left}#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost h3.link{text-align:left}#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost h6.link{text-align:left}#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .titlebox{height:110px}#kig-wrap.page-infographics-adjust-glasses h6.bluegreen{text-align:left}#kig-wrap.page-infographics-adjust-glasses h6{text-align:left;margin-bottom:0}#kig-wrap.page-infographics-adjust-glasses h6 p{margin-bottom:0;color:#544847}#kig-wrap.page-infographics-adjust-glasses h6.fancy span:before{display:none}#kig-wrap.page-infographics-adjust-glasses h6.fancy span:after{display:none}#kig-wrap.page-infographics-adjust-glasses .item{width:28%;margin:1em}#kig-wrap.page-infographics-adjust-glasses .item img{width:100%}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses h3.link{text-align:left}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses h6.link{text-align:left}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .titlebox{height:110px}#kig-wrap.page-infographics-hidden-cost .titlebox{height:264px;padding:0 6em}#kig-wrap.page-infographics-hidden-cost h1{font-size:57px}#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .titlebox,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .titlebox,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .titlebox,#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-measure-pd .titlebox,#kig-wrap.page-infographics-hidden-cost .height110{height:110px}#kig-wrap.page-infographics-hidden-cost .nope{height:900px}#kig-wrap.page-infographics-hidden-cost .m-top{margin-top:1em}#kig-wrap.page-infographics-hidden-cost .is-table-row{display:table}#kig-wrap.page-infographics-hidden-cost .is-table-row [class*=col-]{float:none;display:table-cell;vertical-align:top}#kig-wrap.page-infographics-hidden-cost .dollars{padding:0 2em}#kig-wrap.page-infographics-hidden-cost .fancy span:before{width:100vw;top:-7px}#kig-wrap.page-infographics-hidden-cost .fancy span:after{width:100vw;top:-7px}#kig-wrap.page-infographics-hidden-cost .flex-item{margin-top:.5em}#kig-wrap.page-infographics-hidden-cost .end-sentence{width:60%}#kig-wrap.page-infographics-hidden-cost .flex-wrap{width:auto;margin-left:inherit}#kig-wrap.page-infographics-hidden-cost .fancy.bluegreen span:before{display:block}#kig-wrap.page-infographics-lifetime-cost .vert-separator{border-right:1px dashed #0099a8}#kig-wrap.page-infographics-lifetime-cost .titlebox{height:240px;background-color:#0099a8}#kig-wrap.page-infographics-lifetime-cost .flex-wrap{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}#kig-wrap.page-infographics-lifetime-cost .fancy-wrap{overflow-x:hidden}#kig-wrap.page-infographics-lifetime-cost .fancy{line-height:1;font-size:57px;margin-top:22px;margin-bottom:22px}#kig-wrap.page-infographics-lifetime-cost h1.fancy span:before{width:660px;margin-right:.5em;height:30px}#kig-wrap.page-infographics-lifetime-cost h1.fancy span:after{width:660px;margin-left:.5em;height:30px}#kig-wrap.page-infographics-lifetime-cost h2.fancy{text-align:left;font-size:30px}#kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span{font-size:40px}#kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span:after{display:block;height:18px;width:100vw;top:10px}#kig-wrap.page-infographics-lifetime-cost h6.fancy span.text-transform-none:after{width:100vw}#kig-wrap.page-infographics-lifetime-cost h6.fancy span.text-transform-none:before{width:100vw}#kig-wrap.page-infographics-lifetime-cost h3{font-size:3em;font-family:Lato,sans-serif;font-weight:700}#kig-wrap.page-infographics-lifetime-cost h4{font-size:42px}#kig-wrap.page-infographics-lifetime-cost h5{font-size:2.6em;text-transform:capitalize}#kig-wrap.page-infographics-lifetime-cost h6.fancy{font-size:22px;color:#544847}#kig-wrap.page-infographics-lifetime-cost h6.fancy span{font-family:Lato,sans-serif!important;font-weight:700;font-size:24px}#kig-wrap.page-infographics-lifetime-cost h6{font-size:36px;font-family:Lato,sans-serif;font-weight:700;margin-top:32px;margin-bottom:0}#kig-wrap.page-infographics-lifetime-cost .item{width:28%;margin:1em}#kig-wrap.page-infographics-lifetime-cost .item svg{width:100%}#kig-wrap.page-infographics-lifetime-cost .pad{line-height:2}#kig-wrap.page-infographics-lifetime-cost #logo{margin-top:1em}#kig-wrap.page-infographics-lifetime-cost .is-table-row{display:table}#kig-wrap.page-infographics-lifetime-cost .is-table-row [class*=col-]{float:none;display:table-cell;text-align:center}#kig-wrap.page-infographics-lifetime-cost .is-table-row [class*=col-].valign-mid{vertical-align:middle}#kig-wrap.page-infographics-lifetime-cost .hr-only-small{display:none}#kig-wrap.page-infographics-lifetime-cost .quiet-text{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}#kig-wrap.page-infographics-lifetime-cost .quiet-riot{width:30%;-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}#kig-wrap.page-infographics-lifetime-cost .img-spend{height:120px}#kig-wrap.page-infographics-lifetime-cost .means-for-you{vertical-align:middle}#kig-wrap.page-infographics-lifetime-cost .tri-row{left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}#kig-wrap.page-infographics-lifetime-cost .family .flex-item{width:18%;margin:1%}#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .titlebox{height:110px}#kig-wrap.page-infographics-lifetime-cost .bs-nopad p.quiet-text{left:-6px;position:relative;font-size:18px}#kig-wrap.page-infographics-frame-measurement .purple-bg a:active,#kig-wrap.page-infographics-frame-measurement .purple-bg a:link,#kig-wrap.page-infographics-frame-measurement .purple-bg a:visited{padding-top:20px;padding-bottom:20px;font-size:16px;font-weight:600}#kig-wrap.page-infographics-adjust-glasses p{font-size:13px}#kig-wrap.page-infographics-adjust-glasses p.problem{color:#544847}}@media all (min-width:1280px){#kig-wrap.page-infographics-lifetime-cost .flex-wrap{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}}@media all and (-ms-high-contrast:none){#kig-wrap .higher-glasses{height:100%;margin-top:10%}#kig-wrap #logo{height:100%}}@media (-ms-high-contrast:active){#kig-wrap .higher-glasses{height:100%;margin-top:10%}#kig-wrap #logo{height:100%}}@media (max-width:1279px){#kig-wrap.page-infographics-lifetime-cost .or-wrap{top:initial;left:initial;-ms-flex-item-align:center;align-self:center}#kig-wrap.page-infographics-lifetime-cost .quiet-riot,#kig-wrap.page-infographics-lifetime-cost .quiet-text{-ms-flex-item-align:center;align-self:center}#kig-wrap.page-infographics-frame-measurement .frame-lady-wrap{padding-left:2em}#kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap{padding-left:0;padding-right:16px;padding-top:112px}}@media (max-width:374px){#kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap{padding-right:1em;padding-top:48px;height:200px}}@media (max-width:767px){#kig-wrap.page-infographics-faceshape ul li{line-height:16px}#kig-wrap.page-infographics-measure-pd .pd-text{width:77%}#kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap{padding-top:64px}}@media (max-width:479px){#kig-wrap.page-infographics-lifetime-cost .btn-save{font-size:24px}}@media (max-width:1091px){#kig-wrap.page-infographics-hidden-cost .beige-moneys{width:60px;height:60px}}@media (min-width:1092px) and (max-width:1225px){#kig-wrap.page-infographics-hidden-cost .beige-moneys{width:70px;height:70px}}@media (min-width:1226px){#kig-wrap.page-infographics-hidden-cost .beige-moneys{width:80px;height:80px}}@media (min-width:1650px){#kig-wrap.page-infographics-faceshape h1,#kig-wrap.page-infographics-frame-measurement h1,#kig-wrap.page-infographics-frame-measurement h1 span,#kig-wrap.page-infographics-hidden-cost h1,#kig-wrap.page-infographics-lifetime-cost .fancy,#kig-wrap.page-infographics-measure-pd h1{font-size:75px}#kig-wrap.page-infographics-faceshape .box p,#kig-wrap.page-infographics-faceshape h4{font-size:15px}#kig-wrap.page-infographics-lifetime-cost h3{font-size:4em}#kig-wrap.page-infographics-lifetime-cost p{font-size:22px}#kig-wrap.page-infographics-faceshape .fun-facts p,#kig-wrap.page-infographics-faceshape .fun-facts p span{font-size:18px}#kig-wrap.page-infographics-measure-pd p{font-size:24px}#kig-wrap.page-infographics-measure-pd h3{font-size:38px}#kig-wrap.page-infographics-adjust-glasses h4{font-size:14px}}.page-infographics .fb-comments>span{width:92vw!important}@media (min-width:768px) and (max-width:1024px){.page-infographics .fb-comments>span{width:60vw!important}#kig-wrap.page-infographics-measure-pd .pd-inner{height:350px}}@media (min-width:1024px){.page-infographics .fb-comments>span{width:70vw!important}#kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap{padding-top:0}}@media (min-width:736px){.page-infographics .fb-comments>span{width:45vw!important}}.ua-ie #kig-wrap.page-infographics-lifetime-cost .glasses-wrap{display:table}.ua-edge #kig-wrap.page-infographics-lifetime-cost .glasses-wrap .img-max,.ua-ie #kig-wrap.page-infographics-lifetime-cost .glasses-wrap .img-max{width:60%}#kig-wrap.page-infographics-lifetime-cost .is-table-row.embot img{width:100%}#kig-wrap.page-infographics-measure-pd p{font-weight:400}#kig-wrap.page-infographics-hidden-cost label{font-weight:400;margin-bottom:0}#kig-wrap.page-infographics-hidden-cost p{color:#544847}#kig-wrap.page-infographics-frame-measurement .circle-container #measuring-pd a.measuring-pd{word-wrap:break-word}#kig-wrap .font-bold{font-family:'Lato Bold';font-weight:400}.page-infographics .sources-text{word-wrap:break-word}.page-infographics .fa{font-family:FontAwesome!important}
+.comp-left-navigation {
+    height: auto
+}
+.comp-left-navigation .btn-group {
+    margin-bottom: 0;
+    padding: 0!important
+}
+.comp-left-navigation #skip-left-content {
+    font-size: 14px;
+    left: 6%;
+    top: 1%;
+    padding: 4px;
+    position: absolute;
+    -webkit-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    transform: translateY(-100%);
+    -webkit-transition: -webkit-transform .3s;
+    transition: -webkit-transform .3s;
+    -o-transition: transform .3s;
+    transition: transform .3s;
+    transition: transform .3s, -webkit-transform .3s;
+    z-index: -1
+}
+@media (max-width:767px) {
+    .comp-left-navigation #skip-left-content {
+        display: none
+    }
+}
+.comp-left-navigation #skip-left-content:focus {
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+    z-index: 1
+}
+@media (max-width:767px) {
+    .comp-left-navigation .dropdown-toggle.btn-default {
+        width: 100%;
+        height: 48px;
+        border: 1px solid #d8d1ca!important;
+        padding-left: 12px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        font-family: 'Lato Regular';
+        font-weight: 400;
+        text-transform: capitalize
+    }
+    .comp-left-navigation .dropdown-toggle.btn-default .bs-caret {
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50px;
+        height: 47px;
+        border-left: 1px solid #d8d1ca
+    }
+    .comp-left-navigation .dropdown-toggle.btn-default .caret {
+        border-top: 7px solid #666;
+        border-left-width: 7px;
+        border-right-width: 7px;
+        margin-top: 18px
+    }
+}
+@media (min-width:768px) {
+    .comp-left-navigation .dropdown-toggle.btn-default {
+        padding-left: 15px
+    }
+}
+@media (max-width:330px) {
+    .comp-left-navigation .dropdown-toggle.btn-default {
+        padding-left: 4px
+    }
+}
+.comp-left-navigation.open .dropdown-toggle {
+    border-bottom-color: #d8d1ca
+}
+.comp-left-navigation.open .dropdown-toggle .bs-caret .caret {
+    border-top: none;
+    margin-top: -4px;
+    border-bottom: 7px dashed
+}
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-color: #d8d1ca
+}
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li.active {
+    display: none
+}
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li > a {
+    color: #007b8f;
+    display: block
+}
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li > a:active,
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li > a:focus,
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li > a:link,
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li > a:visited {
+    text-decoration: none
+}
+.comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li > a:hover {
+    color: #0091a9;
+    text-decoration: underline
+}
+@media (min-width:768px) {
+    .comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) {
+        display: block;
+        position: static
+    }
+    .comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li > .link-title {
+        color: #007b8f
+    }
+    .comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li.active {
+        display: block
+    }
+    .comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li.active > a {
+        color: #666
+    }
+    .comp-left-navigation .dropdown-menu:not(.account-dropdown-menu) > ul > li.active > a.link-title {
+        color: #666
+    }
+}
+.comp-left-navigation .dropdown-menu.account-dropdown-menu li.active {
+    display: none
+}
+.comp-left-navigation .dropdown-menu.account-dropdown-menu li.active a {
+    cursor: default
+}
+.comp-left-navigation .active-option {
+    width: 84%;
+    text-align: left
+}
+@media (min-width:768px) {
+    .comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default {
+        width: 100%;
+        height: 48px;
+        border: 1px solid #d8d1ca!important;
+        padding-left: 12px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        font-family: 'Lato Regular';
+        font-weight: 400;
+        text-transform: capitalize
+    }
+    .comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default .bs-caret {
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50px;
+        height: 47px;
+        border-left: 1px solid #d8d1ca
+    }
+    .comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default .caret {
+        border-top: 7px solid #666;
+        border-left-width: 7px;
+        border-right-width: 7px;
+        margin-top: 18px
+    }
+}
+@media (min-width:1024px) {
+    .comp-left-navigation.comp-left-navigation-account .dropdown-toggle.btn-default {
+        padding-left: 15px
+    }
+}
+.comp-left-navigation.comp-left-navigation-account .dropdown-menu .account-left-nav-list a:hover {
+    text-decoration: underline
+}
+@media (min-width:1024px) {
+    .comp-left-navigation.comp-left-navigation-account .dropdown-menu {
+        -webkit-box-shadow: none;
+        box-shadow: none
+    }
+}
+@media (min-width:1024px) {
+    .comp-left-navigation.comp-left-navigation-account .dropdown-menu {
+        display: block;
+        position: static
+    }
+    .comp-left-navigation.comp-left-navigation-account .dropdown-menu > ul > li > .link-title {
+        color: #666
+    }
+    .comp-left-navigation.comp-left-navigation-account .dropdown-menu > ul > li.active {
+        display: block
+    }
+    .comp-left-navigation.comp-left-navigation-account .dropdown-menu > ul > li.active > a {
+        color: #333
+    }
+    .comp-left-navigation.comp-left-navigation-account .dropdown-menu > ul > li.active > a.link-title {
+        color: #007b8f
+    }
+}
+.comp-left-navigation .btn-group.open #account-left-nav-dropdown.dropdown-toggle .caret {
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
+.comp-main-content {
+    min-height: 400px;
+    background-image: url(/dev/image/site/zenniLogoBg/zenni-bg-image-ph.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+    color: #333;
+    padding-bottom: 90px
+}
+.page-faq .comp-main-content {
+    min-height: 650px
+}
+.comp-main-content .main-content-section .h6,
+.comp-main-content .main-content-section h1 {
+    font-size: 14px;
+    line-height: 1
+}
+@media (min-width:768px) {
+    .comp-main-content .main-content-section .h6,
+    .comp-main-content .main-content-section h1 {
+        font-size: 16px
+    }
+}
+.comp-main-content .main-content-section#main-tnc h1 {
+    font-family: 'Tabac G1 Bold';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1.23
+}
+@media (max-width:767px) {
+    .comp-main-content .main-content-section#main-tnc h1 {
+        font-size: 26px
+    }
+}
+.comp-main-content h6 {
+    font-size: 14px
+}
+.comp-main-content h1 {
+    font-size: 32px;
+    line-height: 42px
+}
+.comp-main-content p,
+.comp-main-content ul {
+    font-size: 16px;
+    line-height: 22px
+}
+.comp-main-content #main-faq > h1 {
+    font-size: 36px;
+    line-height: 1.23
+}
+@media (max-width:767px) {
+    .comp-main-content #main-faq > h1 {
+        font-size: 26px
+    }
+}
+.comp-main-content .accordion > li h3 {
+    position: relative;
+    padding-left: 25px;
+    font-size: 16px;
+    margin-top: 11px
+}
+@media (max-width:767px) {
+    .comp-main-content .accordion > li h3 {
+        font-size: 16px
+    }
+}
+.comp-main-content .accordion > li.active h3 {
+    color: #007b8f
+}
+@media (min-width:768px) {
+    .comp-main-content .accordion > li a:hover h3 {
+        color: #007b8f
+    }
+}
+@media (min-width:768px) {
+    .comp-main-content h6 {
+        font-size: 16px
+    }
+    .comp-main-content p,
+    .comp-main-content ul {
+        font-size: 18px;
+        line-height: 24px
+    }
+}
+@media (min-width:1024px) {
+    .comp-main-content {
+        background-image: url(/dev/image/site/zenniLogoBg/bg-image-lg.jpg)
+    }
+    .comp-main-content h1 {
+        font-size: 44px;
+        line-height: 54px
+    }
+}
+.comp-main-content ul > li {
+    line-height: 30px
+}
+.page-about-zenni .comp-main-content ul > li:before,
+.page-information-about-zenni .comp-main-content ul > li:before {
+    content: "\f0c8";
+    font-family: 'Font Awesome 5 Pro';
+    color: #007b8f;
+    vertical-align: middle;
+    padding-right: 10px
+}
+.comp-main-content .title-border {
+    width: 40px;
+    height: 2px
+}
+.comp-main-content#comp-information-faq ul > li:before {
+    content: "";
+    padding-right: 0
+}
+.comp-main-content#comp-information-faq .accordion p img {
+    max-width: 100%
+}
+#comp-promotional-content .logo-promotional-content {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 25px 0 0
+}
+#comp-promotional-content .logo-promotional-content.logo-fda {
+    background: url(/dev/image/site/information-pages/promotional-content/fda-logo.png) center center;
+    width: 45px
+}
+#comp-promotional-content .logo-promotional-content.logo-bbb {
+    background: url(/dev/image/site/information-pages/promotional-content/bbb-a.png) center center;
+    width: 45px
+}
+#comp-promotional-content .logo-promotional-content.logo-customer {
+    background: url(/dev/image/site/information-pages/promotional-content/cutomer-award.png) center center;
+    width: 35px
+}
+#comp-promotional-content .logo-promotional-content.logo-bbb,
+#comp-promotional-content .logo-promotional-content.logo-customer,
+#comp-promotional-content .logo-promotional-content.logo-fda {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 35px
+}
+.comp-promotional-content h2 {
+    font-family: 'Tabac G1 Bold';
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 1
+}
+.comp-promotional-content h2.scaling {
+    font-size: 3.90625vw
+}
+@media (min-width:1024px) {
+    .comp-promotional-content h2.scaling {
+        font-size: 3.515625vw
+    }
+}
+@media (min-width:1650px) {
+    .comp-promotional-content h2.scaling {
+        font-size: 2.78787879vw
+    }
+}
+@media (max-width:767px) {
+    .comp-promotional-content h2 {
+        font-size: 32px
+    }
+    .comp-promotional-content h2.scaling {
+        font-size: 8.53333333vw
+    }
+}
+.comp-promotional-content p {
+    font-size: 16px
+}
+@media (min-width:1024px) {
+    .comp-promotional-content p {
+        font-size: 11px
+    }
+}
+@media (min-width:1650px) {
+    .comp-promotional-content p {
+        font-size: 18px
+    }
+}
+@media (min-width:1650px) {
+    #comp-promotional-content .logo-promotional-content {
+        margin: 0 35px 0 0
+    }
+    #comp-promotional-content .logo-promotional-content.logo-fda {
+        width: 75px
+    }
+    #comp-promotional-content .logo-promotional-content.logo-bbb {
+        width: 65px
+    }
+    #comp-promotional-content .logo-promotional-content.logo-customer {
+        width: 55px
+    }
+    #comp-promotional-content .logo-promotional-content.logo-bbb,
+    #comp-promotional-content .logo-promotional-content.logo-customer,
+    #comp-promotional-content .logo-promotional-content.logo-fda {
+        height: 55px
+    }
+}
+.page-information-how-to h2 a.color-gray-darker:visited {
+    color: #333
+}
+.page-information-how-to h2 a.color-gray-darker:visited:hover {
+    color: #007b8f
+}
+@media (max-width:1023px) {
+    .page-information-how-to h2 a.color-gray-darker:visited:hover {
+        color: #333
+    }
+}
+.page-information-how-to #comp-left-nav-howto .dropdown-menu > h1 {
+    line-height: 1.375
+}
+#comp-infographics-shop-by-face .titlebox {
+    margin-bottom: 64px
+}
+#comp-infographics-shop-by-face .titlebox p {
+    font-size: 14px
+}
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap .header-icon {
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    width: 2em;
+    height: 2em
+}
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a {
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s
+}
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:active,
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover,
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:link,
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:visited {
+    color: #fff
+}
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover {
+    text-decoration: underline
+}
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover .header-icon {
+    padding: 2px
+}
+#comp-infographics-shop-by-face .titlebox .header-icon-wrap a:hover p {
+    -webkit-transform: translateY(10%);
+    -ms-transform: translateY(10%);
+    transform: translateY(10%)
+}
+#comp-infographics-shop-by-face section hr {
+    margin-top: 0;
+    border-width: 2px
+}
+#comp-infographics-shop-by-face section li {
+    list-style: none
+}
+#comp-infographics-shop-by-face section li:before {
+    position: absolute;
+    color: #007b8f;
+    content: "\2022";
+    left: 25px;
+    font-size: 1.6em;
+    margin-top: 2px
+}
+@media (max-width:767px) {
+    #comp-infographics-shop-by-face section li:before {
+        left: 18px
+    }
+}
+#comp-infographics-shop-by-face section .row-section-top .h3,
+#comp-infographics-shop-by-face section .row-section-top .h6,
+#comp-infographics-shop-by-face section .row-section-top h3,
+#comp-infographics-shop-by-face section .row-section-top h6 {
+    height: 40px;
+    margin-top: 0
+}
+#comp-infographics-shop-by-face section .row-section-top .h6,
+#comp-infographics-shop-by-face section .row-section-top h6 {
+    line-height: 50px;
+    color: #333
+}
+#comp-infographics-shop-by-face section .row-section-top ul {
+    padding-left: 25px;
+    margin-bottom: 0
+}
+#comp-infographics-shop-by-face section .row-images {
+    margin: 30px 0;
+    padding: 0 15px
+}
+@media (min-width:1024px) {
+    #comp-infographics-shop-by-face section .row-images {
+        margin: 30px 0;
+        padding: 0 0
+    }
+    #comp-infographics-shop-by-face section .row-images span:not(.img-mid) {
+        width: 30%;
+        float: left;
+        padding-left: 0;
+        padding-right: 0
+    }
+    #comp-infographics-shop-by-face section .row-images .img-mid {
+        width: 40%;
+        float: left
+    }
+    #comp-infographics-shop-by-face section .row-images .img-mid img {
+        display: block;
+        margin: 0 auto;
+        width: 40%
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-oval {
+        background-color: #cf0d9e
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-oval .img-mid img {
+        margin-top: 7%
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-round {
+        background-color: #00c8ff
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-round .img-mid img {
+        margin-top: 13%
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-square {
+        background-color: #811d63
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-square .img-mid img {
+        margin-top: 13%
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-diamond {
+        background-color: #f65275
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-diamond .img-mid img {
+        margin-top: 5%
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-pear {
+        background-color: #007b8f
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-pear .img-mid img {
+        margin-top: 5%
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-heart {
+        background-color: #130087
+    }
+    #comp-infographics-shop-by-face section .row-images.row-images-heart .img-mid img {
+        margin-top: 13%
+    }
+}
+#comp-infographics-shop-by-face section .frames-flatter .frames-icon-wrap {
+    position: absolute;
+    left: 48%;
+    width: 5%;
+    margin-top: 28px;
+    margin-left: -4px
+}
+#comp-infographics-shop-by-face section .frames-flatter .glass-wrap img.glasses {
+    min-height: 36px
+}
+#comp-infographics-shop-by-face section .frames-flatter .glass-wrap .flatter-text p {
+    line-height: 18px
+}
+@media (min-width:1024px) and (max-width:1280px) {
+    #comp-infographics-shop-by-face section .frames-flatter .glass-wrap .flatter-text p {
+        font-size: 16px
+    }
+}
+@media (min-width:1024px) {
+    #comp-infographics-shop-by-face section .core-col-btn .btn {
+        width: 45%
+    }
+}
+#comp-infographics-shop-by-face section#section-logo {
+    margin: 80px 50px 50px
+}
+#comp-infographics-shop-by-face .fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp
+}
+@-webkit-keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0)
+    }
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none
+    }
+}
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0)
+    }
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none
+    }
+}
+@media (max-width:1649px) {
+    #measuring-pd-infographic .main-content-section > h3 {
+        text-align: center
+    }
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .tool img {
+    height: 100px
+}
+@media (max-width:374px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .tool img {
+        height: 90px
+    }
+}
+@media (min-width:1280px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .tool img {
+        height: 160px
+    }
+}
+@media (min-width:1024px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .friend {
+        margin-top: 2em
+    }
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-list li {
+    font-size: 18px;
+    font-weight: 400
+}
+@media (min-width:1024px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-list li {
+        font-size: 24px
+    }
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd h2.fancy span {
+    color: #444
+}
+@media (min-width:1024px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd h2.fancy span {
+        font-size: 36px
+    }
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-link {
+    padding: 12px 10px;
+    font-size: 16px;
+    font-weight: 600
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel {
+    left: 0;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-list li {
+    margin: 15px 0 15px
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-text {
+    margin-left: 21px;
+    width: 69%;
+    font-size: 18px;
+    font-weight: 500
+}
+@media (min-width:1024px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-text {
+        font-size: 24px
+    }
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-num {
+    font-size: 22px;
+    width: 30px;
+    height: 30px
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .pd-panel .pd-inner h2 {
+    font-size: 22px;
+    color: #444
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .friend-measure-your-pd p {
+    font-size: 18px
+}
+@media (min-width:1024px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd .friend-measure-your-pd p {
+        font-size: 24px
+    }
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd h3.necessary-tools-heading {
+    font-size: 24px;
+    margin-top: 0!important
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd hr {
+    border-color: #f6f6f3
+}
+@media (max-width:767px) {
+    #measuring-pd-infographic #kig-wrap.page-infographics-measure-pd p.learn-how-link {
+        text-align: center
+    }
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd p.learn-how-link a {
+    color: #007b8f
+}
+#measuring-pd-infographic #kig-wrap.page-infographics-measure-pd a.color-primary {
+    color: #007b8f
+}
+#price-comparison .bdt {
+    border-top: 1px solid #007b8f!important
+}
+#price-comparison .bdb {
+    border-bottom: 1px solid #007b8f!important
+}
+#price-comparison .bdl {
+    border-left: 1px solid #007b8f!important
+}
+#price-comparison .bdr {
+    border-right: 1px solid #007b8f!important
+}
+@font-face {
+    font-family: "Tabac G1";
+    src: url(/dev/fonts/suitcase_type_foundry_-_tabacg1-webfont.woff2) format("woff2"), url(/dev/fonts/suitcase_type_foundry_-_tabacg1-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: "Tabac G1 Italic";
+    src: url(/dev/fonts/suitcase_type_foundry_-_tabacg1-italic-webfont.woff2) format("woff2"), url(/dev/fonts/suitcase_type_foundry_-_tabacg1-italic-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: italic
+}
+@font-face {
+    font-family: "Tabac G1 Medium Bold";
+    src: url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff2) format("woff2"), url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff) format("woff");
+    font-weight: 700;
+    font-style: normal
+}
+@font-face {
+    font-family: "Tabac G1 Bold";
+    src: url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff2) format("woff2"), url(/dev/fonts/suitcase_type_foundry_-_tabacg1-bold-webfont.woff) format("woff");
+    font-weight: 700;
+    font-style: normal
+}
+#kig-wrap * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: Lato, sans-serif
+}
+#kig-wrap .beige {
+    color: #d8d1ca
+}
+#kig-wrap .beige-bg {
+    background: #d8d1ca
+}
+#kig-wrap .brown {
+    color: #544847
+}
+#kig-wrap .midbrown {
+    color: #7a7168
+}
+#kig-wrap .midbrown-bg {
+    background: #948a86
+}
+#kig-wrap .bluegreen {
+    color: #007b8f
+}
+#kig-wrap .bluegreen-bg {
+    background: #007b8f
+}
+#kig-wrap .white {
+    color: #fff
+}
+#kig-wrap .white-bg {
+    background: #fff
+}
+#kig-wrap .darkorange {
+    color: #ce6f40
+}
+#kig-wrap .darkorange-bg {
+    background-color: #ce6f40
+}
+#kig-wrap .pinkle {
+    color: #f05475
+}
+#kig-wrap .pinkle-bg {
+    background: #f05475
+}
+#kig-wrap .orange {
+    color: #f7911e
+}
+#kig-wrap .orange-bg {
+    background: #f7911e
+}
+#kig-wrap .purple {
+    color: #7675b5
+}
+#kig-wrap .purple-bg {
+    background: #545f84
+}
+#kig-wrap .lightgreen {
+    color: #47d7ac
+}
+#kig-wrap .lightgreen-bg {
+    background: #47d7ac
+}
+#kig-wrap .lightblue {
+    color: #32c5f4
+}
+#kig-wrap .lightblue-bg {
+    background: #32c5f4
+}
+#kig-wrap .btn-primary {
+    color: #fff!important
+}
+#kig-wrap .btn-secondary {
+    color: #007b8f!important
+}
+#kig-wrap .grey {
+    color: #d8d1ca
+}
+#kig-wrap .grey-bg {
+    background: #e3e3e3
+}
+#kig-wrap h1 {
+    font-family: "Tabac G1 Bold", serif;
+    font-weight: 600;
+    font-size: 24px
+}
+#kig-wrap h1 span {
+    font-family: "Tabac G1 Bold", serif;
+    font-size: 24px
+}
+#kig-wrap h2 {
+    font-family: "Tabac G1 Bold", serif;
+    font-size: 18px;
+    font-family: "Tabac G1", serif
+}
+#kig-wrap h2 span {
+    font-family: "Tabac G1 Bold", serif
+}
+#kig-wrap h3 {
+    font-family: "Tabac G1 Bold", serif;
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 0
+}
+#kig-wrap h3 span {
+    font-family: "Tabac G1 Bold", serif;
+    font-size: 20px
+}
+#kig-wrap h5 {
+    font-family: "Tabac G1 Bold", serif;
+    font-weight: 400
+}
+#kig-wrap h5 span {
+    font-family: "Tabac G1 Bold", serif
+}
+#kig-wrap h6 {
+    font-family: "Tabac G1 Bold", serif
+}
+#kig-wrap h6 span {
+    font-family: "Tabac G1 Bold", serif
+}
+#kig-wrap h4 {
+    font-family: Lato, sans-serif;
+    font-size: 11px;
+    font-weight: 600
+}
+#kig-wrap label {
+    font-size: 16px
+}
+#kig-wrap p {
+    font-size: 16px;
+    font-weight: 400
+}
+#kig-wrap span {
+    font-size: 16px;
+    font-weight: 400
+}
+#kig-wrap li {
+    font-size: 16px
+}
+#kig-wrap .fancy {
+    text-align: center
+}
+#kig-wrap .fancy span {
+    display: inline-block;
+    position: relative
+}
+#kig-wrap .fancy span:after {
+    content: " ";
+    position: absolute;
+    height: 8px;
+    border-bottom: 2px solid #948a86;
+    top: 0;
+    width: 25%;
+    left: 100%;
+    margin-left: 8px
+}
+#kig-wrap .fancy span:before {
+    content: " ";
+    position: absolute;
+    height: 8px;
+    border-bottom: 2px solid #948a86;
+    top: 0;
+    width: 25%;
+    right: 100%;
+    margin-right: 8px
+}
+#kig-wrap h1.fancy span:after {
+    height: 14px
+}
+#kig-wrap h1.fancy span:before {
+    height: 14px
+}
+#kig-wrap h3.fancy span:after {
+    display: none
+}
+#kig-wrap h3.fancy span:before {
+    display: none
+}
+#kig-wrap .fancy.bluegreen span:after {
+    border-bottom: 2px solid #0099a8
+}
+#kig-wrap .fancy.bluegreen span:before {
+    border-bottom: 2px solid #0099a8
+}
+#kig-wrap .fancy.white span:after {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap .fancy.white span:before {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap .bigtext {
+    font-size: 1.4em;
+    font-family: "Lato Bold"
+}
+#kig-wrap .page-infographics-hidden-cost .nope {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap .page-infographics-faceshape h4 {
+    color: #544847
+}
+#kig-wrap.page-infographics-adjust-glasses .item {
+    text-align: center
+}
+#kig-wrap.page-infographics-adjust-glasses .item p {
+    color: #948a86
+}
+#kig-wrap.page-infographics-adjust-glasses .titlebox {
+    background: #007b8f;
+    color: #fff;
+    height: 110px;
+    overflow: hidden;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-adjust-glasses .fancy.titlebox span:after {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-adjust-glasses .fancy.titlebox span:before {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-adjust-glasses label {
+    color: #948a86
+}
+#kig-wrap.page-infographics-adjust-glasses p {
+    color: #7a7168
+}
+#kig-wrap.page-infographics-adjust-glasses a {
+    color: #948a86;
+    text-decoration: none
+}
+#kig-wrap.page-infographics-adjust-glasses .fancy-wrap {
+    overflow-x: hidden;
+    overflow-y: visible
+}
+#kig-wrap.page-infographics-adjust-glasses .height110 {
+    height: 110px;
+    overflow: hidden
+}
+#kig-wrap.page-infographics-adjust-glasses h2 {
+    text-align: center
+}
+#kig-wrap.page-infographics-adjust-glasses h2:nth-of-type(2) {
+    margin-top: 4px
+}
+#kig-wrap.page-infographics-adjust-glasses h3 {
+    text-align: center
+}
+#kig-wrap.page-infographics-adjust-glasses h4 {
+    padding-top: 1em
+}
+#kig-wrap.page-infographics-adjust-glasses ul {
+    margin: 0;
+    padding-left: 0
+}
+#kig-wrap.page-infographics-adjust-glasses ul li {
+    color: #948a86;
+    margin-bottom: .5em
+}
+#kig-wrap.page-infographics-adjust-glasses hr {
+    border-color: #0099a8
+}
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .box,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .item,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-frame-measurement .box,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .flex-item,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .item,
+#kig-wrap.page-infographics-adjust-glasses .ta-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .glass-wrap,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-faceshape .person-list,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-frame-measurement .glass-wrap,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .glass-wrap,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .nope,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-lifetime-cost .spend-wrap,
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-measure-pd .glass-wrap,
+#kig-wrap.page-infographics-adjust-glasses .glass-wrap,
+#kig-wrap.page-infographics-adjust-glasses .vert-center,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-adjust-glasses .glass-wrap,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-faceshape .person-list,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .nope,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-lifetime-cost .spend-wrap,
+#kig-wrap.page-infographics-frame-measurement .box,
+#kig-wrap.page-infographics-frame-measurement .titlebox,
+#kig-wrap.page-infographics-frame-measurement .vert-center,
+#kig-wrap.page-infographics-frame-measurement ul.exed {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .titlebox {
+    overflow: hidden;
+    text-align: center
+}
+#kig-wrap.page-infographics-adjust-glasses .glass-wrap {
+    max-width: 100%;
+    height: 80px;
+    margin-top: 1em;
+    margin-bottom: .5em
+}
+#kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-lifetime-cost .glass-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-adjust-glasses .bs-nopad {
+    padding-left: 0;
+    padding-right: 0
+}
+#kig-wrap.page-infographics-adjust-glasses .bs-halfpad {
+    padding-left: 8px;
+    padding-right: 8px
+}
+#kig-wrap.page-infographics-adjust-glasses .flex-item,
+#kig-wrap.page-infographics-adjust-glasses .flex-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-adjust-glasses .flex-wrap.column {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 1.5em;
+    max-width: 40%
+}
+#kig-wrap.page-infographics-adjust-glasses .person {
+    max-width: 80%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    height: auto
+}
+#kig-wrap.page-infographics-adjust-glasses #logo {
+    width: 70%;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-top: 1em
+}
+#kig-wrap.page-infographics-adjust-glasses .lens-closer {
+    width: 100%
+}
+#kig-wrap.page-infographics-adjust-glasses .lens-closer-left {
+    margin-right: 7%
+}
+#kig-wrap.page-infographics-adjust-glasses .lens-closer-right {
+    margin-left: 7%
+}
+#kig-wrap.page-infographics-adjust-glasses .small {
+    font-size: 60%;
+    color: #544847
+}
+#kig-wrap.page-infographics-adjust-glasses .vc-row {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row
+}
+#kig-wrap.page-infographics-adjust-glasses .vc-row * {
+    margin-left: 4px;
+    margin-right: 4px
+}
+#kig-wrap.page-infographics-adjust-glasses .glasses {
+    max-height: 100%;
+    width: 100%
+}
+#kig-wrap.page-infographics-adjust-glasses .higher-person {
+    width: 40%
+}
+#kig-wrap.page-infographics-adjust-glasses .higher-glasses {
+    width: 60%
+}
+#kig-wrap.page-infographics-adjust-glasses a.text-center,
+#kig-wrap.page-infographics-adjust-glasses p.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-adjust-glasses .m-top {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #7a7168;
+    font-weight: 600;
+    font-size: 18px
+}
+#kig-wrap.page-infographics-frame-measurement .item {
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement .item p {
+    color: #7a7168
+}
+#kig-wrap.page-infographics-frame-measurement .titlebox {
+    background: #0099a8;
+    color: #fff;
+    height: 110px;
+    overflow: hidden;
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement .fancy.titlebox span:after {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-frame-measurement .fancy.titlebox span:before {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-adjust-glasses .box {
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement h1 {
+    font-family: "Tabac G1 Bold";
+    font-size: 24px
+}
+#kig-wrap.page-infographics-frame-measurement h1 span {
+    font-size: 24px
+}
+#kig-wrap.page-infographics-frame-measurement h2 {
+    font-family: "Tabac G1 Bold";
+    text-transform: capitalize;
+    font-size: 20px;
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement h2 span {
+    font-size: 20px
+}
+#kig-wrap.page-infographics-frame-measurement h2:nth-of-type(2) {
+    margin-top: 4px
+}
+#kig-wrap.page-infographics-frame-measurement h4 {
+    font-family: "Lato Bold";
+    font-size: 16px;
+    color: #444
+}
+#kig-wrap.page-infographics-frame-measurement label,
+#kig-wrap.page-infographics-frame-measurement p {
+    color: #7a7168
+}
+#kig-wrap.page-infographics-frame-measurement a {
+    color: #948a86;
+    text-align: center;
+    display: block
+}
+#kig-wrap.page-infographics-frame-measurement .purple-bg a:active,
+#kig-wrap.page-infographics-frame-measurement .purple-bg a:link,
+#kig-wrap.page-infographics-frame-measurement .purple-bg a:visited {
+    color: #fff
+}
+#kig-wrap.page-infographics-frame-measurement .purple-bg a:hover {
+    color: #d8d1ca
+}
+#kig-wrap.page-infographics-frame-measurement .fancy-wrap {
+    overflow-x: hidden;
+    overflow-y: visible
+}
+#kig-wrap.page-infographics-frame-measurement ul.checked {
+    color: #948a86;
+    list-style: none;
+    margin-left: 2em;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-frame-measurement ul.checked li:before {
+    content: '';
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    background: url(/dev/image/site/infographics/checkmark.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 24px;
+    margin-left: -24px
+}
+#kig-wrap.page-infographics-frame-measurement ul.exed {
+    color: #948a86;
+    list-style: none;
+    margin-left: 2em
+}
+#kig-wrap.page-infographics-frame-measurement ul.exed li:before {
+    content: '';
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    background: url(/dev/image/site/infographics/exmark.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 24px;
+    margin-left: -24px
+}
+#kig-wrap.page-infographics-frame-measurement .height110 {
+    height: 110px;
+    overflow: hidden
+}
+#kig-wrap.page-infographics-frame-measurement h3 {
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement h3.fancy {
+    margin-top: 0
+}
+#kig-wrap.page-infographics-frame-measurement ul {
+    margin: 0;
+    padding-left: 0
+}
+#kig-wrap.page-infographics-frame-measurement ul li {
+    color: #948a86;
+    margin-bottom: .5em
+}
+#kig-wrap.page-infographics-frame-measurement .item.glasses {
+    margin-bottom: 2em
+}
+#kig-wrap.page-infographics-frame-measurement .box {
+    width: 100%;
+    margin: 1em 0 1em;
+    padding: .8em 1em;
+    color: #fff;
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement .box p {
+    margin: 0;
+    color: #fff
+}
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-faceshape .item,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .box,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .flex-item,
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .item,
+#kig-wrap.page-infographics-frame-measurement .ta-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .titlebox {
+    overflow: hidden;
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement .bs-nopad {
+    padding-left: 0;
+    padding-right: 0
+}
+#kig-wrap.page-infographics-frame-measurement .bs-halfpad {
+    padding-left: 8px;
+    padding-right: 8px
+}
+#kig-wrap.page-infographics-frame-measurement .flex-item,
+#kig-wrap.page-infographics-frame-measurement .flex-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-frame-measurement .flex-wrap.column {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 1.5em;
+    max-width: 40%
+}
+#kig-wrap.page-infographics-frame-measurement img.glasses {
+    width: 142px;
+    height: 80px
+}
+#kig-wrap.page-infographics-frame-measurement img.circle {
+    height: 90px;
+    margin-top: 1em
+}
+#kig-wrap.page-infographics-frame-measurement img.person2 {
+    height: 85px;
+    margin-bottom: 1em
+}
+#kig-wrap.page-infographics-frame-measurement .frame-lady {
+    width: 90%;
+    display: block;
+    margin: 0 auto
+}
+#kig-wrap.page-infographics-frame-measurement .frame-lady-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+#kig-wrap.page-infographics-frame-measurement .frame-lady-text {
+    color: #7a7168;
+    text-align: left
+}
+#kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 160px
+}
+#kig-wrap.page-infographics-frame-measurement #logo {
+    width: 70%;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-frame-measurement .finale-wrap-text {
+    margin-left: 1em;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    color: #948a86
+}
+#kig-wrap.page-infographics-frame-measurement .finale-wrap-text p span {
+    color: #000
+}
+#kig-wrap.page-infographics-frame-measurement .hint-glasses {
+    margin-right: 16px;
+    margin-bottom: 8px
+}
+#kig-wrap.page-infographics-frame-measurement #measuring-pd {
+    font-size: 12px;
+    width: auto!important
+}
+#kig-wrap.page-infographics-frame-measurement .six {
+    width: 80%;
+    display: block;
+    margin: 0 auto 1em
+}
+#kig-wrap.page-infographics-frame-measurement .six p {
+    font-weight: 800
+}
+#kig-wrap.page-infographics-frame-measurement .computer {
+    width: 100px;
+    display: block;
+    margin: 1em auto
+}
+#kig-wrap.page-infographics-frame-measurement .circle-text {
+    text-align: left
+}
+#kig-wrap.page-infographics-frame-measurement p.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement a.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-frame-measurement .m-top {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #7a7168;
+    font-weight: 600;
+    font-size: 18px
+}
+#kig-wrap.page-infographics-hidden-cost .link {
+    color: #0099a8;
+    font-weight: 500
+}
+#kig-wrap.page-infographics-hidden-cost .titlebox {
+    background: #0099a8;
+    color: #fff;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-hidden-cost .fancy.link span:after {
+    border-bottom: 1px solid #0099a8
+}
+#kig-wrap.page-infographics-hidden-cost .fancy.link span:before {
+    border-bottom: 1px solid #0099a8
+}
+#kig-wrap.page-infographics-hidden-cost .fancy.titlebox span:after {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-hidden-cost .fancy.titlebox span:before {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .flex-item {
+    text-align: center
+}
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .glass-wrap,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .nope,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .nope,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .nope {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .titlebox,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .titlebox,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .titlebox {
+    overflow: hidden;
+    text-align: center
+}
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .item,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .box,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .flex-item,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .person-list,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .box,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .flex-item,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .item,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .nope,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .spend-wrap,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-measure-pd .nope {
+    text-align: center
+}
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .titlebox,
+#kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-measure-pd .titlebox {
+    overflow: hidden
+}
+#kig-wrap.page-infographics-hidden-cost a.text-center,
+#kig-wrap.page-infographics-hidden-cost p.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-hidden-cost p {
+    color: #544847
+}
+#kig-wrap.page-infographics-hidden-cost label {
+    color: #544847;
+    font-weight: 400
+}
+#kig-wrap.page-infographics-hidden-cost .height110 {
+    overflow: hidden
+}
+#kig-wrap.page-infographics-hidden-cost h1 {
+    color: #fff;
+    margin-bottom: 20px
+}
+#kig-wrap.page-infographics-hidden-cost h2 {
+    text-align: center;
+    font-family: "Tabac G1 Bold", serif;
+    font-size: 19px
+}
+#kig-wrap.page-infographics-hidden-cost h2 span {
+    font-family: "Tabac G1 Bold", serif;
+    font-size: 19px
+}
+#kig-wrap.page-infographics-hidden-cost h2:nth-of-type(2) {
+    margin-top: 4px
+}
+#kig-wrap.page-infographics-hidden-cost .fancy span:before {
+    border-width: 2px
+}
+#kig-wrap.page-infographics-hidden-cost .fancy span:after {
+    border-width: 2px
+}
+#kig-wrap.page-infographics-hidden-cost .box {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    height: 86px;
+    margin: 1em 0 1em
+}
+#kig-wrap.page-infographics-hidden-cost .box img {
+    width: 200px;
+    position: static;
+    bottom: 0
+}
+#kig-wrap.page-infographics-hidden-cost .box svg {
+    width: 200px;
+    position: static;
+    bottom: 0
+}
+#kig-wrap.page-infographics-hidden-cost .nope {
+    height: 202px;
+    background: url(/dev/image/site/infographics/wordpattern.svg);
+    background-position: top center;
+    background-size: 1100px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-hidden-cost .nope h3 {
+    color: #fff;
+    width: 60%;
+    margin: 0 auto
+}
+#kig-wrap.page-infographics-hidden-cost .ta-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-hidden-cost .flex-item {
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 1em .5em
+}
+#kig-wrap.page-infographics-hidden-cost .flex-item img {
+    width: 60px
+}
+#kig-wrap.page-infographics-hidden-cost .vert-center {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-hidden-cost .bs-nopad {
+    padding-left: 0;
+    padding-right: 0
+}
+#kig-wrap.page-infographics-hidden-cost .bs-halfpad {
+    padding-left: 8px;
+    padding-right: 8px
+}
+#kig-wrap.page-infographics-hidden-cost .flex-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 0
+}
+#kig-wrap.page-infographics-hidden-cost .flex-item.two {
+    max-width: 40%
+}
+#kig-wrap.page-infographics-hidden-cost .flex-item.three {
+    max-width: 22%
+}
+#kig-wrap.page-infographics-hidden-cost .flex-item.four {
+    width: 30%
+}
+#kig-wrap.page-infographics-hidden-cost #house {
+    height: 98px;
+    -webkit-transform: translateX(-10%);
+    -ms-transform: translateX(-10%);
+    transform: translateX(-10%)
+}
+#kig-wrap.page-infographics-hidden-cost #logo {
+    width: 70%;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-top: 1em
+}
+#kig-wrap.page-infographics-hidden-cost .beige-moneys {
+    background: url(/dev/image/site/infographics/beige-money.svg);
+    background-repeat: no-repeat
+}
+#kig-wrap.page-infographics-hidden-cost .dollars .flex-item {
+    margin: .5em 0
+}
+#kig-wrap.page-infographics-hidden-cost .end-sentence {
+    margin: 1em auto 1em;
+    display: block;
+    width: 100%;
+    padding: 0;
+    color: #544847
+}
+#kig-wrap.page-infographics-hidden-cost .m-top {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #7a7168;
+    font-weight: 600;
+    font-size: 18px
+}
+#kig-wrap.page-infographics-faceshape .titlebox {
+    background: #0099a8;
+    color: #fff;
+    height: 110px;
+    overflow: hidden;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-faceshape .fancy.titlebox span:after {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-faceshape .fancy.titlebox span:before {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .box {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .person-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .item {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-adjust-glasses .glass-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-frame-measurement .person-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-frame-measurement .item {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape .height110 {
+    height: 110px;
+    overflow: hidden
+}
+#kig-wrap.page-infographics-faceshape h1 {
+    color: #fff
+}
+#kig-wrap.page-infographics-faceshape h2 {
+    text-align: center;
+    font-size: 19px;
+    text-transform: capitalize
+}
+#kig-wrap.page-infographics-faceshape h2 span {
+    font-size: 19px
+}
+#kig-wrap.page-infographics-faceshape h2 span:before {
+    border-bottom: 2px solid #0099a8;
+    right: 100%;
+    margin-right: 10px;
+    width: 300px
+}
+#kig-wrap.page-infographics-faceshape h2:nth-of-type(2) {
+    margin-top: 4px
+}
+#kig-wrap.page-infographics-faceshape h2.fancy span:after {
+    border-bottom: 2px solid #0099a8;
+    left: 100%;
+    margin-left: 10px;
+    width: 300px
+}
+#kig-wrap.page-infographics-faceshape h4 {
+    font-size: 16px
+}
+#kig-wrap.page-infographics-faceshape ul {
+    margin: 0;
+    padding-left: 1em;
+    padding-right: 1em
+}
+#kig-wrap.page-infographics-faceshape ul li {
+    color: #948a86;
+    margin-bottom: .5em
+}
+#kig-wrap.page-infographics-faceshape .box {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 1em 0 1em;
+    padding: .8em 1em;
+    color: #fff;
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape .box p {
+    margin: 0
+}
+#kig-wrap.page-infographics-faceshape .ta-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .flex-item {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .nope,
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .person-list,
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-lifetime-cost .person-list,
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-lifetime-cost .spend-wrap,
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-measure-pd .person-list,
+#kig-wrap.page-infographics-faceshape .person-list,
+#kig-wrap.page-infographics-faceshape .vert-center {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .titlebox {
+    overflow: hidden;
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .box {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape .person-list {
+    text-align: left;
+    padding-left: 48px;
+    height: 140px;
+    padding-bottom: 16px
+}
+#kig-wrap.page-infographics-faceshape .person-list li {
+    list-style-type: disc;
+    font-size: 19px
+}
+#kig-wrap.page-infographics-faceshape .bs-nopad {
+    padding-left: 0;
+    padding-right: 0
+}
+#kig-wrap.page-infographics-faceshape .bs-halfpad {
+    padding-left: 8px;
+    padding-right: 8px
+}
+#kig-wrap.page-infographics-faceshape .flex-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start
+}
+#kig-wrap.page-infographics-faceshape .flex-wrap.column {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 1.5em;
+    max-width: 40%
+}
+#kig-wrap.page-infographics-faceshape .flex-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+#kig-wrap.page-infographics-faceshape img.glasses {
+    width: 142px;
+    height: 80px;
+    padding: 6px 12px
+}
+#kig-wrap.page-infographics-faceshape img.person {
+    height: 105px
+}
+#kig-wrap.page-infographics-faceshape .person2 {
+    width: 100px;
+    max-width: 100px;
+    margin-bottom: 1em
+}
+#kig-wrap.page-infographics-faceshape .person-wrap {
+    height: 120px
+}
+#kig-wrap.page-infographics-faceshape #logo {
+    width: 70%;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-faceshape .finale-wrap-text {
+    padding-left: 1em;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    color: #948a86;
+    text-align: left
+}
+#kig-wrap.page-infographics-faceshape .finale-wrap-text p span {
+    color: #000
+}
+#kig-wrap.page-infographics-faceshape ul.list-shared {
+    color: #948a86;
+    list-style: none;
+    margin-left: 1em;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: left
+}
+#kig-wrap.page-infographics-faceshape ul.list-shared li:before {
+    content: '';
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: -18px;
+    margin-right: 6px
+}
+#kig-wrap.page-infographics-faceshape ul.list-shared.checked li:before {
+    background: url(/dev/image/site/infographics/checkmark.svg)
+}
+#kig-wrap.page-infographics-faceshape ul.list-shared.exed li:before {
+    background: url(/dev/image/site/infographics/exmark.svg)
+}
+#kig-wrap.page-infographics-faceshape p.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape a.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-faceshape .m-top {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #948a86;
+    font-weight: 600;
+    font-size: 18px
+}
+#kig-wrap.page-infographics-measure-pd .titlebox {
+    background: #0099a8;
+    color: #fff;
+    height: 110px;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-measure-pd .fancy.titlebox span:after {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-measure-pd .fancy.titlebox span:before {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-measure-pd h2 {
+    font-family: "Tabac G1 Bold", serif
+}
+#kig-wrap.page-infographics-measure-pd h2 span {
+    font-size: 20px
+}
+#kig-wrap.page-infographics-measure-pd .h2 {
+    font-family: "Tabac G1 Bold", serif
+}
+#kig-wrap.page-infographics-measure-pd .h2 span {
+    font-size: 20px
+}
+#kig-wrap.page-infographics-measure-pd h3 {
+    font-family: 'Lato Black';
+    margin-top: 20px!important;
+    margin-bottom: 10px!important
+}
+#kig-wrap.page-infographics-measure-pd .h3 {
+    font-family: 'Lato Black';
+    margin-top: 20px!important;
+    margin-bottom: 10px!important
+}
+#kig-wrap.page-infographics-measure-pd label {
+    color: #948a86;
+    text-align: center;
+    font-size: 16px
+}
+#kig-wrap.page-infographics-measure-pd p {
+    color: #948a86;
+    text-align: center;
+    font-size: 16px;
+    color: #544847;
+    text-align: left
+}
+#kig-wrap.page-infographics-measure-pd a {
+    color: #948a86;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none
+}
+#kig-wrap.page-infographics-measure-pd p.midbrown {
+    color: #7a7168
+}
+#kig-wrap.page-infographics-measure-pd .height110 {
+    height: 110px;
+    overflow: hidden
+}
+#kig-wrap.page-infographics-measure-pd ul {
+    margin: 0;
+    padding-left: 0
+}
+#kig-wrap.page-infographics-measure-pd ul li {
+    color: #948a86;
+    margin-bottom: .5em
+}
+#kig-wrap.page-infographics-measure-pd hr {
+    border-color: #0099a8
+}
+#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-adjust-glasses .glass-wrap,
+#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-faceshape .person-list,
+#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-hidden-cost .nope,
+#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-lifetime-cost .glasses-wrap,
+#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-lifetime-cost .spend-wrap,
+#kig-wrap.page-infographics-measure-pd .vert-center {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-hidden-cost .titlebox {
+    overflow: hidden
+}
+#kig-wrap.page-infographics-measure-pd .flex-wrap #kig-wrap.page-infographics-measure-pd .flex-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-measure-pd .flex-wrap.column {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 1.5em;
+    max-width: 40%
+}
+#kig-wrap.page-infographics-measure-pd #logo {
+    width: 70%;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-top: 1em
+}
+#kig-wrap.page-infographics-measure-pd .vc-row {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row
+}
+#kig-wrap.page-infographics-measure-pd .vc-row * {
+    margin-left: 4px;
+    margin-right: 4px
+}
+#kig-wrap.page-infographics-measure-pd span.label {
+    font-weight: 600;
+    font-size: 16px;
+    color: #544847
+}
+#kig-wrap.page-infographics-measure-pd .tools-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    -ms-flex-pack: distribute;
+    justify-content: space-around
+}
+#kig-wrap.page-infographics-measure-pd .tool {
+    padding: 1em;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+#kig-wrap.page-infographics-measure-pd .tool img {
+    height: 100px
+}
+#kig-wrap.page-infographics-measure-pd .pd-link {
+    padding: .1em .6em;
+    display: inline-block;
+    color: #fff
+}
+#kig-wrap.page-infographics-measure-pd .pd-panel {
+    padding: 1em;
+    display: block;
+    margin: 0 auto;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    transform: translate(-50%)
+}
+#kig-wrap.page-infographics-measure-pd .pd-inner {
+    background: #e3e3e3;
+    padding: 20px;
+    height: 320px
+}
+#kig-wrap.page-infographics-measure-pd .pd-inner h2 {
+    font-size: 26px;
+    margin-top: 0
+}
+#kig-wrap.page-infographics-measure-pd .pd-num {
+    background: #0099a8;
+    color: #fff;
+    font-family: 'Tabac G1 Bold';
+    font-size: 28px;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    float: left
+}
+#kig-wrap.page-infographics-measure-pd .pd-text {
+    font-weight: 600;
+    display: inline-block;
+    float: left;
+    margin-left: .5em;
+    width: 82%
+}
+#kig-wrap.page-infographics-measure-pd .pd-img {
+    position: absolute;
+    width: 99%;
+    left: 1em;
+    bottom: 1em;
+    max-height: 360px
+}
+#kig-wrap.page-infographics-measure-pd .pd-list {
+    margin-left: 10%;
+    list-style: none
+}
+#kig-wrap.page-infographics-measure-pd .pd-list li {
+    color: #444;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 20px 0 30px
+}
+#kig-wrap.page-infographics-measure-pd .pd-list li:before {
+    display: inline-block;
+    content: '';
+    height: .75em;
+    width: .75em;
+    margin-left: -1.3em;
+    margin-right: .5em;
+    background: url(/dev/image/site/infographics/checkmark.svg)
+}
+#kig-wrap.page-infographics-measure-pd .pad {
+    margin: 2em;
+    font-size: 12px;
+    color: #fff
+}
+#kig-wrap.page-infographics-measure-pd p.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-measure-pd a.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-measure-pd .m-top {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #7a7168;
+    font-weight: 600;
+    font-size: 18px
+}
+#kig-wrap.page-infographics-lifetime-cost .titlebox {
+    background: #0099a8;
+    color: #fff;
+    height: 110px;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-lifetime-cost .fancy.titlebox span:after {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-lifetime-cost .fancy.titlebox span:before {
+    border-bottom: 2px solid #fff
+}
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-adjust-glasses .glass-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-adjust-glasses .glasses-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-adjust-glasses .spend-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-faceshape .glasses-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-faceshape .person-list,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-faceshape .spend-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-frame-measurement .glasses-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-frame-measurement .spend-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-measure-pd .glasses-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-measure-pd .spend-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-lifetime-cost .grey-bg {
+    background: #e3e3e3
+}
+#kig-wrap.page-infographics-lifetime-cost .fancy {
+    text-transform: capitalize
+}
+#kig-wrap.page-infographics-lifetime-cost .fancy span {
+    text-transform: capitalize
+}
+#kig-wrap.page-infographics-lifetime-cost .fancy span.text-transform-none {
+    text-transform: none
+}
+#kig-wrap.page-infographics-lifetime-cost h2.fancy {
+    text-align: left;
+    font-size: 30px
+}
+#kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span {
+    font-size: 20px
+}
+#kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span:after {
+    display: block;
+    height: 10px;
+    width: 100vw
+}
+#kig-wrap.page-infographics-lifetime-cost label {
+    color: #948a86;
+    text-align: center;
+    font-size: 16px
+}
+#kig-wrap.page-infographics-lifetime-cost p {
+    text-align: left;
+    font-size: 18px;
+    color: #7a7168
+}
+#kig-wrap.page-infographics-lifetime-cost a {
+    color: #948a86;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 100;
+    text-decoration: none
+}
+#kig-wrap.page-infographics-lifetime-cost p.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-lifetime-cost a.text-center {
+    text-align: center
+}
+#kig-wrap.page-infographics-lifetime-cost .biggernum {
+    font-family: "Lato Bold";
+    font-size: 72px
+}
+#kig-wrap.page-infographics-lifetime-cost .height110 {
+    height: 110px;
+    overflow: hidden
+}
+#kig-wrap.page-infographics-lifetime-cost .emtop {
+    margin-top: 1em
+}
+#kig-wrap.page-infographics-lifetime-cost .emtop .emtop {
+    font-weight: 600;
+    color: #544847;
+    text-align: left
+}
+#kig-wrap.page-infographics-lifetime-cost .emtop .emtop p {
+    color: #544847;
+    text-align: left
+}
+#kig-wrap.page-infographics-lifetime-cost .quiet-riot {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 80%;
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2
+}
+#kig-wrap.page-infographics-lifetime-cost .embot {
+    margin-bottom: 1em
+}
+#kig-wrap.page-infographics-lifetime-cost .quiet-text {
+    margin-bottom: 1em;
+    -webkit-box-ordinal-group: 4;
+    -ms-flex-order: 3;
+    order: 3
+}
+#kig-wrap.page-infographics-lifetime-cost .empadtop {
+    padding-top: 1em
+}
+#kig-wrap.page-infographics-lifetime-cost .empadbot {
+    padding-bottom: 1em
+}
+#kig-wrap.page-infographics-lifetime-cost ul {
+    margin: 0;
+    padding-left: 0
+}
+#kig-wrap.page-infographics-lifetime-cost ul li {
+    color: #948a86;
+    margin-bottom: .5em
+}
+#kig-wrap.page-infographics-lifetime-cost hr.hr-dash {
+    border-color: #0099a8;
+    border-style: dashed
+}
+#kig-wrap.page-infographics-lifetime-cost hr.hr-brown {
+    border-color: #948a86;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 1em
+}
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .glasses-wrap,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .nope,
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .spend-wrap,
+#kig-wrap.page-infographics-lifetime-cost .flex-wrap,
+#kig-wrap.page-infographics-lifetime-cost .glasses-wrap,
+#kig-wrap.page-infographics-lifetime-cost .spend-wrap,
+#kig-wrap.page-infographics-lifetime-cost .tool,
+#kig-wrap.page-infographics-lifetime-cost .vert-center {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+#kig-wrap.page-infographics-lifetime-cost .glasses-wrap {
+    height: 200px
+}
+#kig-wrap.page-infographics-lifetime-cost .spend-wrap {
+    height: 180px
+}
+#kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .titlebox {
+    overflow: hidden
+}
+#kig-wrap.page-infographics-lifetime-cost .flex-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+#kig-wrap.page-infographics-lifetime-cost #logo {
+    width: 70%;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-top: 1em
+}
+#kig-wrap.page-infographics-lifetime-cost span.label {
+    font-weight: 600;
+    font-size: 16px
+}
+#kig-wrap.page-infographics-lifetime-cost .tools-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    -ms-flex-pack: distribute;
+    justify-content: space-around
+}
+#kig-wrap.page-infographics-lifetime-cost .tool {
+    padding: 1em;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+#kig-wrap.page-infographics-lifetime-cost .tool img {
+    height: 100px
+}
+#kig-wrap.page-infographics-lifetime-cost .glasses {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    width: 80%
+}
+#kig-wrap.page-infographics-lifetime-cost .multiglasses {
+    width: 80%
+}
+#kig-wrap.page-infographics-lifetime-cost .multiglasses.multiglasses-wide {
+    width: 90%
+}
+#kig-wrap.page-infographics-lifetime-cost .arrows {
+    width: 90%
+}
+#kig-wrap.page-infographics-lifetime-cost h6 {
+    font-family: lato, sans-serif!important;
+    font-weight: 700;
+    font-size: 18px
+}
+#kig-wrap.page-infographics-lifetime-cost h6 span {
+    font-family: lato, sans-serif!important;
+    font-size: 18px;
+    font-weight: 700
+}
+#kig-wrap.page-infographics-lifetime-cost h6 span:before {
+    border-bottom: 1px solid #fff
+}
+#kig-wrap.page-infographics-lifetime-cost h6 span:after {
+    border-bottom: 1px solid #fff
+}
+#kig-wrap.page-infographics-lifetime-cost h6.fancy.brown span:after {
+    border-bottom: 1px solid #fff
+}
+#kig-wrap.page-infographics-lifetime-cost h6.fancy.brown span:before {
+    border-bottom: 1px solid #fff
+}
+#kig-wrap.page-infographics-lifetime-cost .tri-row {
+    height: 0;
+    width: 0;
+    border-left: 16px solid transparent;
+    border-right: 16px solid transparent;
+    border-top: 16px solid #d8d1ca;
+    position: absolute;
+    left: 50%;
+    border-top-color: #ddd
+}
+#kig-wrap.page-infographics-lifetime-cost p.small {
+    font-size: 16px;
+    text-align: left
+}
+#kig-wrap.page-infographics-lifetime-cost .bs-nopad {
+    padding: 0
+}
+#kig-wrap.page-infographics-lifetime-cost .bs-nopad p {
+    margin: 0;
+    padding-left: 10px
+}
+#kig-wrap.page-infographics-lifetime-cost .bs-nopad p.text-right {
+    text-align: right
+}
+#kig-wrap.page-infographics-lifetime-cost .bs-nopad p.text-left {
+    text-align: left
+}
+#kig-wrap.page-infographics-lifetime-cost .no-bot {
+    margin-bottom: 0
+}
+#kig-wrap.page-infographics-lifetime-cost .btn-save {
+    background: #f65275;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    padding: .25em .75em
+}
+#kig-wrap.page-infographics-lifetime-cost .or-wrap {
+    background-color: #47d7ac;
+    border-radius: 100%;
+    width: 64px;
+    height: 64px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    flex-order: 1;
+    top: 50px;
+    position: relative;
+    left: -10px
+}
+#kig-wrap.page-infographics-lifetime-cost .or {
+    color: #fff;
+    font-size: 28px;
+    font-family: Lato;
+    border: none;
+    margin-top: 10%
+}
+#kig-wrap.page-infographics-lifetime-cost .vert-separator-small {
+    border-right: 1px dashed #0099a8
+}
+#kig-wrap.page-infographics-lifetime-cost .img-max {
+    width: 80%
+}
+#kig-wrap.page-infographics-lifetime-cost .hide-overflow {
+    overflow: hidden
+}
+#kig-wrap.page-infographics-lifetime-cost .sidepad {
+    padding-left: 1em;
+    padding-right: 1em
+}
+#kig-wrap.page-infographics-lifetime-cost .sidepad .sidepad {
+    font-weight: 400;
+    text-align: left;
+    padding-top: 16px
+}
+#kig-wrap.page-infographics-lifetime-cost .family {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row
+}
+#kig-wrap.page-infographics-lifetime-cost .family .flex-item {
+    width: 29%;
+    margin: .5em
+}
+#kig-wrap.page-infographics-lifetime-cost .m-top {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #7a7168;
+    font-weight: 600;
+    font-size: 18px
+}
+#kig-wrap.page-infographics-lifetime-cost p.sidepad {
+    color: #544847
+}
+#comp-information-infographics .stButton .stButton_gradient {
+    -webkit-box-sizing: content-box!important;
+    box-sizing: content-box!important
+}
+#comp-information-infographics .main-content-section > h3 {
+    color: #544847
+}
+.stButton .stButton_gradient {
+    -webkit-box-sizing: content-box!important;
+    box-sizing: content-box!important
+}
+.page-infographics .main-content-section h3 {
+    color: #544847
+}
+.page-infographics .main-content-section .h3 {
+    color: #544847
+}
+.page-infographics .fb-comments > span {
+    width: 70vw!important
+}
+.page-infographics .fb-comments > span iframe {
+    width: 100%!important
+}
+.ua-edge #kig-wrap.page-infographics-lifetime-cost .glasses-wrap {
+    display: ruby
+}
+.ua-ie #kig-wrap.page-infographics-lifetime-cost .glasses-wrap {
+    display: table
+}
+@media (min-width:1024px) {
+    #kig-wrap.page-infographics-faceshape .fancy {
+        line-height: 1;
+        text-align: left;
+        font-size: 20px
+    }
+    #kig-wrap.page-infographics-faceshape .fancy span {
+        font-size: 40px
+    }
+    #kig-wrap.page-infographics-faceshape .fancy span:before {
+        display: none;
+        width: 0
+    }
+    #kig-wrap.page-infographics-faceshape .fancy span:after {
+        width: 660px;
+        margin-left: .5em;
+        border-width: 2px
+    }
+    #kig-wrap.page-infographics-faceshape h1 {
+        font-size: 57px
+    }
+    #kig-wrap.page-infographics-faceshape h2.fancy {
+        text-align: left;
+        font-size: 40px;
+        text-transform: capitalize
+    }
+    #kig-wrap.page-infographics-faceshape h2.fancy span {
+        font-size: 40px
+    }
+    #kig-wrap.page-infographics-faceshape h2.fancy.fancy span:after {
+        display: block;
+        height: 22px;
+        width: 100vw
+    }
+    #kig-wrap.page-infographics-faceshape h4 {
+        font-size: 13px;
+        text-align: center;
+        color: #000;
+        margin-top: 0
+    }
+    #kig-wrap.page-infographics-faceshape .titlebox {
+        height: 240px
+    }
+    #kig-wrap.page-infographics-faceshape .box {
+        margin: .5em 0 1em;
+        padding: 1em .5em;
+        height: 90px
+    }
+    #kig-wrap.page-infographics-faceshape .box p {
+        font-size: 14px
+    }
+    #kig-wrap.page-infographics-faceshape .glasses {
+        margin: 0 auto
+    }
+    #kig-wrap.page-infographics-faceshape .is-table-row {
+        display: table
+    }
+    #kig-wrap.page-infographics-faceshape .is-table-row [class*=col-] {
+        float: none;
+        display: table-cell;
+        vertical-align: top
+    }
+    #kig-wrap.page-infographics-faceshape img.person {
+        margin-top: 1em;
+        margin-bottom: 1em
+    }
+    #kig-wrap.page-infographics-faceshape img.person2 {
+        margin-top: 1em;
+        margin-bottom: 1em
+    }
+    #kig-wrap.page-infographics-faceshape .fun-facts {
+        margin-bottom: 100px
+    }
+    #kig-wrap.page-infographics-faceshape .fun-facts p {
+        color: #948a86;
+        text-align: left;
+        font-size: 17px
+    }
+    #kig-wrap.page-infographics-faceshape .fun-facts p span {
+        font-size: 16px
+    }
+    #kig-wrap.page-infographics-faceshape .person-list {
+        padding: 0 1em 0 2em;
+        height: auto
+    }
+    #kig-wrap.page-infographics-faceshape ul.list-shared {
+        height: 170px;
+        padding-left: 25px
+    }
+    #kig-wrap.page-infographics-faceshape ul.list-shared li {
+        font-size: 20px
+    }
+    #kig-wrap.page-infographics-faceshape .finale {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap
+    }
+    #kig-wrap.page-infographics-faceshape .finale .flex-wrap {
+        width: 33%;
+        height: 275px;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -ms-flex-line-pack: center;
+        align-content: center;
+        padding: 0 3em
+    }
+    #kig-wrap.page-infographics-faceshape .finale-wrap-person {
+        text-align: center
+    }
+    #kig-wrap.page-infographics-faceshape .finale-wrap-text {
+        margin-left: 0
+    }
+    #kig-wrap.page-infographics-faceshape .flex-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+    #kig-wrap.page-infographics-faceshape .col-sm-8 {
+        margin-left: -8px
+    }
+    #kig-wrap.page-infographics-faceshape #kig-wrap.page-infographics-hidden-cost .titlebox {
+        height: 110px
+    }
+    #kig-wrap h1 span {
+        font-size: 52px
+    }
+    #kig-wrap h2 {
+        font-size: 20px
+    }
+    #kig-wrap .fancy {
+        line-height: .1
+    }
+    #kig-wrap .fancy.bluegreen span:before {
+        display: none
+    }
+    #kig-wrap.page-infographics-frame-measurement h2 {
+        font-size: 40px
+    }
+    #kig-wrap.page-infographics-frame-measurement h2 span {
+        font-size: 40px
+    }
+    #kig-wrap.page-infographics-frame-measurement h1 {
+        font-size: 57px
+    }
+    #kig-wrap.page-infographics-frame-measurement h1 span {
+        font-size: 57px
+    }
+    #kig-wrap.page-infographics-frame-measurement h3 span {
+        font-size: 32px
+    }
+    #kig-wrap.page-infographics-frame-measurement h4 {
+        text-align: center;
+        margin-top: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .titlebox {
+        height: 240px
+    }
+    #kig-wrap.page-infographics-frame-measurement .box:not(.six):not(.hint-box) {
+        margin: .5em 0 1em;
+        padding: .8em .2em;
+        height: 60px
+    }
+    #kig-wrap.page-infographics-frame-measurement .box:not(.six):not(.hint-box) p {
+        font-size: 12px
+    }
+    #kig-wrap.page-infographics-frame-measurement .glasses {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin: 0 auto
+    }
+    #kig-wrap.page-infographics-frame-measurement .glasses h4 {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1
+    }
+    #kig-wrap.page-infographics-frame-measurement .glasses img {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+        order: 2;
+        margin-top: 1em;
+        margin-bottom: 1em
+    }
+    #kig-wrap.page-infographics-frame-measurement .glasses p {
+        -webkit-box-ordinal-group: 4;
+        -ms-flex-order: 3;
+        order: 3
+    }
+    #kig-wrap.page-infographics-frame-measurement .is-table-row {
+        display: table
+    }
+    #kig-wrap.page-infographics-frame-measurement .is-table-row [class*=col-] {
+        float: none;
+        display: table-cell;
+        vertical-align: top
+    }
+    #kig-wrap.page-infographics-frame-measurement ul.checked {
+        height: 60px
+    }
+    #kig-wrap.page-infographics-frame-measurement ul.exed {
+        height: 60px
+    }
+    #kig-wrap.page-infographics-frame-measurement .finale {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap
+    }
+    #kig-wrap.page-infographics-frame-measurement .finale .flex-wrap {
+        width: 33%;
+        height: 320px;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -ms-flex-line-pack: center;
+        align-content: center;
+        padding: 0 3em
+    }
+    #kig-wrap.page-infographics-frame-measurement .finale-wrap-person {
+        text-align: center
+    }
+    #kig-wrap.page-infographics-frame-measurement .flex-wrap {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+    #kig-wrap.page-infographics-frame-measurement .fancy-wrap {
+        overflow-x: hidden
+    }
+    #kig-wrap.page-infographics-frame-measurement .fancy {
+        line-height: 1
+    }
+    #kig-wrap.page-infographics-frame-measurement h1.fancy span:before {
+        height: 32px
+    }
+    #kig-wrap.page-infographics-frame-measurement h1.fancy span:after {
+        height: 32px
+    }
+    #kig-wrap.page-infographics-frame-measurement h2.fancy span:before {
+        width: 660px;
+        margin-right: .5em;
+        height: 22px
+    }
+    #kig-wrap.page-infographics-frame-measurement h2.fancy span:after {
+        width: 660px;
+        margin-left: .5em;
+        height: 22px
+    }
+    #kig-wrap.page-infographics-frame-measurement h3.fancy span:before {
+        height: 16px
+    }
+    #kig-wrap.page-infographics-frame-measurement h3.fancy span:after {
+        height: 16px
+    }
+    #kig-wrap.page-infographics-frame-measurement .frame-lady-wrap {
+        padding-left: 0;
+        padding-right: 0;
+        margin-left: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap {
+        height: 220px;
+        padding-right: 3em;
+        padding-left: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .frame-dimensions {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center
+    }
+    #kig-wrap.page-infographics-frame-measurement .item {
+        width: 28%;
+        margin: 1em
+    }
+    #kig-wrap.page-infographics-frame-measurement .item img {
+        height: 76px
+    }
+    #kig-wrap.page-infographics-frame-measurement .item h4 {
+        margin-top: 1em
+    }
+    #kig-wrap.page-infographics-frame-measurement .item.glasses {
+        margin-bottom: auto
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text {
+        width: 23%;
+        padding-top: .25em
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text p {
+        font-size: 14px
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text span {
+        font-size: 14px
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text h4 {
+        margin-bottom: .5em
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text-left {
+        margin-right: 5px;
+        margin-left: 5px;
+        padding-right: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text-right {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding-left: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text-big {
+        width: 49%;
+        margin: 1em 0;
+        padding: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-text-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+    #kig-wrap.page-infographics-frame-measurement .desk-left {
+        text-align: left
+    }
+    #kig-wrap.page-infographics-frame-measurement .desk-left h4 {
+        text-align: left;
+        margin-top: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-glasses {
+        margin: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-box {
+        margin-top: 1em
+    }
+    #kig-wrap.page-infographics-frame-measurement .hint-box-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        height: 220px;
+        padding-left: 1em;
+        padding-right: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .circle-container {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -ms-flex-line-pack: start;
+        align-content: flex-start;
+        padding: 0 2em
+    }
+    #kig-wrap.page-infographics-frame-measurement img.circle {
+        height: 150px;
+        display: block;
+        margin: 1em auto
+    }
+    #kig-wrap.page-infographics-frame-measurement .circle-width {
+        padding: 0
+    }
+    #kig-wrap.page-infographics-frame-measurement .circle-text {
+        text-align: center
+    }
+    #kig-wrap.page-infographics-frame-measurement .computer {
+        width: 100%
+    }
+    #kig-wrap.page-infographics-frame-measurement .six {
+        width: 40%;
+        margin-bottom: .5em;
+        padding: .2em
+    }
+    #kig-wrap.page-infographics-frame-measurement #measuring-pd {
+        height: auto;
+        margin: 0 auto;
+        padding: 0;
+        width: 82%
+    }
+    #kig-wrap.page-infographics-frame-measurement .height-200 {
+        height: 200px
+    }
+    #kig-wrap.page-infographics-frame-measurement #logo {
+        margin-top: 1em
+    }
+    #kig-wrap.page-infographics-frame-measurement #kig-wrap.page-infographics-hidden-cost .titlebox {
+        height: 110px
+    }
+    #kig-wrap.page-infographics-frame-measurement .fancy.bluegreen span:before {
+        display: block
+    }
+    #kig-wrap.page-infographics-measure-pd h3 {
+        margin-top: 40px;
+        font-size: 24px
+    }
+    #kig-wrap.page-infographics-measure-pd .h3 {
+        margin-top: 40px;
+        font-size: 38px
+    }
+    #kig-wrap.page-infographics-measure-pd .margin-top-zero {
+        margin-top: 0
+    }
+    #kig-wrap.page-infographics-measure-pd label {
+        font-size: 24px
+    }
+    #kig-wrap.page-infographics-measure-pd p {
+        font-size: 18px
+    }
+    #kig-wrap.page-infographics-measure-pd a {
+        font-size: 24px
+    }
+    #kig-wrap.page-infographics-measure-pd span.label {
+        font-size: 24px
+    }
+    #kig-wrap.page-infographics-measure-pd .tool img {
+        height: 160px
+    }
+    #kig-wrap.page-infographics-measure-pd .pd-inner {
+        height: 380px
+    }
+    #kig-wrap.page-infographics-measure-pd .pd-inner h2 {
+        font-size: 38px;
+        margin-top: 0
+    }
+    #kig-wrap.page-infographics-measure-pd .pd-list li {
+        font-size: 18px
+    }
+    #kig-wrap.page-infographics-measure-pd .titlebox {
+        height: 240px
+    }
+    #kig-wrap.page-infographics-measure-pd .container {
+        background: #fff;
+        overflow: hidden
+    }
+    #kig-wrap.page-infographics-measure-pd .pd-panel {
+        left: 0;
+        -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        transform: translate(0, 0)
+    }
+    #kig-wrap.page-infographics-measure-pd .pd-link {
+        padding: .4em .6em
+    }
+    #kig-wrap.page-infographics-measure-pd .fancy-wrap {
+        overflow-x: hidden
+    }
+    #kig-wrap.page-infographics-measure-pd .fancy {
+        line-height: 1
+    }
+    #kig-wrap.page-infographics-measure-pd h1 {
+        font-size: 57px;
+        margin-top: 22px;
+        margin-bottom: 22px
+    }
+    #kig-wrap.page-infographics-measure-pd h1.fancy span:before {
+        width: 660px;
+        margin-right: .5em;
+        height: 30px
+    }
+    #kig-wrap.page-infographics-measure-pd h1.fancy span:after {
+        width: 660px;
+        margin-left: .5em;
+        height: 30px
+    }
+    #kig-wrap.page-infographics-measure-pd h2.fancy {
+        text-align: left;
+        font-size: 36px;
+        text-transform: capitalize
+    }
+    #kig-wrap.page-infographics-measure-pd h2.fancy span {
+        font-size: 50px
+    }
+    #kig-wrap.page-infographics-measure-pd h2.fancy.fancy span:after {
+        display: block;
+        height: 22px;
+        width: 100vw;
+        top: 7px
+    }
+    #kig-wrap.page-infographics-measure-pd .item {
+        width: 28%;
+        margin: 1em
+    }
+    #kig-wrap.page-infographics-measure-pd .item svg {
+        width: 100%
+    }
+    #kig-wrap.page-infographics-measure-pd .pad {
+        line-height: 2
+    }
+    #kig-wrap.page-infographics-measure-pd .pad strong {
+        font-size: 18.5px
+    }
+    #kig-wrap.page-infographics-measure-pd #logo {
+        margin-top: 1em
+    }
+    #kig-wrap.page-infographics-measure-pd .friend {
+        margin-top: 3em
+    }
+    #kig-wrap.page-infographics-measure-pd #kig-wrap.page-infographics-hidden-cost .titlebox {
+        height: 110px
+    }
+    #kig-wrap.page-infographics-adjust-glasses h3 {
+        font-size: 28px;
+        margin-top: .25em
+    }
+    #kig-wrap.page-infographics-adjust-glasses h3 span {
+        font-size: 32px;
+        font-size: inherit
+    }
+    #kig-wrap.page-infographics-adjust-glasses h4 {
+        text-align: center;
+        margin-top: 0;
+        color: #000;
+        font-weight: 400;
+        font-size: 12px
+    }
+    #kig-wrap.page-infographics-adjust-glasses .titlebox {
+        height: 240px
+    }
+    #kig-wrap.page-infographics-adjust-glasses .glasses {
+        margin: 0 auto
+    }
+    #kig-wrap.page-infographics-adjust-glasses .is-table-row {
+        display: table
+    }
+    #kig-wrap.page-infographics-adjust-glasses .is-table-row [class*=col-] {
+        float: none;
+        display: table-cell;
+        vertical-align: top
+    }
+    #kig-wrap.page-infographics-adjust-glasses .fancy-wrap {
+        overflow-x: hidden
+    }
+    #kig-wrap.page-infographics-adjust-glasses .fancy {
+        line-height: 1
+    }
+    #kig-wrap.page-infographics-adjust-glasses h1.fancy span:before {
+        width: 660px;
+        margin-right: .5em;
+        height: 30px
+    }
+    #kig-wrap.page-infographics-adjust-glasses h1.fancy span:after {
+        width: 660px;
+        margin-left: .5em;
+        height: 30px
+    }
+    #kig-wrap.page-infographics-adjust-glasses h3.fancy span:after {
+        display: block;
+        height: 18px;
+        width: 440px
+    }
+    #kig-wrap.page-infographics-adjust-glasses h3.bluegreen {
+        text-align: left
+    }
+    #kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost h3.link {
+        text-align: left
+    }
+    #kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost h6.link {
+        text-align: left
+    }
+    #kig-wrap.page-infographics-adjust-glasses #kig-wrap.page-infographics-hidden-cost .titlebox {
+        height: 110px
+    }
+    #kig-wrap.page-infographics-adjust-glasses h6.bluegreen {
+        text-align: left
+    }
+    #kig-wrap.page-infographics-adjust-glasses h6 {
+        text-align: left;
+        margin-bottom: 0
+    }
+    #kig-wrap.page-infographics-adjust-glasses h6 p {
+        margin-bottom: 0;
+        color: #544847
+    }
+    #kig-wrap.page-infographics-adjust-glasses h6.fancy span:before {
+        display: none
+    }
+    #kig-wrap.page-infographics-adjust-glasses h6.fancy span:after {
+        display: none
+    }
+    #kig-wrap.page-infographics-adjust-glasses .item {
+        width: 28%;
+        margin: 1em
+    }
+    #kig-wrap.page-infographics-adjust-glasses .item img {
+        width: 100%
+    }
+    #kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses h3.link {
+        text-align: left
+    }
+    #kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses h6.link {
+        text-align: left
+    }
+    #kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-adjust-glasses .titlebox {
+        height: 110px
+    }
+    #kig-wrap.page-infographics-hidden-cost .titlebox {
+        height: 264px;
+        padding: 0 6em
+    }
+    #kig-wrap.page-infographics-hidden-cost h1 {
+        font-size: 57px
+    }
+    #kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-faceshape .titlebox,
+    #kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-frame-measurement .titlebox,
+    #kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-lifetime-cost .titlebox,
+    #kig-wrap.page-infographics-hidden-cost #kig-wrap.page-infographics-measure-pd .titlebox,
+    #kig-wrap.page-infographics-hidden-cost .height110 {
+        height: 110px
+    }
+    #kig-wrap.page-infographics-hidden-cost .nope {
+        height: 900px
+    }
+    #kig-wrap.page-infographics-hidden-cost .m-top {
+        margin-top: 1em
+    }
+    #kig-wrap.page-infographics-hidden-cost .is-table-row {
+        display: table
+    }
+    #kig-wrap.page-infographics-hidden-cost .is-table-row [class*=col-] {
+        float: none;
+        display: table-cell;
+        vertical-align: top
+    }
+    #kig-wrap.page-infographics-hidden-cost .dollars {
+        padding: 0 2em
+    }
+    #kig-wrap.page-infographics-hidden-cost .fancy span:before {
+        width: 100vw;
+        top: -7px
+    }
+    #kig-wrap.page-infographics-hidden-cost .fancy span:after {
+        width: 100vw;
+        top: -7px
+    }
+    #kig-wrap.page-infographics-hidden-cost .flex-item {
+        margin-top: .5em
+    }
+    #kig-wrap.page-infographics-hidden-cost .end-sentence {
+        width: 60%
+    }
+    #kig-wrap.page-infographics-hidden-cost .flex-wrap {
+        width: auto;
+        margin-left: inherit
+    }
+    #kig-wrap.page-infographics-hidden-cost .fancy.bluegreen span:before {
+        display: block
+    }
+    #kig-wrap.page-infographics-lifetime-cost .vert-separator {
+        border-right: 1px dashed #0099a8
+    }
+    #kig-wrap.page-infographics-lifetime-cost .titlebox {
+        height: 240px;
+        background-color: #0099a8
+    }
+    #kig-wrap.page-infographics-lifetime-cost .flex-wrap {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row
+    }
+    #kig-wrap.page-infographics-lifetime-cost .fancy-wrap {
+        overflow-x: hidden
+    }
+    #kig-wrap.page-infographics-lifetime-cost .fancy {
+        line-height: 1;
+        font-size: 57px;
+        margin-top: 22px;
+        margin-bottom: 22px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h1.fancy span:before {
+        width: 660px;
+        margin-right: .5em;
+        height: 30px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h1.fancy span:after {
+        width: 660px;
+        margin-left: .5em;
+        height: 30px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h2.fancy {
+        text-align: left;
+        font-size: 30px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span {
+        font-size: 40px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h2.fancy.fancy span:after {
+        display: block;
+        height: 18px;
+        width: 100vw;
+        top: 10px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h6.fancy span.text-transform-none:after {
+        width: 100vw
+    }
+    #kig-wrap.page-infographics-lifetime-cost h6.fancy span.text-transform-none:before {
+        width: 100vw
+    }
+    #kig-wrap.page-infographics-lifetime-cost h3 {
+        font-size: 3em;
+        font-family: Lato, sans-serif;
+        font-weight: 700
+    }
+    #kig-wrap.page-infographics-lifetime-cost h4 {
+        font-size: 42px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h5 {
+        font-size: 2.6em;
+        text-transform: capitalize
+    }
+    #kig-wrap.page-infographics-lifetime-cost h6.fancy {
+        font-size: 22px;
+        color: #544847
+    }
+    #kig-wrap.page-infographics-lifetime-cost h6.fancy span {
+        font-family: Lato, sans-serif!important;
+        font-weight: 700;
+        font-size: 24px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h6 {
+        font-size: 36px;
+        font-family: Lato, sans-serif;
+        font-weight: 700;
+        margin-top: 32px;
+        margin-bottom: 0
+    }
+    #kig-wrap.page-infographics-lifetime-cost .item {
+        width: 28%;
+        margin: 1em
+    }
+    #kig-wrap.page-infographics-lifetime-cost .item svg {
+        width: 100%
+    }
+    #kig-wrap.page-infographics-lifetime-cost .pad {
+        line-height: 2
+    }
+    #kig-wrap.page-infographics-lifetime-cost #logo {
+        margin-top: 1em
+    }
+    #kig-wrap.page-infographics-lifetime-cost .is-table-row {
+        display: table
+    }
+    #kig-wrap.page-infographics-lifetime-cost .is-table-row [class*=col-] {
+        float: none;
+        display: table-cell;
+        text-align: center
+    }
+    #kig-wrap.page-infographics-lifetime-cost .is-table-row [class*=col-].valign-mid {
+        vertical-align: middle
+    }
+    #kig-wrap.page-infographics-lifetime-cost .hr-only-small {
+        display: none
+    }
+    #kig-wrap.page-infographics-lifetime-cost .quiet-text {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+        order: 2
+    }
+    #kig-wrap.page-infographics-lifetime-cost .quiet-riot {
+        width: 30%;
+        -webkit-box-ordinal-group: 4;
+        -ms-flex-order: 3;
+        order: 3
+    }
+    #kig-wrap.page-infographics-lifetime-cost .img-spend {
+        height: 120px
+    }
+    #kig-wrap.page-infographics-lifetime-cost .means-for-you {
+        vertical-align: middle
+    }
+    #kig-wrap.page-infographics-lifetime-cost .tri-row {
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%)
+    }
+    #kig-wrap.page-infographics-lifetime-cost .family .flex-item {
+        width: 18%;
+        margin: 1%
+    }
+    #kig-wrap.page-infographics-lifetime-cost #kig-wrap.page-infographics-hidden-cost .titlebox {
+        height: 110px
+    }
+    #kig-wrap.page-infographics-lifetime-cost .bs-nopad p.quiet-text {
+        left: -6px;
+        position: relative;
+        font-size: 18px
+    }
+    #kig-wrap.page-infographics-frame-measurement .purple-bg a:active,
+    #kig-wrap.page-infographics-frame-measurement .purple-bg a:link,
+    #kig-wrap.page-infographics-frame-measurement .purple-bg a:visited {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 16px;
+        font-weight: 600
+    }
+    #kig-wrap.page-infographics-adjust-glasses p {
+        font-size: 13px
+    }
+    #kig-wrap.page-infographics-adjust-glasses p.problem {
+        color: #544847
+    }
+}
+@media all (min-width:1280px) {
+    #kig-wrap.page-infographics-lifetime-cost .flex-wrap {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row
+    }
+}
+@media all and (-ms-high-contrast:none) {
+    #kig-wrap .higher-glasses {
+        height: 100%;
+        margin-top: 10%
+    }
+    #kig-wrap #logo {
+        height: 100%
+    }
+}
+@media (-ms-high-contrast:active) {
+    #kig-wrap .higher-glasses {
+        height: 100%;
+        margin-top: 10%
+    }
+    #kig-wrap #logo {
+        height: 100%
+    }
+}
+@media (max-width:1279px) {
+    #kig-wrap.page-infographics-lifetime-cost .or-wrap {
+        top: initial;
+        left: initial;
+        -ms-flex-item-align: center;
+        align-self: center
+    }
+    #kig-wrap.page-infographics-lifetime-cost .quiet-riot,
+    #kig-wrap.page-infographics-lifetime-cost .quiet-text {
+        -ms-flex-item-align: center;
+        align-self: center
+    }
+    #kig-wrap.page-infographics-frame-measurement .frame-lady-wrap {
+        padding-left: 2em
+    }
+    #kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap {
+        padding-left: 0;
+        padding-right: 16px;
+        padding-top: 112px
+    }
+}
+@media (max-width:374px) {
+    #kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap {
+        padding-right: 1em;
+        padding-top: 48px;
+        height: 200px
+    }
+}
+@media (max-width:767px) {
+    #kig-wrap.page-infographics-faceshape ul li {
+        line-height: 16px
+    }
+    #kig-wrap.page-infographics-measure-pd .pd-text {
+        width: 77%
+    }
+    #kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap {
+        padding-top: 64px
+    }
+}
+@media (max-width:479px) {
+    #kig-wrap.page-infographics-lifetime-cost .btn-save {
+        font-size: 24px
+    }
+}
+@media (max-width:1091px) {
+    #kig-wrap.page-infographics-hidden-cost .beige-moneys {
+        width: 60px;
+        height: 60px
+    }
+}
+@media (min-width:1092px) and (max-width:1225px) {
+    #kig-wrap.page-infographics-hidden-cost .beige-moneys {
+        width: 70px;
+        height: 70px
+    }
+}
+@media (min-width:1226px) {
+    #kig-wrap.page-infographics-hidden-cost .beige-moneys {
+        width: 80px;
+        height: 80px
+    }
+}
+@media (min-width:1650px) {
+    #kig-wrap.page-infographics-faceshape h1,
+    #kig-wrap.page-infographics-frame-measurement h1,
+    #kig-wrap.page-infographics-frame-measurement h1 span,
+    #kig-wrap.page-infographics-hidden-cost h1,
+    #kig-wrap.page-infographics-lifetime-cost .fancy,
+    #kig-wrap.page-infographics-measure-pd h1 {
+        font-size: 75px
+    }
+    #kig-wrap.page-infographics-faceshape .box p,
+    #kig-wrap.page-infographics-faceshape h4 {
+        font-size: 15px
+    }
+    #kig-wrap.page-infographics-lifetime-cost h3 {
+        font-size: 4em
+    }
+    #kig-wrap.page-infographics-lifetime-cost p {
+        font-size: 22px
+    }
+    #kig-wrap.page-infographics-faceshape .fun-facts p,
+    #kig-wrap.page-infographics-faceshape .fun-facts p span {
+        font-size: 18px
+    }
+    #kig-wrap.page-infographics-measure-pd p {
+        font-size: 24px
+    }
+    #kig-wrap.page-infographics-measure-pd h3 {
+        font-size: 38px
+    }
+    #kig-wrap.page-infographics-adjust-glasses h4 {
+        font-size: 14px
+    }
+}
+.page-infographics .fb-comments > span {
+    width: 92vw!important
+}
+@media (min-width:768px) and (max-width:1024px) {
+    .page-infographics .fb-comments > span {
+        width: 60vw!important
+    }
+    #kig-wrap.page-infographics-measure-pd .pd-inner {
+        height: 350px
+    }
+}
+@media (min-width:1024px) {
+    .page-infographics .fb-comments > span {
+        width: 70vw!important
+    }
+    #kig-wrap.page-infographics-frame-measurement .frame-lady-text-wrap {
+        padding-top: 0
+    }
+}
+@media (min-width:736px) {
+    .page-infographics .fb-comments > span {
+        width: 45vw!important
+    }
+}
+.ua-ie #kig-wrap.page-infographics-lifetime-cost .glasses-wrap {
+    display: table
+}
+.ua-edge #kig-wrap.page-infographics-lifetime-cost .glasses-wrap .img-max,
+.ua-ie #kig-wrap.page-infographics-lifetime-cost .glasses-wrap .img-max {
+    width: 60%
+}
+#kig-wrap.page-infographics-lifetime-cost .is-table-row.embot img {
+    width: 100%
+}
+#kig-wrap.page-infographics-measure-pd p {
+    font-weight: 400
+}
+#kig-wrap.page-infographics-hidden-cost label {
+    font-weight: 400;
+    margin-bottom: 0
+}
+#kig-wrap.page-infographics-hidden-cost p {
+    color: #544847
+}
+#kig-wrap.page-infographics-frame-measurement .circle-container #measuring-pd a.measuring-pd {
+    word-wrap: break-word
+}
+#kig-wrap .font-bold {
+    font-family: 'Lato Bold';
+    font-weight: 400
+}
+.page-infographics .sources-text {
+    word-wrap: break-word
+}
+.page-infographics .fa {
+    font-family: FontAwesome!important
+}
