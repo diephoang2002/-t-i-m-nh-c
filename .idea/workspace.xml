@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e754652-df72-46c2-b12d-2e44a463b07b" name="Default Changelist" comment="trangchinh" />
+    <list default="true" id="8e754652-df72-46c2-b12d-2e44a463b07b" name="Default Changelist" comment="trangchinh">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new arrivals.html" beforeDir="false" afterPath="$PROJECT_DIR$/new arrivals.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../T2009M/kids-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -90,6 +94,8 @@
       <workItem from="1612060090426" duration="4301000" />
       <workItem from="1612093412149" duration="1545000" />
       <workItem from="1612147121020" duration="19808000" />
+      <workItem from="1612174493588" duration="484000" />
+      <workItem from="1612181272355" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="trangchinh">
       <created>1610527103851</created>
