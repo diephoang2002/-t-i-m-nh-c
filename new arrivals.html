@@ -29,245 +29,169 @@
 <body class="">
 <div class="container-fluid">
     <div id="top-section">
-        <div class="comp-message-bar" id="comp-message-bar"></div>
-        <header id="comp-navigation" class="comp-navigation relative" data-sticky="true"> <a id="skip-to-main-class" class="btn btn-primary sr-only sr-only-focusable" href="#main-section" tabindex="3">Skip to main content</a>
-            <nav class="row margin-0 navbar border-top border-left-0 border-right-0 bg-white">
+        <header id="comp-navigation" class="comp-navigation relative" data-sticky="true" style="height: 62px;">
+            <nav class="row margin-0 navbar border-top border-left-0 border-right-0 bg-white has-qsg navbar-fixed-top">
                 <div class="col-xs-6 col-md-7 col-lg-8 nav-left padding-left-0 padding-right-0">
-                    <button class="navbar-toggle collapsed margin-0 pull-left nav-ham text-center border-right" data-toggle="collapse" data-target="#nav-menu" type="button" aria-expanded="false" aria-label="Toggle Button of Mobile Navigation Menu"> <i class="fa fa-bars text-primary text-center"></i><sup class="ui-tracking-flag absolute-xs">
-                        <i class="fas fa-bell font-small color-warning"></i></sup>
+                    <button class="navbar-toggle collapsed margin-0 pull-left nav-ham text-center border-right" data-toggle="collapse" data-target="#nav-menu" type="button" aria-expanded="false" aria-label="Toggle Button of Mobile Navigation Menu">
+                        <i class="fa fa-bars text-primary text-center"></i>
+                        <sup class="ui-tracking-flag absolute-xs">
+                            <i class="fas fa-bell font-small color-warning"></i>
+                        </sup>
                     </button>
                     <div class="pull-left-md nav-logo padding-top-0 border-right-md padding-right-5-md padding-right-10-lg margin-right-20-md margin-right-30-lg padding-left-10-md padding-left-25-lg">
-                        <a href="/" target="_self" tabindex="3" aria-label="Zennioptical Logo">
-                            <img class="zenni-logo margin-left-10 margin-right-10" src="//static.zennioptical.com/dev/image/site/logo/zenni-logo.png" alt="Zenni Optical">
-                        </a>
+                        <a href="home.html" target="_self" tabindex="3" aria-label="Zennioptical Logo">
+                            <img class="zenni-logo margin-left-10 margin-right-10" src="img/zenni-logo.webp" alt="Zenni Optical"></a>
                     </div>
                     <div id="nav-menu" class="navbar nav-menu navbar-collapse collapse margin-bottom-0 padding-right-0 padding-left-0">
                         <ul class="nav navbar-nav list-unstyled list-inline margin-0 padding-right-30-lg">
                             <li id="menu-login" class="menu-left hidden-md hidden-lg border-bottom">
                                 <div id="mini-account">
-                                    <div class="login-popup-success-message hidden-md hidden-lg"> <span class="fa fa-check"></span>
-                                        <span role="alert" aria-live="assertive" class="success">Success!</span>
-                                        <span role="alert" aria-live="assertive" class="welcome">Welcome back to Zenni.</span>
-                                    </div>
                                     <div id="menu-login-user" class="padding-left-20 padding-right-20 padding-top-25 padding-bottom-5">
                                         <div class="h4 no-login-view color-gray-darker text-capitalize padding-0 margin-0">Welcome</div>
-                                        <div class="padding-top-10 padding-bottom-25"> <i class="fa fa-user margin-right-10"></i><span class="no-login-view"><a href="#" onclick="return false;" id="menu-login-link" class="font-regular text-capitalize">log
-in</a><span class="visible-xs-inline-block visible-sm-inline-block padding-left-10 padding-right-10">
-| </span><a class="font-regular text-capitalize" href="/login?tab=createaccount">Sign Up</a>
-												</span><span class="h4 login-view hidden color-gray-darker">
-<a href="/myAccount/myDashBoard" class="color-gray-darker">Hello, <span class="account-user-name"></span>
-												</a>
-												</span>
+                                        <div class="padding-top-10 padding-bottom-25">
+                                            <i class="fa fa-user margin-right-10"></i>
+                                            <span class="no-login-view"><a href="#">login</a>
+                                                <span class="visible-xs-inline-block visible-sm-inline-block padding-left-10 padding-right-10"></span>
+                                            <a class="font-regular text-capitalize" href="/login?tab=createaccount">Sign Up</a></span>
+                                            <span class="h4 login-view hidden color-gray-darker">
+<a href="/myAccount/myDashBoard" class="color-gray-darker">Hello, <span class="account-user-name"></span></a></span>
                                         </div>
                                     </div>
                                 </div>
                             </li>
-                            <li class="dropdown menu-left padding-left-0 padding-right-15-md border-bottom border-bottom-0-md animated-bg-md animated-bar"> <a class="dropdown-toggle padding-left-20 padding-right-20 border-left border-right border-white text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-title="Men's Glasses" href="/men-glasses" tabindex="5" target="_self">Men</a>
-                                <div data-width-desktop="550px" class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-40-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md">
-                                    <div class="h3 color-gray-darker margin-top-0-md margin-bottom-25-md padding-left-20 padding-right-20 padding-0-md text-capitalize"> <a class="color-gray-darker" aria-label="Men's Glasses" href="/men-glasses">Men's Glasses</a>
+                            <li class="dropdown menu-left padding-left-0 padding-right-15-md border-bottom border-bottom-0-md animated-bg-md animated-bar">
+                                <a class="dropdown-toggle padding-left-20 padding-right-20 border-left border-right border-white text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-title="Men's Glasses" href="/men-glasses" tabindex="5" target="_self">Men</a>
+                                <div data-width-desktop="550px" class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-40-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md" style="width: 550px;">
+                                    <div class="h3 color-gray-darker margin-top-0-md margin-bottom-25-md padding-left-20 padding-right-20 padding-0-md text-capitalize">
+                                        <a class="color-gray-darker" aria-label="Men's Glasses" href="/men-glasses">Men's Glasses</a>
                                     </div>
                                     <div class="menu-dd-links visible-md-table font-small width-70p-md">
                                         <div class="visible-md-table-row">
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Glasses</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-men-glasses/_/N-1341992444" target="_self">Shop All Glasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/affordable-sunglasses-trends?category=men" target="_self">Sunglasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/men-glasses-best-seller" target="_self">Best Sellers</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses/Full-Rim-Plastic-and-Acetate?Gender=Men" target="_self">Zenni Frame Finder™</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/men-glasses-new-arrivals" target="_self">New Arrivals</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/protective-goggles-glasses" target="_self">Protective Goggles</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Glasses</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-men-glasses/_/N-1341992444" target="_self">Shop All Glasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/affordable-sunglasses-trends?category=men" target="_self">Sunglasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/men-glasses-best-seller" target="_self">Best Sellers</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses/Full-Rim-Plastic-and-Acetate?Gender=Men" target="_self">Zenni Frame Finder™</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/men-glasses-new-arrivals" target="_self">New Arrivals</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/protective-goggles-glasses" target="_self">Protective Goggles</a></li>
                                                 <p class="text-bold">Accessories</p>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/accessories" target="_self">Shop All Accessories</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/p/gift-certificate/prod20001?skuId=sku20011" target="_self">E-Gift Cards</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/accessories" target="_self">Shop All Accessories</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/p/gift-certificate/prod20001?skuId=sku20011" target="_self">E-Gift Cards</a></li>
                                             </ul>
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Featured</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses-shop-by-style?gender=men" target="_self">Shop by Frame Shape</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses-for-face-shape-male" target="_self">Shop By Face Shape</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/style-shops" target="_self">Style Shops</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/discounts-promo-codes" target="_self">Everyday Value & Promos</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/shop-by-color" target="_self">Shop by Color</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/recent-releases" target="_self">Recent Releases</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Featured</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses-shop-by-style?gender=men" target="_self">Shop by Frame Shape</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses-for-face-shape-male" target="_self">Shop By Face Shape</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/style-shops" target="_self">Style Shops</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/discounts-promo-codes" target="_self">Everyday Value &amp; Promos</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/shop-by-color" target="_self">Shop by Color</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/recent-releases" target="_self">Recent Releases</a></li>
                                             </ul>
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Fit</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Extended-Fit/Gender-Men/_/N-1961395222+1341992444" target="_self">Extended</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Petite-Fit/Gender-Men/_/N-3589697949+1341992444" target="_self">Slim</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Universal-Bridge-Fit/Gender-Men/_/N-412394632+1341992444" target="_self">Universal</a>
-                                                </li>
-                                                <p class="text-bold">Collections</p>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/off-the-court-glasses" target="_self">Off the Court</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/kittle-glasses-collection" target="_self">Kittles</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/eyewear-collections" target="_self">Shop All Collections</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Fit</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Extended-Fit/Gender-Men/_/N-1961395222+1341992444" target="_self">Extended</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Petite-Fit/Gender-Men/_/N-3589697949+1341992444" target="_self">Slim</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Universal-Bridge-Fit/Gender-Men/_/N-412394632+1341992444" target="_self">Universal</a></li>
+
                                             </ul>
                                         </div>
                                     </div>
-                                    <a class="menu-overlay-background-image visible-md visible-lg absolute right bottom men" tabindex="-1" data-width="225" data-height="221" aria-label="Men" href="" target="_self"></a>
+                                    <a class="menu-overlay-background-image visible-md visible-lg absolute right bottom men" tabindex="-1" data-width="225" data-height="221" aria-label="Men" href="" target="_self" style="width: 225px; height: 221px;"></a>
                                 </div>
                             </li>
-                            <li class="dropdown menu-left padding-left-0 padding-right-15-md border-bottom border-bottom-0-md animated-bg-md animated-bar"> <a class="dropdown-toggle padding-left-20 padding-right-20 border-left border-right border-white text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-title="Women's Glasses" href="/women-glasses" tabindex="4" target="_self">Women</a>
-                                <div data-width-desktop="550px" class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-40-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md">
-                                    <div class="h3 color-gray-darker margin-top-0-md margin-bottom-25-md padding-left-20 padding-right-20 padding-0-md text-capitalize"> <a class="color-gray-darker" aria-label="Women's Glasses" href="/women-glasses">Women's Glasses</a>
+                            <li class="dropdown menu-left padding-left-0 padding-right-15-md border-bottom border-bottom-0-md animated-bg-md animated-bar">
+                                <a class="dropdown-toggle padding-left-20 padding-right-20 border-left border-right border-white text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-title="Women's Glasses" href="/women-glasses" tabindex="4" target="_self">Women</a>
+                                <div data-width-desktop="550px" class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-40-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md" style="width: 550px;">
+                                    <div class="h3 color-gray-darker margin-top-0-md margin-bottom-25-md padding-left-20 padding-right-20 padding-0-md text-capitalize">
+                                        <a class="color-gray-darker" aria-label="Women's Glasses" href="/women-glasses">Women's Glasses</a>
                                     </div>
                                     <div class="menu-dd-links visible-md-table font-small width-70p-md">
                                         <div class="visible-md-table-row">
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Glasses</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-women-glasses/_/N-1821057837" target="_self">Shop All Glasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/affordable-sunglasses-trends?category=women" target="_self">Sunglasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/women-glasses-best-seller" target="_self">Best Sellers</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/women-glasses-new-arrivals" target="_self">New Arrivals</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses/Full-Rim-Plastic-and-Acetate?Gender=Women" target="_self">Zenni Frame Finder™</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/protective-goggles-glasses" target="_self">Protective Goggles</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Glasses</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Winter Sale</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Shop All Glasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Sunglasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Best Sellers</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">New Arrivals</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Zenni Frame Finder™</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Protective Goggles</a></li>
                                                 <p class="text-bold">Accessories</p>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/accessories" target="_self">Shop All Accessories</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/p/gift-certificate/prod20001?skuId=sku20011" target="_self">E-Gift Cards</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Shop All Accessories</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">E-Gift Cards</a></li>
                                             </ul>
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Featured</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses-shop-by-style?gender=women" target="_self">Shop by Frame Shape</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/glasses-for-face-shape-female" target="_self">Shop By Face Shape</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/discounts-promo-codes" target="_self">Everyday Value & Promos</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/shop-by-color" target="_self">Shop By Color</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/style-shops" target="_self">Style Shops</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/recent-releases" target="_self">Recent Releases</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Featured</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Shop by Frame Shape</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Shop By Face Shape</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Everyday Value &amp; Promos</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Shop By Color</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Style Shops</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="#" target="_self">Recent Releases</a></li>
                                             </ul>
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Fit</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Petite-Fit/Gender-Women/_/N-3589697949+1821057837" target="_self">Petite</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Universal-Bridge-Fit/Gender-Women/_/N-412394632+1821057837" target="_self">Universal</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Fit</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Petite-Fit/Gender-Women/_/N-3589697949+1821057837" target="_self">Petite</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/Feature-Universal-Bridge-Fit/Gender-Women/_/N-412394632+1821057837" target="_self">Universal</a></li>
                                                 <p class="text-bold">Collections</p>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/eyewear-collections" target="_self">Shop All Collections</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/cynthia-rowley-glasses" target="_self">Cynthia Rowley</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/rashida-jones-glasses" target="_self">Rashida's Picks</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/kittle-glasses-collection" target="_self">Kittles</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/eyewear-collections" target="_self">Shop All Collections</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/cynthia-rowley-glasses" target="_self">Cynthia Rowley</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/rashida-jones-glasses" target="_self">Rashida's Picks</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/kittle-glasses-collection" target="_self">Kittles</a></li>
                                             </ul>
                                         </div>
                                     </div>
-                                    <a class="menu-overlay-background-image visible-md visible-lg absolute right bottom women" tabindex="-1" data-width="225" data-height="221" aria-label="Women" href="" target="_self"></a>
+                                    <a class="menu-overlay-background-image visible-md visible-lg absolute right bottom women" tabindex="-1" data-width="225" data-height="221" aria-label="Women" href="" target="_self" style="width: 225px; height: 221px;"></a>
                                 </div>
                             </li>
-                            <li class="dropdown menu-left padding-left-0 padding-right-15-md border-bottom border-bottom-0-md animated-bg-md animated-bar"> <a class="dropdown-toggle padding-left-20 padding-right-20 border-left border-right border-white text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-title="Kids' Glasses" href="/kids-glasses" tabindex="6" target="_self">Kids</a>
-                                <div data-width-desktop="500px" class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-40-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md">
-                                    <div class="h3 color-gray-darker margin-top-0-md margin-bottom-25-md padding-left-20 padding-right-20 padding-0-md text-capitalize"> <a class="color-gray-darker" aria-label="Kids' Glasses" href="/kids-glasses">Kids' Glasses</a>
+                            <li class="dropdown menu-left padding-left-0 padding-right-15-md border-bottom border-bottom-0-md animated-bg-md animated-bar">
+                                <a class="dropdown-toggle padding-left-20 padding-right-20 border-left border-right border-white text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-title="Kids' Glasses" href="/kids-glasses" tabindex="6" target="_self">Kids</a>
+                                <div data-width-desktop="500px" class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-40-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md" style="width: 500px;">
+                                    <div class="h3 color-gray-darker margin-top-0-md margin-bottom-25-md padding-left-20 padding-right-20 padding-0-md text-capitalize">
+                                        <a class="color-gray-darker" aria-label="Kids' Glasses" href="/kids-glasses">Kids' Glasses</a>
                                     </div>
                                     <div class="menu-dd-links visible-md-table font-small width-70p-md">
                                         <div class="visible-md-table-row">
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Boys</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-kids-glasses/Gender-Boy/_/N-99844780" target="_self">Shop All Glasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/little-boys-glasses" target="_self">Little Kids</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/pre-teen-boys-glasses" target="_self">Pre-Teens</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/teen-guys-glasses" target="_self">Teens</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Boys</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-kids-glasses/Gender-Boy/_/N-99844780" target="_self">Shop All Glasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/little-boys-glasses" target="_self">Little Kids</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/pre-teen-boys-glasses" target="_self">Pre-Teens</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/teen-guys-glasses" target="_self">Teens</a></li>
                                             </ul>
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Featured</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/coco-and-breezy" target="_self">Coco + Breezy</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/affordable-sunglasses-trends?category=kids" target="_self">Sunglasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-kids-glasses?Ns=sku.isNew%7C1" target="_self">New Arrivals</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/kids-flexible-glasses" target="_self">Kids’ Flexible Glasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/glasses-under-20/Gender-Boy/Gender-Girl/_/N-99844780+1329621978?sizeOrder=1234510000" target="_self">Under $20</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Featured</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/coco-and-breezy" target="_self">Coco + Breezy</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/affordable-sunglasses-trends?category=kids" target="_self">Sunglasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-kids-glasses?Ns=sku.isNew%7C1" target="_self">New Arrivals</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/kids-flexible-glasses" target="_self">Kids’ Flexible Glasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/glasses-under-20/Gender-Boy/Gender-Girl/_/N-99844780+1329621978?sizeOrder=1234510000" target="_self">Under $20</a></li>
                                             </ul>
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-35-md">
-                                                <li class="margin-bottom-10-md">
-                                                    <p class="text-bold">Girls</p>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-kids-glasses/Gender-Girl/_/N-1329621978" target="_self">Shop All Glasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/little-girls-glasses" target="_self">Little Kids</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/pre-teen-girls-glasses" target="_self">Pre-Teens</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/teen-girls-glasses" target="_self">Teens</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"> <p class="text-bold">Girls</p> </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/all-kids-glasses/Gender-Girl/_/N-1329621978" target="_self">Shop All Glasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/little-girls-glasses" target="_self">Little Kids</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/pre-teen-girls-glasses" target="_self">Pre-Teens</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/b/teen-girls-glasses" target="_self">Teens</a></li>
                                             </ul>
                                         </div>
                                     </div>
-                                    <a class="menu-overlay-background-image visible-md visible-lg absolute right bottom kids" tabindex="-1" data-width="225" data-height="221" aria-label="Kids" href="" target="_self"></a>
+                                    <a class="menu-overlay-background-image visible-md visible-lg absolute right bottom kids" tabindex="-1" data-width="225" data-height="221" aria-label="Kids" href="" target="_self" style="width: 225px; height: 221px;"></a>
                                 </div>
                             </li>
                             <li class="dropdown menu-left padding-left-0 padding-right-15-md border-bottom border-bottom-0-md animated-bg-md animated-bar line-height-10"><a class="dropdown-toggle padding-left-20 padding-right-20 border-left border-right border-white text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/blokz-blue-light-glasses" tabindex="7">Blokz<sup>®</sup>
                                 <div class="block-blue-light font-smallest line-height-10 text-capitalize absolute-md color-primary">Block Blue Light</div></a>
-                                <div class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-50-md margin-top-20-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md" data-width-desktop="320px" style="width: auto; display: none;">
-                                    <div class="color-gray-darker h3 margin-top-0-md margin-bottom-0-md padding-0 visible-md-block visible-lg-block text-capitalize hide"><a class="color-gray-darker hide" href="/dev/html/pages/page-featured.html">Learn</a>
-                                    </div>
+                                <div class="dropdown-menu menu-mega-dropdown padding-30-md padding-top-50-md margin-top-20-md bg-gray-lightest border-top-0 padding-bottom-0-md padding-right-0-md" data-width-desktop="320px" style="width: 320px; display: none;">
+                                    <div class="color-gray-darker h3 margin-top-0-md margin-bottom-0-md padding-0 visible-md-block visible-lg-block text-capitalize hide"><a class="color-gray-darker hide" href="/dev/html/pages/page-featured.html">Learn</a></div>
                                     <div class="menu-dd-links visible-md-table font-small width-60p-md">
                                         <div class="visible-md-table-row">
                                             <ul class="visible-md-table-cell list-unstyled padding-0 vertical-align-top padding-bottom-20-md padding-right-20-md">
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/gaming-glasses">Blokz<sup>®</sup> for Gamers</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/blokz-blue-light-glasses">Benefits Of Blue Light Glasses</a>
-                                                </li>
-                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/blokz-quiz">Blue Light Quiz</a>
-                                                </li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/gaming-glasses">Blokz<sup>®</sup> for Gamers</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/blokz-blue-light-glasses">Benefits Of Blue Light Glasses</a></li>
+                                                <li class="margin-bottom-10-md"><a class="font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-top-15 padding-bottom-15 text-capitalize" href="/blokz-quiz">Blue Light Quiz</a></li>
                                                 <li class="margin-bottom-10-md">
-                                                    <figure class="margin-top-25 margin-bottom-20 padding-left-20 padding-left-0-sm" style="width:250px">
-                                                        <img class="img-responsive" src="//static.zennioptical.com/marketing/campaign/blokz/Blokz_By_Zenni_Register_Logo_RGB.png" alt="Blokz">
-                                                    </figure>
+                                                    <figure class="margin-top-25 margin-bottom-20 padding-left-20 padding-left-0-sm" style="width:250px"><img class="img-responsive" src="//static.zennioptical.com/marketing/campaign/blokz/Blokz_By_Zenni_Register_Logo_RGB.png" alt="Blokz"></figure>
                                                 </li>
                                             </ul>
                                         </div>
@@ -279,104 +203,143 @@ in</a><span class="visible-xs-inline-block visible-sm-inline-block padding-left-
                 </div>
                 <div class="col-xs-6 col-md-5 col-lg-4 nav-right padding-right-0">
                     <div id="nav-account" class="nav-account pull-right-md">
-                        <ul class="list-unstyled margin-0 clearfix">
-                            <li id="login-large" class="dropdown menu-right border-bottom animated-bar animated-bg-md border-bottom-none-md hidden-xs hidden-sm" data-nav="loginLarge">
-                                <a href="#" onclick="return false;" class="dropdown-toggle show" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="login-link" aria-label="My Account" tabindex="11"> <span class="visible-xs-inline-block visible-sm-inline-block font-black font-small">MY ACCOUNT</span>
-                                    <i class="fa fa-user hidden-xs hidden-sm" id="login-fa"></i>
-                                    <p class="visible-md visible-lg sub-text">Login</p> <sup class="ui-tracking-flag absolute-sm"><i class="fas fa-bell font-small color-warning"></i></sup>
-                                </a>
-                            </li>
-                            <li class="nav-help dropdown menu-right animated-bar animated-bg-md border-bottom border-bottom-none-md hidden-xs hidden-sm" data-nav="help"><a class="dropdown-toggle show" id="nav-link" href="javascript:void(0)" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" tabindex="12"><i class="fas fa-question-circle visible-md visible-lg"></i> <p class="sub-text">Help</p></a>
-                                <div id="help-box" class="dropdown-menu border-left border-bottom border-top-0 border-right-0 margin-top-0 padding-0 bg-gray-lightest clearfix"> <a href="/myAccount/myOrders" class="show padding-top-35-md padding-left-30-md padding-right-30-md margin-bottom-15 font-regular padding-left-20 padding-right-20"><i class="fas fa-truck font-medium"></i> <span class="margin-right-2">Track My Order</span><sup class="ui-tracking-flag"><i class="fas fa-bell font-small color-warning"></i></sup></a>
-                                    <a href="/c/faq" class="show font-regular telephone padding-left-30-md padding-right-30-md margin-bottom-15 padding-left-20 padding-right-20">FAQ</a>
-                                    <a href="/c/how-to" class="show text-capitalize padding-left-30-md padding-right-30-md font-regular margin-bottom-15 padding-left-20 padding-right-20">How to's</a>
-                                    <a href="/measuring-pd-infographic" class="show padding-left-30-md padding-right-30-md font-regular margin-bottom-15 padding-left-20 padding-right-20"> <span class="show-md text-capitalize font-regular margin-bottom-15 padding-right-5">Measure Your Pupillary</span><span class="show-md text-capitalize font-regular margin-bottom-15 padding-right-20">Distance(PD)</span>
-                                    </a>
-                                    <div class="padding-left-30-md padding-right-30-md padding-left-20 padding-right-20 padding-bottom-15 padding-top-15 bg-primary border-top text-center"> <a href="https://help.zennioptical.com/hc/en-us" target="_blank" class="link-hover-white show font-medium text-uppercase color-white">Help Center <i class="fas fa-angle-right"></i></a>
+                        <ul class="list-unstyled margin-0 clearfix"><li id="login-large" class="dropdown menu-right border-bottom animated-bar animated-bg-md border-bottom-none-md hidden-xs hidden-sm" data-nav="loginLarge">
+                            <a href="#" onclick="" class="dropdown-toggle show" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="login-link" aria-label="My Account" tabindex="11">
+                                <span class="visible-xs-inline-block visible-sm-inline-block font-black font-small">MY ACCOUNT</span>
+                                <i class="fa fa-user hidden-xs hidden-sm" id="login-fa"></i>
+                                <p class="visible-md visible-lg sub-text">Login</p>
+                                <sup class="ui-tracking-flag absolute-sm"><i class="fas fa-bell font-small color-warning"></i></sup>
+                            </a>
+                            <div id="login-box" class="dropdown-menu border-top-0 margin-top-0 padding-0 bg-gray-lightest clearfix">
+
+                                <div id="login-user-info" class="hidden login-view clearfix">
+                                    <div class="h3 padding-left-20-sm padding-left-20-xs padding-right-20-sm padding-right-20-xs text-left-xs margin-top-0-xs margin-top-0-sm margin-top-40-md margin-bottom-30 text-left color-gray-darker text-capitalize visible-md-block visible-lg-block"><a href="/myAccount/myDashBoard" class="color-gray-darker">Hello, <span class="account-user-name"></span></a></div>
+                                    <ul class="login-account-links list-unstyled margin-left-0">
+                                        <li><a href="/" class="text-capitalize show font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-bottom-30-xs padding-bottom-30-sm padding-bottom-15-md padding-left-30-md padding-right-30-md">Account overview</a></li>
+                                        <li><a href="/myAccount/myOrders" class="text-capitalize show font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-bottom-30-xs padding-bottom-30-sm padding-bottom-15-md padding-left-30-md padding-right-30-md">My orders <sup class="ui-tracking-flag"><i class="fas fa-bell font-small color-warning"></i></sup></a></li>
+                                        <li><a href="/myAccount/myFavorites" class="text-capitalize show font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-bottom-30-xs padding-bottom-30-sm padding-bottom-15-md padding-left-30-md padding-right-30-md">My Favorites</a></li>
+                                        <li><a href="/myAccount/myGiftCardBalance" class="text-capitalize show font-regular padding-left-20 padding-right-20 padding-left-0-md padding-right-0-md padding-bottom-30-xs padding-bottom-30-sm padding-bottom-15-md padding-left-30-md padding-right-30-md">Gift card balance</a></li>
+                                    </ul>
+                                    <div class="col-md-12 padding-left-15 padding-left-30-md padding-right-30-md padding-bottom-20-xs margin-bottom-30-md">
+                                        <form method="post" autocomplete="off" action="/?_DARGS=/zenni/cartridges/ZRIC_Icon/fragments/iconLogin.jsp.frmHeaderLogout" id="frmHeaderLogout" class="form-horizontal"><div style="display:none"><input name="_dyncharset" type="hidden" value="UTF-8"> </div><input name="/atg/userprofiling/ProfileFormHandler.logoutSuccessURL" type="hidden" value="/json/customerData.jsp?faceImageSequenceFramefit=&amp;faceImageSequenceDitto=&amp;dittoData=false&amp;framefitData=false" class="logoutSuccessUrl"><input name="_D:/atg/userprofiling/ProfileFormHandler.logoutSuccessURL" type="hidden" value=" "><input name="/atg/userprofiling/ProfileFormHandler.logoutErrorURL" type="hidden" value="/json/customerData.jsp?faceImageSequenceFramefit=&amp;faceImageSequenceDitto=&amp;dittoData=false&amp;framefitData=false" class="logoutSuccessUrl"><input name="_D:/atg/userprofiling/ProfileFormHandler.logoutErrorURL" type="hidden" value=" "><input name="/atg/userprofiling/ProfileFormHandler.logout" type="hidden" value="Log Out"><input name="_D:/atg/userprofiling/ProfileFormHandler.logout" type="hidden" value=" ">
+                                            <input type="submit" value="Log out" id="logout" class="logout-btn btn width-full btn-primary disabled" disabled="">
+                                            <div style="display:none"><input name="_DARGS" type="hidden" value="/zenni/cartridges/ZRIC_Icon/fragments/iconLogin.jsp.frmHeaderLogout"> </div></form>
                                     </div>
                                 </div>
-                            </li>
+                                <div id="login-dd" class=" no-login-view padding-top-30-xs padding-top-30-sm animated-bar-xs animated-bar-sm animated-bar-none-md padding-top-0-md mini-login hidden-xs hidden-sm bg-gray-lightest clearfix">
+                                    <div class="h3 col-md-12 padding-left-20-sm padding-left-15-xs padding-right-20-sm padding-right-15-xs padding-left-30-md padding-right-30-md text-left-xs margin-top-0-xs margin-top-0-sm margin-top-40-md margin-bottom-10 text-center color-gray-darker text-capitalize">
+                                        Log In to my Zenni
+                                        <i class="fa fa-close hidden-md hidden-lg"></i>
+                                    </div>
+                                    <div class="col-md-12 margin-top-20 padding-left-30-md padding-right-30-md hidden server-message">
+                                        <div class="well well-danger">
+                                            <p class="color-danger margin-bottom-0" role="alert" aria-live="assertive"><b>!</b><strong>OOPS!</strong>You have used an email and/or password that does not match our records. Please try again.</p>
+                                        </div>
+                                    </div>
+                                    <form method="post" autocomplete="on" action="/zenni/cartridges/ZRIC_Icon/fragments/?_DARGS=/zenni/cartridges/ZRIC_Icon/fragments/iconLogin.jsp.frmHeaderLogin" id="frmHeaderLogin" class="form-horizontal padding-20-sm padding-15-xs padding-0-md clearfix" novalidate=""><div style="display:none"><input name="_dyncharset" type="hidden" value="UTF-8"> </div>
+                                        <div class="col-md-12 margin-top-20 padding-left-30-md padding-right-30-md">
+                                            <input aria-errormessage="login-email-error" maxlength="60" data-parsley-required-message="Email is required. Please enter a valid email address." aria-invalid="false" type="email" required="required" name="loginEmailAddress1" data-parsley-type-message="Email is invalid. Please enter a valid email address." id="input-login-email" placeholder="Email" value="" class="form-control font-italic" aria-label="email"><input name="_D:loginEmailAddress1" type="hidden" value=" ">
+                                        </div>
+                                        <div class="col-md-12 margin-top-20 padding-left-30-md padding-right-30-md">
+                                            <input aria-errormessage="login-password-error" maxlength="14" autocomplete="off" data-parsley-required-message="Please enter a valid password." pattern="^(?=.*[0-9])(?=.*[a-zA-Z])([a-zA-Z0-9!@#$&amp;%*()-` .+,/\']+){8,14}$" aria-invalid="false" type="password" required="required" data-cb-mask="true" data-parsley-minlength="8" name="loginPassword1" id="input-login-pswd" placeholder="Password" data-parsley-pattern-message="Please enter a valid password." value="" class="form-control font-italic" data-parsley-maxlength="14" aria-label="password"><input name="_D:loginPassword1" type="hidden" value=" ">
+                                        </div>
+                                        <div class="col-md-12 margin-top-20 padding-left-30-md padding-right-30-md padding-bottom-5-md">
+                                            <input name="/atg/userprofiling/ProfileFormHandler.loginErrorURL" type="hidden" value="/json/loginErrorJson.jsp"><input name="_D:/atg/userprofiling/ProfileFormHandler.loginErrorURL" type="hidden" value=" "><input name="/atg/userprofiling/ProfileFormHandler.loginSuccessURL" type="hidden" value="/json/customerData.jsp" class="loginSuccessUrl"><input name="_D:/atg/userprofiling/ProfileFormHandler.loginSuccessURL" type="hidden" value=" "><input name="/atg/userprofiling/ProfileFormHandler.login" type="hidden" value="Log In"><input name="_D:/atg/userprofiling/ProfileFormHandler.login" type="hidden" value=" ">
+                                            <input type="submit" value="Log In" id="popup_login" class="login-btn btn width-full btn-primary">
+                                        </div>
+                                        <div class="col-md-12 margin-top-0 padding-left-30-md padding-right-30-md padding-bottom-30-md clearfix">
+                                            <label class="checkbox-inline pull-left padding-top-0 color-gray-dark text-capitalize">
+                                                <input name="/atg/userprofiling/ProfileFormHandler.rememberMe" checked="checked" type="checkbox" class="remember-pswd" value="true" aria-label="Remember me" data-parsley-multiple="/atg/userprofiling/ProfileFormHandlerrememberMe"><input name="_D:/atg/userprofiling/ProfileFormHandler.rememberMe" type="hidden" value=" ">Remember me
+                                            </label>
+                                            <a href="/forgotPwd" class="font-italic pull-right text-capitalize margin-top-15">
+                                                Forgot your password?
+                                            </a>
+                                        </div>
+                                        <input name="crossSiteUserOrderId" id="cross-site-user-order-id" type="hidden" value=""><input name="_D:crossSiteUserOrderId" type="hidden" value=" "><input name="crossSiteUserProfileId" id="cross-site-user-profile-id" type="hidden" value=""><input name="_D:crossSiteUserProfileId" type="hidden" value=" "><input name="crossSiteUserCopyData" id="cross-site-user-copy-data" type="hidden" value="0"><input name="_D:crossSiteUserCopyData" type="hidden" value=" "><div style="display:none"><input name="_DARGS" type="hidden" value="/zenni/cartridges/ZRIC_Icon/fragments/iconLogin.jsp.frmHeaderLogin"> </div></form>
+                                    <div class="col-md-12 padding-20 padding-top-30-md padding-bottom-30-md border-top padding-left-20-md padding-right-20-md bg-gray-light clearfix">
+                                        <div class="h6 font-black text-uppercase margin-0 margin-bottom-10 color-gray-darker margin-top-10">
+                                            New to Zenni? Sign up Now!
+                                        </div>
+                                        <a href="/login?tab=createaccount" class="text-capitalize">
+                                            Create New Account
+                                        </a>
+                                    </div>
+                                </div></div>
+                        </li><li class="nav-help dropdown menu-right animated-bar animated-bg-md border-bottom border-bottom-none-md hidden-xs hidden-sm" data-nav="help"><a class="dropdown-toggle show" id="nav-link" href="javascript:void(0)" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" tabindex="12"><i class="fas fa-question-circle visible-md visible-lg"></i> <p class="sub-text">Help</p></a>
+                            <div id="help-box" class="dropdown-menu border-left border-bottom border-top-0 border-right-0 margin-top-0 padding-0 bg-gray-lightest clearfix">
+                                <a href="/myAccount/myOrders" class="show padding-top-35-md padding-left-30-md padding-right-30-md margin-bottom-15 font-regular padding-left-20 padding-right-20"><i class="fas fa-truck font-medium"></i> <span class="margin-right-2">Track My Order</span><sup class="ui-tracking-flag"><i class="fas fa-bell font-small color-warning"></i></sup></a>
+                                <a href="/c/faq" class="show font-regular telephone padding-left-30-md padding-right-30-md margin-bottom-15 padding-left-20 padding-right-20">FAQ</a>
+                                <a href="/c/how-to" class="show text-capitalize padding-left-30-md padding-right-30-md font-regular margin-bottom-15 padding-left-20 padding-right-20">How to's</a>
+                                <a href="/measuring-pd-infographic" class="show padding-left-30-md padding-right-30-md font-regular margin-bottom-15 padding-left-20 padding-right-20"> <span class="show-md text-capitalize font-regular margin-bottom-15 padding-right-5">Measure Your Pupillary</span><span class="show-md text-capitalize font-regular margin-bottom-15 padding-right-20">Distance(PD)</span></a>
+                                <div class="padding-left-30-md padding-right-30-md padding-left-20 padding-right-20 padding-bottom-15 padding-top-15 bg-primary border-top text-center">
+                                    <a href="https://help.zennioptical.com/hc/en-us" target="_blank" class="link-hover-white show font-medium text-uppercase color-white">Help Center <i class="fas fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </li>
+
+
                         </ul>
                     </div>
                     <div id="nav-shopping" class="nav-shopping pull-right">
                         <ul class="list-unstyled margin-0 clearfix">
-                            <li class="nav-search menu-right animated-bar animated-bg-md" data-nav="search">
-                                <a class="dropdown-toggle show" href="#" onclick="return false;" aria-label="Site Search" tabindex="8"> <i class="fa fa-search"></i>
-                                    <p class="visible-md visible-lg sub-text">Search</p>
-                                </a>
-                            </li>
-                            <li class="nav-fav menu-right animated-bar-md animated-bg-md" data-nav="fav"><a class="show" href="#" aria-label="My Favorite" tabindex="9"><i class="fa fa-heart-o"></i><span class="count font-smaller font-small-sm"></span>
-                                <p class="visible-md visible-lg sub-text">Favorites</p>
-                            </a>
-                            </li>
                             <li class="nav-cart menu-right animated-bar-md animated-bg-md" data-nav="cart"><a href="/shoppingCart" class="dropdown-toggle show" aria-label="Shopping Cart" tabindex="10"><i class="fa fa-shopping-cart"></i><span class="count font-smaller font-small-sm"></span>
                                 <p class="visible-md visible-lg sub-text">Cart</p>
-                            </a>
-                            </li>
+                            </a></li>
                         </ul>
                     </div>
-                    <section id="comp-quickstart" class="comp-quickstart">
-                        <nav class="margin-0 clearfix">
-                            <div class="width-full-sm pull-right quickstart bg-primary">
-                                <div class="btn btn-default width-full border-0 padding-left-40 padding-right-40 padding-top-10 padding-bottom-10 padding-left-15-xs padding-right-15-xs padding-right-25-sm padding-left-25-sm quickstart-head">
-                                    <div> <span class="quickstart-txt margin-left-md-0 slide-in-left margin-left-0" tabindex="0">QUICK START GUIDE</span>
-                                        <span class="fa fa-angle-down padding-left-2 padding-right-15-xs quick-icon slide-in-left slide-in-top active"></span>
-                                    </div> <span tabindex="-1" class="fa fa-remove padding-left-2 pull-right quick-close slide-in-top slide-in-left"></span>
-                                </div>
-                                <div class="width-full-xs pull-right padding-top-0 margin-top-0 border-top bg-white border-left border-bottom quickstart-open hidden border-top-0-xs">
-                                    <div class="h4 g1-bold margin-0 color-gray-darker border-bottom padding-left-40 padding-right-40 padding-top-15 padding-bottom-15">It's easy to get started!</div>
-                                    <ul class="list-unstyled padding-left-40 padding-right-40 padding-top-15 padding-bottom-15 margin-0">
-                                        <li class="padding-bottom-30">
-                                            <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">1</span>KNOW YOUR PD</div>
-                                            <div class="color-gray-dark font-regular">We need your PD (pupillary distance) to make your glasses. If you don’t have it already, check out our DIY <a href="/measuring-pd-infographic">How to Measure Your PD</a> video.</div>
-                                        </li>
-                                        <li class="padding-bottom-30">
-                                            <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">2</span>VIRTUAL TRY-ON</div>
-                                            <div class="color-gray-dark font-regular">See exactly how any frame will look and fit on your face with our 180-degree <a href="/tryon">Virtual Try-On</a> tool.</div>
-                                        </li>
-                                        <li class="padding-bottom-30">
-                                            <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">3</span>FIND A PAIR YOU'LL LOVE</div>
-                                            <div class="color-gray-dark font-regular">Browse our <a href="#">Men</a>, <a href="#">Women</a>, <a href="/kids-glasses">Kids</a>, or <a href="/featured-glasses">Featured</a> pages and use our handy filters to narrow down your search. All glasses include FREE anti-scratch coating, single vision lens, UV protection, hard case, and cleaning cloth.</div>
-                                        </li>
-                                        <li>
-                                            <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">4</span>HAVE YOUR PRESCRIPTION READY</div>
-                                            <div class="color-gray-dark font-regular">You'll need to type in your prescription to complete your order, so have it handy. Need help reading your prescription? Check our <a href="/c/faq">FAQ</a>.</div>
-                                        </li>
-                                    </ul>
-                                    <div class="color-gray-dark border-top padding-left-40 padding-right-40 padding-top-15 padding-bottom-15">
-                                        <div class="font-bold">NEED HELP?</div>
-                                        <div class="font-regular">Call Us at (800) 211-2105
-                                            <br>Every Day 5am - 9pm(PT)</div>
-                                    </div>
-                                    <div class="color-gray-dark border-top padding-left-40 padding-right-40 padding-top-15 padding-bottom-15"> <a href="https://help.zennioptical.com/hc/en-us" target="_blank" class="font-bold">HELP CENTER</a>
-                                    </div>
-                                    <div class="color-gray-dark border-top padding-left-40 padding-right-40 padding-top-15 padding-bottom-15"><a href="/c/faq" class="font-bold">FREQUENTLY ASKED QUESTIONS</a>
-                                        <br><a href="#" class="font-bold">INFOGRAPHICS</a>
-                                        <br><a href="#" class="font-bold">HOW TO VIDEOS</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </nav>
-                    </section>
-
                 </div>
+
             </nav>
-            <div class="nav-site-search absolute clearfix" id="nav-site-search">
+            <div class="nav-site-search clearfix navbar-fixed-top navbar-fixed-top-mobile" id="nav-site-search">
                 <table summary="Global search" class="table">
-                    <tr>
-                        <td class="visible-xs add-on search-mobile"><span class="color-primary fa fa-search input-group-addon" id="search-mobile"></span>
-                        </td>
+                    <tbody><tr>
+                        <td class="visible-xs add-on search-mobile"><span class="color-primary fa fa-search input-group-addon" id="search-mobile"></span></td>
                         <td class="relative">
                             <input type="search" aria-label="Search For" class="form-control padding-left-0-xs" placeholder="SEARCH FOR..." aria-describedby="site-search" data-rfkid="rfkid_6">
                         </td>
-                        <td class="btn-cross-btn hidden" id="clear-text-search" tabindex="0" aria-label="cancel search"><i class="fas fa-times-circle absolute"></i>
-                        </td>
-                        <td class="add-on"><span class="input-group-addon hidden-xs" id="site-search" tabindex="0">GO</span><span class="color-primary input-group-addon visible-xs" id="cancel-mobile">Cancel</span>
-                        </td>
+                        <td class="btn-cross-btn hidden" id="clear-text-search" tabindex="0" aria-label="cancel search"><i class="fas fa-times-circle absolute"></i></td>
+                        <td class="add-on"><span class="input-group-addon hidden-xs" id="site-search" tabindex="0">GO</span><span class="color-primary input-group-addon visible-xs" id="cancel-mobile">Cancel</span></td>
                     </tr>
-                </table>
+                    </tbody></table>
             </div>
-        </header>
+        </header><section id="comp-quickstart" class="comp-quickstart navbar-fixed-top" style="">
+        <nav class="margin-0 clearfix">
+            <div class="width-full-sm pull-right quickstart bg-primary">
+                <div class="btn btn-default width-full border-0 padding-left-40 padding-right-40 padding-top-10 padding-bottom-10 padding-left-15-xs padding-right-15-xs padding-right-25-sm padding-left-25-sm quickstart-head">
+                    <div>
+                        <span class="quickstart-txt margin-left-md-0 slide-in-left margin-left-0" tabindex="0">QUICK START GUIDE</span>
+                        <span class="fa fa-angle-down padding-left-2 padding-right-15-xs quick-icon slide-in-left slide-in-top active"></span>
+                    </div>
+                    <span tabindex="-1" class="fa fa-remove padding-left-2 pull-right quick-close slide-in-top slide-in-left"></span>
+                </div>
+                <div class="width-full-xs pull-right padding-top-0 margin-top-0 border-top bg-white border-left border-bottom quickstart-open hidden border-top-0-xs quickstart-scroll" style="overflow: auto; height: 711px;">
+                    <div class="h4 g1-bold margin-0 color-gray-darker border-bottom padding-left-40 padding-right-40 padding-top-15 padding-bottom-15">It's easy to get started!</div><ul class="list-unstyled padding-left-40 padding-right-40 padding-top-15 padding-bottom-15 margin-0">
+                    <li class="padding-bottom-30">
+                        <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">1</span>KNOW YOUR PD</div>
+                        <div class="color-gray-dark font-regular">We need your PD (pupillary distance) to make your glasses. If you don’t have it already, check out our DIY <a href="/measuring-pd-infographic">How to Measure Your PD</a> video.</div>
+                    </li>
+                    <li class="padding-bottom-30">
+                        <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">2</span>VIRTUAL TRY-ON</div>
+                        <div class="color-gray-dark font-regular">See exactly how any frame will look and fit on your face with our 180-degree <a href="/tryon">Virtual Try-On</a> tool.</div>
+                    </li>
+                    <li class="padding-bottom-30">
+                        <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">3</span>FIND A PAIR YOU'LL LOVE</div>
+                        <div class="color-gray-dark font-regular">Browse our <a href="/men-glasses">Men</a>, <a href="/women-glasses">Women</a>, <a href="/kids-glasses">Kids</a>, or <a href="/featured-glasses">Featured</a> pages and use our handy filters to narrow down your search. All glasses include FREE anti-scratch coating, single vision lens, UV protection, hard case, and cleaning cloth.</div>
+                    </li>
+                    <li>
+                        <div class="color-gray-darker font-black padding-bottom-15"><span class="color-primary padding-right-5">4</span>HAVE YOUR PRESCRIPTION READY</div>
+                        <div class="color-gray-dark font-regular">You'll need to type in your prescription to complete your order, so have it handy. Need help reading your prescription? Check our <a href="/c/faq">FAQ</a>.</div>
+                    </li>
+                </ul><div class="color-gray-dark border-top padding-left-40 padding-right-40 padding-top-15 padding-bottom-15">
+                    <div class="font-bold">NEED HELP?</div>
+                    <div class="font-regular">Call Us at (800) 211-2105
+                        <br>Every Day 5am - 9pm(PT) </div>
+                </div><div class="color-gray-dark border-top padding-left-40 padding-right-40 padding-top-15 padding-bottom-15">
+                    <a href="https://help.zennioptical.com/hc/en-us" target="_blank" class="font-bold">HELP CENTER</a>
+                </div><div class="color-gray-dark border-top padding-left-40 padding-right-40 padding-top-15 padding-bottom-15"><a href="/c/faq" class="font-bold">FREQUENTLY ASKED QUESTIONS</a><br><a href="/c/infographic" class="font-bold">INFOGRAPHICS</a><br><a href="/c/how-to" class="font-bold">HOW TO VIDEOS</a> </div></div>
+            </div>
+        </nav>
+    </section>
     </div>
     <main id="main-section" class=" page-plp page-plp-standard page-plp-frame-view" data-breadcrumb="" data-back-to-top="true" data-scroll-buffer="2">
         <section class="one-tile-spot" id="comp-plp-one-tile">
@@ -409,7 +372,7 @@ in</a><span class="visible-xs-inline-block visible-sm-inline-block padding-left-
                     <div id="product-tiles-container" class="clearfix">
                         <div class="col-xs-6 col-md-4 product-item animated-hover-md border-right border-bottom relative ">
                             <div class="item-image middle-translate absolute left width-full">
-                                <a href="" style="display: flex;justify-content: center;">
+                                <a href="#" style="display: flex;justify-content: center;">
                                     <img class=" width-70p " src="img/b1.webp" >
                                 </a>
                             </div>

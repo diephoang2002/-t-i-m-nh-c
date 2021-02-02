@@ -11,15 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e754652-df72-46c2-b12d-2e44a463b07b" name="Default Changelist" comment="trangchinh">
-      <change afterPath="$PROJECT_DIR$/Style Shops.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blog2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shop By Color.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shop By Color.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/zenni1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zenni1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/zenni2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zenni2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style Shops.html" beforeDir="false" afterPath="$PROJECT_DIR$/Style Shops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/all.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new arrivals.html" beforeDir="false" afterPath="$PROJECT_DIR$/new arrivals.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -103,7 +100,8 @@
       <workItem from="1612147121020" duration="19808000" />
       <workItem from="1612174493588" duration="484000" />
       <workItem from="1612181272355" duration="1434000" />
-      <workItem from="1612182906495" duration="8727000" />
+      <workItem from="1612182906495" duration="9129000" />
+      <workItem from="1612225462727" duration="3829000" />
     </task>
     <task id="LOCAL-00001" summary="trangchinh">
       <created>1610527103851</created>
@@ -174,17 +172,5 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1612191423992" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/blog 2.html</url>
-          <line>51</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
