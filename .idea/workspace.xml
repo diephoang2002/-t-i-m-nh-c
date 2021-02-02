@@ -10,7 +10,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8e754652-df72-46c2-b12d-2e44a463b07b" name="Default Changelist" comment="trang chu" />
+=======
+    <list default="true" id="8e754652-df72-46c2-b12d-2e44a463b07b" name="Default Changelist" comment="trangchinh">
+      <change afterPath="$PROJECT_DIR$/Style Shops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shop By Color.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shop By Color.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/zenni1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zenni1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/zenni2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zenni2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new arrivals.html" beforeDir="false" afterPath="$PROJECT_DIR$/new arrivals.html" afterDir="false" />
+    </list>
+>>>>>>> 399970c11edf98c239884ba92c8fe53008945d16
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +54,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai_nhom" />
+>>>>>>> 399970c11edf98c239884ba92c8fe53008945d16
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -92,11 +111,17 @@
       <workItem from="1612060090426" duration="4301000" />
       <workItem from="1612093412149" duration="1545000" />
       <workItem from="1612147121020" duration="19808000" />
+<<<<<<< HEAD
       <workItem from="1612180777782" duration="1452000" />
       <workItem from="1612182532151" duration="2589000" />
       <workItem from="1612188818409" duration="107000" />
       <workItem from="1612196838509" duration="2377000" />
       <workItem from="1612226251865" duration="775000" />
+=======
+      <workItem from="1612174493588" duration="484000" />
+      <workItem from="1612181272355" duration="1434000" />
+      <workItem from="1612182906495" duration="8727000" />
+>>>>>>> 399970c11edf98c239884ba92c8fe53008945d16
     </task>
     <task id="LOCAL-00001" summary="trangchinh">
       <created>1610527103851</created>
@@ -134,4 +159,53 @@
     <MESSAGE value="trangchinh" />
     <option name="LAST_COMMIT_MESSAGE" value="trangchinh" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="WindowStateProjectService">
+    <state x="522" y="236" key="#Notifications" timestamp="1610527246331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1610527246331" />
+    <state x="468" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610101560103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610101560103" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612062470287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612062470287" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1610526626761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1610526626761" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1612197308045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612197308045" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1610527172659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610527172659" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1610526627793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610526627793" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1612191423992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1612191423992" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/blog 2.html</url>
+          <line>51</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+>>>>>>> 399970c11edf98c239884ba92c8fe53008945d16
 </project>
